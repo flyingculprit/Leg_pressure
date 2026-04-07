@@ -24,3 +24,20 @@ dist-ssr
 *.sw?
 
 .node_modules
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+
+# Environment files
+.env
+.env.*
+!.env.example

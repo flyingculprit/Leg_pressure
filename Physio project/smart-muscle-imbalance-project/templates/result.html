@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>Prediction Result</title>
+
+<style>
+
+body {
+    font-family: Arial;
+    background: #f5f5f5;
+    text-align: center;
+}
+
+.container {
+
+    background: white;
+    padding: 30px;
+    margin-top: 80px;
+    width: 420px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+.result {
+
+    font-size: 22px;
+    color: red;
+    margin-top: 15px;
+}
+
+.confidence {
+
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.tips {
+
+    margin-top: 25px;
+    font-size: 16px;
+    color: green;
+    background: #eafbe7;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+button {
+
+    padding: 10px 20px;
+    background: green;
+    color: white;
+    border: none;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+button:hover {
+
+    background: darkgreen;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h2>Prediction Result</h2>
+
+<div class="result">
+
+Affected Muscle Group:
+<br>
+<b>{{ muscle }}</b>
+
+</div>
+
+<div class="confidence">
+
+Prediction Confidence:
+<br>
+
+<b>{{ confidence }}%</b>
+
+</div>
+
+<div class="tips">
+
+<h3>Recommended Relaxation Tips</h3>
+
+<p>
+{{ tips }}
+</p>
+
+</div>
+
+<br>
+
+<a href="/">
+<button>Try Again</button>
+</a>
+
+</div>
+
+</body>
+
+</html>

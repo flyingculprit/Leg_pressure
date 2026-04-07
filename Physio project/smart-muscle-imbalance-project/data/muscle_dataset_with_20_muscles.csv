@@ -1,0 +1,3001 @@
+Time,Left Leg (kg),Right Leg (kg),Total (kg),Status,Affected Muscle
+25/03/2026 10:00:00,50.29,47.12,97.41,Imbalance,Right Peroneus Longus
+25/03/2026 10:00:30,50.97,56.67,107.64,Imbalance,Left Tibialis Anterior
+25/03/2026 10:01:00,72.98,65.82,138.8,Imbalance,Right Gastrocnemius
+25/03/2026 10:01:30,84.54,87.77,172.31,Imbalance,Left Tibialis Anterior
+25/03/2026 10:02:00,86.78,87.07,173.85,Balanced,Balanced
+25/03/2026 10:02:30,32.3,56.86,89.16,Imbalance,Left Tensor Fasciae Latae
+25/03/2026 10:03:00,52.32,30.0,82.32,Imbalance,Right Gluteus Maximus
+25/03/2026 10:03:30,74.37,68.78,143.15,Imbalance,Right Tibialis Anterior
+25/03/2026 10:04:00,70.08,68.61,138.69,Balanced,Balanced
+25/03/2026 10:04:30,74.62,90.47,165.09,Imbalance,Left Sartorius
+25/03/2026 10:05:00,47.18,30.0,77.18,Imbalance,Right Gluteus Maximus
+25/03/2026 10:05:30,78.26,77.03,155.29,Balanced,Balanced
+25/03/2026 10:06:00,34.85,30.0,64.85,Imbalance,Right Gluteus Medius
+25/03/2026 10:06:30,44.36,50.0,94.36,Imbalance,Left Peroneus Longus
+25/03/2026 10:07:00,67.28,63.34,130.62,Imbalance,Right Peroneus Longus
+25/03/2026 10:07:30,82.27,71.5,153.77,Imbalance,Right Sartorius
+25/03/2026 10:08:00,69.38,72.5,141.88,Imbalance,Left Tibialis Anterior
+25/03/2026 10:08:30,51.3,55.79,107.09,Imbalance,Left Tibialis Anterior
+25/03/2026 10:09:00,67.4,62.5,129.9,Imbalance,Right Gastrocnemius
+25/03/2026 10:09:30,77.1,78.37,155.47,Balanced,Balanced
+25/03/2026 10:10:00,45.4,44.46,89.86,Balanced,Balanced
+25/03/2026 10:10:30,30.44,30.62,61.06,Balanced,Balanced
+25/03/2026 10:11:00,43.93,43.2,87.13,Balanced,Balanced
+25/03/2026 10:11:30,85.22,85.98,171.2,Balanced,Balanced
+25/03/2026 10:12:00,78.38,67.28,145.66,Imbalance,Right Rectus Femoris
+25/03/2026 10:12:30,63.24,74.52,137.76,Imbalance,Left Vastus Lateralis
+25/03/2026 10:13:00,31.87,53.86,85.73,Imbalance,Left Tensor Fasciae Latae
+25/03/2026 10:13:30,49.29,56.94,106.23,Imbalance,Left Rectus Femoris
+25/03/2026 10:14:00,78.39,69.16,147.55,Imbalance,Right Peroneus Longus
+25/03/2026 10:14:30,50.11,44.33,94.44,Imbalance,Right Gastrocnemius
+25/03/2026 10:15:00,55.85,54.92,110.77,Balanced,Balanced
+25/03/2026 10:15:30,62.47,55.02,117.49,Imbalance,Right Soleus
+25/03/2026 10:16:00,75.31,60.73,136.04,Imbalance,Right Sartorius
+25/03/2026 10:16:30,57.78,58.64,116.42,Balanced,Balanced
+25/03/2026 10:17:00,38.03,46.64,84.67,Imbalance,Left Rectus Femoris
+25/03/2026 10:17:30,43.28,66.23,109.51,Imbalance,Left Gluteus Maximus
+25/03/2026 10:18:00,41.24,59.32,100.56,Imbalance,Left Semimembranosus
+25/03/2026 10:18:30,76.62,55.79,132.41,Imbalance,Right Adductor Longus
+25/03/2026 10:19:00,68.46,55.71,124.17,Imbalance,Right Rectus Femoris
+25/03/2026 10:19:30,39.77,38.13,77.9,Balanced,Balanced
+25/03/2026 10:20:00,61.13,76.56,137.69,Imbalance,Left Vastus Medialis
+25/03/2026 10:20:30,78.21,95.0,173.21,Imbalance,Left Semimembranosus
+25/03/2026 10:21:00,32.31,30.0,62.31,Imbalance,Right Gluteus Minimus
+25/03/2026 10:21:30,30.31,34.81,65.12,Imbalance,Left Gastrocnemius
+25/03/2026 10:22:00,30.58,30.0,60.58,Balanced,Balanced
+25/03/2026 10:22:30,50.4,48.67,99.07,Balanced,Balanced
+25/03/2026 10:23:00,76.82,68.5,145.32,Imbalance,Right Tibialis Anterior
+25/03/2026 10:23:30,63.3,56.19,119.49,Imbalance,Right Gastrocnemius
+25/03/2026 10:24:00,42.65,44.14,86.79,Balanced,Balanced
+25/03/2026 10:24:30,71.96,95.0,166.96,Imbalance,Left Gracilis
+25/03/2026 10:25:00,73.37,52.08,125.45,Imbalance,Right Gracilis
+25/03/2026 10:25:30,56.88,34.97,91.85,Imbalance,Right Gluteus Minimus
+25/03/2026 10:26:00,55.91,71.61,127.52,Imbalance,Left Semitendinosus
+25/03/2026 10:26:30,41.83,38.2,80.03,Imbalance,Right Tibialis Anterior
+25/03/2026 10:27:00,49.8,44.56,94.36,Imbalance,Right Peroneus Longus
+25/03/2026 10:27:30,62.38,61.06,123.44,Balanced,Balanced
+25/03/2026 10:28:00,33.28,47.99,81.27,Imbalance,Left Gluteus Medius
+25/03/2026 10:28:30,36.48,30.0,66.48,Imbalance,Right Iliopsoas
+25/03/2026 10:29:00,67.96,84.83,152.79,Imbalance,Left Sartorius
+25/03/2026 10:29:30,61.12,61.2,122.32,Balanced,Balanced
+25/03/2026 10:30:00,52.28,70.66,122.94,Imbalance,Left Adductor Magnus
+25/03/2026 10:30:30,66.65,48.72,115.37,Imbalance,Right Semitendinosus
+25/03/2026 10:31:00,42.2,48.23,90.43,Imbalance,Left Soleus
+25/03/2026 10:31:30,43.42,30.0,73.42,Imbalance,Right Gluteus Maximus
+25/03/2026 10:32:00,38.38,46.92,85.3,Imbalance,Left Vastus Lateralis
+25/03/2026 10:32:30,33.4,31.8,65.2,Balanced,Balanced
+25/03/2026 10:33:00,78.72,60.6,139.32,Imbalance,Right Adductor Longus
+25/03/2026 10:33:30,57.35,44.65,102.0,Imbalance,Right Adductor Magnus
+25/03/2026 10:34:00,42.89,55.51,98.4,Imbalance,Left Semimembranosus
+25/03/2026 10:34:30,46.08,30.0,76.08,Imbalance,Right Gluteus Maximus
+25/03/2026 10:35:00,79.54,91.44,170.98,Imbalance,Left Soleus
+25/03/2026 10:35:30,70.28,63.05,133.33,Imbalance,Right Gastrocnemius
+25/03/2026 10:36:00,81.06,63.42,144.48,Imbalance,Right Semimembranosus
+25/03/2026 10:36:30,72.79,71.87,144.66,Balanced,Balanced
+25/03/2026 10:37:00,81.99,93.42,175.41,Imbalance,Left Gastrocnemius
+25/03/2026 10:37:30,56.35,73.16,129.51,Imbalance,Left Adductor Longus
+25/03/2026 10:38:00,49.05,47.4,96.45,Balanced,Balanced
+25/03/2026 10:38:30,81.13,95.0,176.13,Imbalance,Left Sartorius
+25/03/2026 10:39:00,46.79,66.24,113.03,Imbalance,Left Semimembranosus
+25/03/2026 10:39:30,70.44,68.64,139.08,Balanced,Balanced
+25/03/2026 10:40:00,71.88,54.47,126.35,Imbalance,Right Adductor Longus
+25/03/2026 10:40:30,78.15,57.96,136.11,Imbalance,Right Gracilis
+25/03/2026 10:41:00,82.73,91.92,174.65,Imbalance,Left Peroneus Longus
+25/03/2026 10:41:30,65.51,65.19,130.7,Balanced,Balanced
+25/03/2026 10:42:00,41.56,63.31,104.87,Imbalance,Left Tensor Fasciae Latae
+25/03/2026 10:42:30,44.08,33.84,77.92,Imbalance,Right Adductor Longus
+25/03/2026 10:43:00,83.56,92.38,175.94,Imbalance,Left Gastrocnemius
+25/03/2026 10:43:30,83.4,77.59,160.99,Imbalance,Right Tibialis Anterior
+25/03/2026 10:44:00,51.17,51.96,103.13,Balanced,Balanced
+25/03/2026 10:44:30,65.87,57.38,123.25,Imbalance,Right Soleus
+25/03/2026 10:45:00,51.37,50.61,101.98,Balanced,Balanced
+25/03/2026 10:45:30,46.77,44.87,91.64,Balanced,Balanced
+25/03/2026 10:46:00,56.39,39.07,95.46,Imbalance,Right Iliopsoas
+25/03/2026 10:46:30,73.43,72.49,145.92,Balanced,Balanced
+25/03/2026 10:47:00,73.44,58.54,131.98,Imbalance,Right Vastus Lateralis
+25/03/2026 10:47:30,37.46,36.93,74.39,Balanced,Balanced
+25/03/2026 10:48:00,31.69,33.1,64.79,Balanced,Balanced
+25/03/2026 10:48:30,53.65,38.87,92.52,Imbalance,Right Biceps Femoris
+25/03/2026 10:49:00,36.86,30.0,66.86,Imbalance,Right Iliopsoas
+25/03/2026 10:49:30,53.06,76.87,129.93,Imbalance,Left Tensor Fasciae Latae
+25/03/2026 10:50:00,68.28,68.32,136.6,Balanced,Balanced
+25/03/2026 10:50:30,57.84,61.27,119.11,Imbalance,Left Gastrocnemius
+25/03/2026 10:51:00,52.44,30.0,82.44,Imbalance,Right Iliopsoas
+25/03/2026 10:51:30,80.24,92.05,172.29,Imbalance,Left Gastrocnemius
+25/03/2026 10:52:00,48.89,49.54,98.43,Balanced,Balanced
+25/03/2026 10:52:30,57.68,72.71,130.39,Imbalance,Left Sartorius
+25/03/2026 10:53:00,57.95,53.26,111.21,Imbalance,Right Peroneus Longus
+25/03/2026 10:53:30,63.42,71.33,134.75,Imbalance,Left Soleus
+25/03/2026 10:54:00,76.54,95.0,171.54,Imbalance,Left Rectus Femoris
+25/03/2026 10:54:30,79.39,80.42,159.81,Balanced,Balanced
+25/03/2026 10:55:00,88.71,94.31,183.02,Imbalance,Left Soleus
+25/03/2026 10:55:30,37.64,30.0,67.64,Imbalance,Right Gluteus Minimus
+25/03/2026 10:56:00,67.48,61.64,129.12,Imbalance,Right Peroneus Longus
+25/03/2026 10:56:30,38.95,30.0,68.95,Imbalance,Right Gluteus Minimus
+25/03/2026 10:57:00,87.08,75.87,162.95,Imbalance,Right Peroneus Longus
+25/03/2026 10:57:30,61.63,78.18,139.81,Imbalance,Left Vastus Lateralis
+25/03/2026 10:58:00,72.89,89.19,162.08,Imbalance,Left Vastus Lateralis
+25/03/2026 10:58:30,64.24,88.28,152.52,Imbalance,Left Semitendinosus
+25/03/2026 10:59:00,59.01,58.89,117.9,Balanced,Balanced
+25/03/2026 10:59:30,38.65,38.44,77.09,Balanced,Balanced
+25/03/2026 11:00:00,56.38,55.28,111.66,Balanced,Balanced
+25/03/2026 11:00:30,85.86,74.07,159.93,Imbalance,Right Vastus Lateralis
+25/03/2026 11:01:00,73.22,71.44,144.66,Balanced,Balanced
+25/03/2026 11:01:30,41.11,31.74,72.85,Imbalance,Right Semitendinosus
+25/03/2026 11:02:00,39.28,36.18,75.46,Imbalance,Right Gastrocnemius
+25/03/2026 11:02:30,69.89,49.29,119.18,Imbalance,Right Adductor Longus
+25/03/2026 11:03:00,33.02,56.44,89.46,Imbalance,Left Tensor Fasciae Latae
+25/03/2026 11:03:30,89.02,95.0,184.02,Imbalance,Left Vastus Medialis
+25/03/2026 11:04:00,52.72,52.15,104.87,Balanced,Balanced
+25/03/2026 11:04:30,30.09,30.0,60.09,Imbalance,Right Gluteus Medius
+25/03/2026 11:05:00,74.43,95.0,169.43,Imbalance,Left Adductor Magnus
+25/03/2026 11:05:30,75.16,69.59,144.75,Imbalance,Right Peroneus Longus
+25/03/2026 11:06:00,57.43,59.28,116.71,Balanced,Balanced
+25/03/2026 11:06:30,48.81,48.97,97.78,Balanced,Balanced
+25/03/2026 11:07:00,64.61,69.67,134.28,Imbalance,Left Peroneus Longus
+25/03/2026 11:07:30,85.63,89.97,175.6,Imbalance,Left Gastrocnemius
+25/03/2026 11:08:00,48.57,38.75,87.32,Imbalance,Right Vastus Lateralis
+25/03/2026 11:08:30,40.34,30.0,70.34,Imbalance,Right Gluteus Minimus
+25/03/2026 11:09:00,55.34,56.13,111.47,Balanced,Balanced
+25/03/2026 11:09:30,42.22,41.58,83.8,Balanced,Balanced
+25/03/2026 11:10:00,88.4,95.0,183.4,Imbalance,Left Vastus Lateralis
+25/03/2026 11:10:30,51.27,75.66,126.93,Imbalance,Left Gluteus Minimus
+25/03/2026 11:11:00,30.16,30.0,60.16,Imbalance,Right Iliopsoas
+25/03/2026 11:11:30,64.2,52.75,116.95,Imbalance,Right Vastus Lateralis
+25/03/2026 11:12:00,55.53,54.99,110.52,Balanced,Balanced
+25/03/2026 11:12:30,49.95,48.64,98.59,Balanced,Balanced
+25/03/2026 11:13:00,34.07,35.33,69.4,Balanced,Balanced
+25/03/2026 11:13:30,60.64,69.95,130.59,Imbalance,Left Vastus Medialis
+25/03/2026 11:14:00,49.72,42.61,92.33,Imbalance,Right Vastus Lateralis
+25/03/2026 11:14:30,58.48,64.71,123.19,Imbalance,Left Soleus
+25/03/2026 11:15:00,46.44,33.63,80.07,Imbalance,Right Gracilis
+25/03/2026 11:15:30,88.77,95.0,183.77,Imbalance,Left Vastus Lateralis
+25/03/2026 11:16:00,72.65,87.73,160.38,Imbalance,Left Sartorius
+25/03/2026 11:16:30,82.31,95.0,177.31,Imbalance,Left Sartorius
+25/03/2026 11:17:00,74.73,56.87,131.6,Imbalance,Right Biceps Femoris
+25/03/2026 11:17:30,88.23,95.0,183.23,Imbalance,Left Vastus Lateralis
+25/03/2026 11:18:00,34.77,30.0,64.77,Imbalance,Right Adductor Magnus
+25/03/2026 11:18:30,41.92,50.19,92.11,Imbalance,Left Vastus Lateralis
+25/03/2026 11:19:00,70.12,70.65,140.77,Balanced,Balanced
+25/03/2026 11:19:30,79.41,95.0,174.41,Imbalance,Left Rectus Femoris
+25/03/2026 11:20:00,52.38,51.33,103.71,Balanced,Balanced
+25/03/2026 11:20:30,78.86,79.46,158.32,Balanced,Balanced
+25/03/2026 11:21:00,64.01,39.2,103.21,Imbalance,Right Gluteus Maximus
+25/03/2026 11:21:30,49.42,50.88,100.3,Balanced,Balanced
+25/03/2026 11:22:00,77.32,95.0,172.32,Imbalance,Left Vastus Medialis
+25/03/2026 11:22:30,81.27,67.13,148.4,Imbalance,Right Vastus Lateralis
+25/03/2026 11:23:00,40.31,30.24,70.55,Imbalance,Right Semitendinosus
+25/03/2026 11:23:30,83.52,95.0,178.52,Imbalance,Left Vastus Lateralis
+25/03/2026 11:24:00,78.66,59.64,138.3,Imbalance,Right Adductor Longus
+25/03/2026 11:24:30,37.93,38.02,75.95,Balanced,Balanced
+25/03/2026 11:25:00,36.11,37.59,73.7,Balanced,Balanced
+25/03/2026 11:25:30,75.3,51.76,127.06,Imbalance,Right Gluteus Minimus
+25/03/2026 11:26:00,75.07,87.0,162.07,Imbalance,Left Sartorius
+25/03/2026 11:26:30,65.29,65.92,131.21,Balanced,Balanced
+25/03/2026 11:27:00,39.58,38.66,78.24,Balanced,Balanced
+25/03/2026 11:27:30,51.08,49.39,100.47,Balanced,Balanced
+25/03/2026 11:28:00,62.98,82.8,145.78,Imbalance,Left Adductor Magnus
+25/03/2026 11:28:30,61.29,61.44,122.73,Balanced,Balanced
+25/03/2026 11:29:00,61.65,40.66,102.31,Imbalance,Right Gluteus Medius
+25/03/2026 11:29:30,73.37,82.04,155.41,Imbalance,Left Peroneus Longus
+25/03/2026 11:30:00,64.82,66.1,130.92,Balanced,Balanced
+25/03/2026 11:30:30,38.26,33.64,71.9,Imbalance,Right Soleus
+25/03/2026 11:31:00,70.44,53.7,124.14,Imbalance,Right Gracilis
+25/03/2026 11:31:30,86.14,95.0,181.14,Imbalance,Left Rectus Femoris
+25/03/2026 11:32:00,43.98,58.18,102.16,Imbalance,Left Gracilis
+25/03/2026 11:32:30,46.32,68.27,114.59,Imbalance,Left Tensor Fasciae Latae
+25/03/2026 11:33:00,43.85,50.27,94.12,Imbalance,Left Soleus
+25/03/2026 11:33:30,45.8,37.98,83.78,Imbalance,Right Vastus Medialis
+25/03/2026 11:34:00,80.47,95.0,175.47,Imbalance,Left Vastus Lateralis
+25/03/2026 11:34:30,84.62,60.03,144.65,Imbalance,Right Adductor Longus
+25/03/2026 11:35:00,60.01,59.09,119.1,Balanced,Balanced
+25/03/2026 11:35:30,69.88,52.59,122.47,Imbalance,Right Biceps Femoris
+25/03/2026 11:36:00,74.71,73.11,147.82,Balanced,Balanced
+25/03/2026 11:36:30,78.51,84.52,163.03,Imbalance,Left Tibialis Anterior
+25/03/2026 11:37:00,54.97,51.96,106.93,Imbalance,Right Tibialis Anterior
+25/03/2026 11:37:30,42.79,41.85,84.64,Balanced,Balanced
+25/03/2026 11:38:00,54.26,78.32,132.58,Imbalance,Left Iliopsoas
+25/03/2026 11:38:30,45.96,47.71,93.67,Balanced,Balanced
+25/03/2026 11:39:00,73.56,85.02,158.58,Imbalance,Left Vastus Medialis
+25/03/2026 11:39:30,38.42,62.48,100.9,Imbalance,Left Iliopsoas
+25/03/2026 11:40:00,74.51,61.5,136.01,Imbalance,Right Rectus Femoris
+25/03/2026 11:40:30,42.9,30.53,73.43,Imbalance,Right Adductor Longus
+25/03/2026 11:41:00,78.74,80.71,159.45,Balanced,Balanced
+25/03/2026 11:41:30,58.75,75.95,134.7,Imbalance,Left Semimembranosus
+25/03/2026 11:42:00,81.34,70.27,151.61,Imbalance,Right Sartorius
+25/03/2026 11:42:30,66.85,49.02,115.87,Imbalance,Right Biceps Femoris
+25/03/2026 11:43:00,66.95,84.31,151.26,Imbalance,Left Rectus Femoris
+25/03/2026 11:43:30,78.22,95.0,173.22,Imbalance,Left Sartorius
+25/03/2026 11:44:00,45.34,30.0,75.34,Imbalance,Right Iliopsoas
+25/03/2026 11:44:30,47.6,70.46,118.06,Imbalance,Left Tensor Fasciae Latae
+25/03/2026 11:45:00,86.58,95.0,181.58,Imbalance,Left Soleus
+25/03/2026 11:45:30,68.74,82.8,151.54,Imbalance,Left Sartorius
+25/03/2026 11:46:00,57.67,62.09,119.76,Imbalance,Left Gastrocnemius
+25/03/2026 11:46:30,53.74,53.6,107.34,Balanced,Balanced
+25/03/2026 11:47:00,63.08,38.18,101.26,Imbalance,Right Gluteus Minimus
+25/03/2026 11:47:30,59.46,54.84,114.3,Imbalance,Right Peroneus Longus
+25/03/2026 11:48:00,52.49,70.64,123.13,Imbalance,Left Biceps Femoris
+25/03/2026 11:48:30,43.63,44.18,87.81,Balanced,Balanced
+25/03/2026 11:49:00,41.7,34.08,75.78,Imbalance,Right Rectus Femoris
+25/03/2026 11:49:30,50.51,48.58,99.09,Balanced,Balanced
+25/03/2026 11:50:00,86.66,62.51,149.17,Imbalance,Right Gracilis
+25/03/2026 11:50:30,46.69,47.39,94.08,Balanced,Balanced
+25/03/2026 11:51:00,78.44,91.93,170.37,Imbalance,Left Sartorius
+25/03/2026 11:51:30,57.97,37.43,95.4,Imbalance,Right Gluteus Medius
+25/03/2026 11:52:00,41.51,41.44,82.95,Balanced,Balanced
+25/03/2026 11:52:30,85.25,89.67,174.92,Imbalance,Left Gastrocnemius
+25/03/2026 11:53:00,44.46,51.26,95.72,Imbalance,Left Rectus Femoris
+25/03/2026 11:53:30,82.58,67.03,149.61,Imbalance,Right Rectus Femoris
+25/03/2026 11:54:00,78.48,68.95,147.43,Imbalance,Right Tibialis Anterior
+25/03/2026 11:54:30,65.5,59.47,124.97,Imbalance,Right Soleus
+25/03/2026 11:55:00,68.44,62.95,131.39,Imbalance,Right Tibialis Anterior
+25/03/2026 11:55:30,86.05,95.0,181.05,Imbalance,Left Sartorius
+25/03/2026 11:56:00,58.95,81.55,140.5,Imbalance,Left Biceps Femoris
+25/03/2026 11:56:30,81.68,68.93,150.61,Imbalance,Right Sartorius
+25/03/2026 11:57:00,41.12,61.14,102.26,Imbalance,Left Tensor Fasciae Latae
+25/03/2026 11:57:30,89.45,76.94,166.39,Imbalance,Right Rectus Femoris
+25/03/2026 11:58:00,68.54,69.57,138.11,Balanced,Balanced
+25/03/2026 11:58:30,68.4,68.31,136.71,Balanced,Balanced
+25/03/2026 11:59:00,52.25,64.75,117.0,Imbalance,Left Sartorius
+25/03/2026 11:59:30,49.3,50.66,99.96,Balanced,Balanced
+25/03/2026 12:00:00,71.82,72.82,144.64,Balanced,Balanced
+25/03/2026 12:00:30,69.2,67.44,136.64,Balanced,Balanced
+25/03/2026 12:01:00,88.17,95.0,183.17,Imbalance,Left Tibialis Anterior
+25/03/2026 12:01:30,38.61,38.81,77.42,Balanced,Balanced
+25/03/2026 12:02:00,30.7,31.31,62.01,Balanced,Balanced
+25/03/2026 12:02:30,65.94,70.33,136.27,Imbalance,Left Tibialis Anterior
+25/03/2026 12:03:00,59.15,58.0,117.15,Balanced,Balanced
+25/03/2026 12:03:30,45.01,30.0,75.01,Imbalance,Right Iliopsoas
+25/03/2026 12:04:00,74.23,74.24,148.47,Balanced,Balanced
+25/03/2026 12:04:30,89.09,95.0,184.09,Imbalance,Left Sartorius
+25/03/2026 12:05:00,83.55,90.3,173.85,Imbalance,Left Soleus
+25/03/2026 12:05:30,81.6,95.0,176.6,Imbalance,Left Adductor Magnus
+25/03/2026 12:06:00,48.91,50.24,99.15,Balanced,Balanced
+25/03/2026 12:06:30,74.14,57.77,131.91,Imbalance,Right Gracilis
+25/03/2026 12:07:00,45.17,34.57,79.74,Imbalance,Right Semimembranosus
+25/03/2026 12:07:30,54.82,55.94,110.76,Balanced,Balanced
+25/03/2026 12:08:00,37.59,30.0,67.59,Imbalance,Right Iliopsoas
+25/03/2026 12:08:30,59.04,58.58,117.62,Balanced,Balanced
+25/03/2026 12:09:00,30.52,31.98,62.5,Balanced,Balanced
+25/03/2026 12:09:30,68.3,59.29,127.59,Imbalance,Right Vastus Medialis
+25/03/2026 12:10:00,60.15,58.81,118.96,Balanced,Balanced
+25/03/2026 12:10:30,70.94,70.09,141.03,Balanced,Balanced
+25/03/2026 12:11:00,30.88,52.39,83.27,Imbalance,Left Iliopsoas
+25/03/2026 12:11:30,66.01,64.25,130.26,Balanced,Balanced
+25/03/2026 12:12:00,43.62,58.83,102.45,Imbalance,Left Adductor Magnus
+25/03/2026 12:12:30,58.48,37.03,95.51,Imbalance,Right Gluteus Medius
+25/03/2026 12:13:00,89.43,70.52,159.95,Imbalance,Right Vastus Lateralis
+25/03/2026 12:13:30,40.82,30.0,70.82,Imbalance,Right Gluteus Minimus
+25/03/2026 12:14:00,32.7,30.84,63.54,Balanced,Balanced
+25/03/2026 12:14:30,79.54,61.93,141.47,Imbalance,Right Biceps Femoris
+25/03/2026 12:15:00,88.36,95.0,183.36,Imbalance,Left Peroneus Longus
+25/03/2026 12:15:30,77.9,77.67,155.57,Balanced,Balanced
+25/03/2026 12:16:00,32.92,33.56,66.48,Balanced,Balanced
+25/03/2026 12:16:30,37.59,37.51,75.1,Balanced,Balanced
+25/03/2026 12:17:00,47.65,71.39,119.04,Imbalance,Left Gluteus Minimus
+25/03/2026 12:17:30,68.57,59.23,127.8,Imbalance,Right Sartorius
+25/03/2026 12:18:00,66.72,48.93,115.65,Imbalance,Right Semitendinosus
+25/03/2026 12:18:30,82.61,83.18,165.79,Balanced,Balanced
+25/03/2026 12:19:00,34.67,30.0,64.67,Imbalance,Right Rectus Femoris
+25/03/2026 12:19:30,72.6,72.91,145.51,Balanced,Balanced
+25/03/2026 12:20:00,38.59,38.11,76.7,Balanced,Balanced
+25/03/2026 12:20:30,63.28,64.3,127.58,Balanced,Balanced
+25/03/2026 12:21:00,80.49,79.13,159.62,Balanced,Balanced
+25/03/2026 12:21:30,70.56,76.05,146.61,Imbalance,Left Soleus
+25/03/2026 12:22:00,70.08,71.23,141.31,Balanced,Balanced
+25/03/2026 12:22:30,75.23,52.99,128.22,Imbalance,Right Adductor Longus
+25/03/2026 12:23:00,51.47,61.64,113.11,Imbalance,Left Rectus Femoris
+25/03/2026 12:23:30,31.42,31.31,62.73,Balanced,Balanced
+25/03/2026 12:24:00,65.57,45.36,110.93,Imbalance,Right Gluteus Maximus
+25/03/2026 12:24:30,81.43,92.09,173.52,Imbalance,Left Gastrocnemius
+25/03/2026 12:25:00,32.05,32.99,65.04,Balanced,Balanced
+25/03/2026 12:25:30,88.88,95.0,183.88,Imbalance,Left Gastrocnemius
+25/03/2026 12:26:00,40.47,52.57,93.04,Imbalance,Left Adductor Longus
+25/03/2026 12:26:30,83.11,84.87,167.98,Balanced,Balanced
+25/03/2026 12:27:00,56.26,78.28,134.54,Imbalance,Left Adductor Magnus
+25/03/2026 12:27:30,59.98,52.0,111.98,Imbalance,Right Sartorius
+25/03/2026 12:28:00,64.71,79.66,144.37,Imbalance,Left Sartorius
+25/03/2026 12:28:30,50.88,30.0,80.88,Imbalance,Right Tensor Fasciae Latae
+25/03/2026 12:29:00,46.07,30.84,76.91,Imbalance,Right Tensor Fasciae Latae
+25/03/2026 12:29:30,70.04,88.81,158.85,Imbalance,Left Rectus Femoris
+25/03/2026 12:30:00,86.21,95.0,181.21,Imbalance,Left Gastrocnemius
+25/03/2026 12:30:30,30.23,30.22,60.45,Balanced,Balanced
+25/03/2026 12:31:00,61.33,62.99,124.32,Balanced,Balanced
+25/03/2026 12:31:30,82.64,83.81,166.45,Balanced,Balanced
+25/03/2026 12:32:00,67.3,79.62,146.92,Imbalance,Left Sartorius
+25/03/2026 12:32:30,40.38,30.0,70.38,Imbalance,Right Gluteus Minimus
+25/03/2026 12:33:00,87.48,95.0,182.48,Imbalance,Left Tibialis Anterior
+25/03/2026 12:33:30,66.41,79.51,145.92,Imbalance,Left Vastus Lateralis
+25/03/2026 12:34:00,84.54,82.76,167.3,Balanced,Balanced
+25/03/2026 12:34:30,78.34,90.01,168.35,Imbalance,Left Gastrocnemius
+25/03/2026 12:35:00,71.65,87.92,159.57,Imbalance,Left Vastus Medialis
+25/03/2026 12:35:30,57.72,35.68,93.4,Imbalance,Right Gluteus Minimus
+25/03/2026 12:36:00,62.9,81.19,144.09,Imbalance,Left Semitendinosus
+25/03/2026 12:36:30,30.83,30.0,60.83,Imbalance,Right Tibialis Anterior
+25/03/2026 12:37:00,71.36,77.38,148.74,Imbalance,Left Tibialis Anterior
+25/03/2026 12:37:30,61.69,71.52,133.21,Imbalance,Left Sartorius
+25/03/2026 12:38:00,34.2,30.0,64.2,Imbalance,Right Tensor Fasciae Latae
+25/03/2026 12:38:30,54.35,50.03,104.38,Imbalance,Right Tibialis Anterior
+25/03/2026 12:39:00,71.08,53.09,124.17,Imbalance,Right Gracilis
+25/03/2026 12:39:30,86.66,87.4,174.06,Balanced,Balanced
+25/03/2026 12:40:00,84.66,82.93,167.59,Balanced,Balanced
+25/03/2026 12:40:30,70.84,89.76,160.6,Imbalance,Left Rectus Femoris
+25/03/2026 12:41:00,63.96,69.7,133.66,Imbalance,Left Soleus
+25/03/2026 12:41:30,66.87,63.44,130.31,Imbalance,Right Soleus
+25/03/2026 12:42:00,46.52,67.08,113.6,Imbalance,Left Iliopsoas
+25/03/2026 12:42:30,50.75,31.68,82.43,Imbalance,Right Gluteus Minimus
+25/03/2026 12:43:00,51.82,35.34,87.16,Imbalance,Right Gluteus Maximus
+25/03/2026 12:43:30,44.64,64.75,109.39,Imbalance,Left Iliopsoas
+25/03/2026 12:44:00,51.98,65.03,117.01,Imbalance,Left Vastus Lateralis
+25/03/2026 12:44:30,78.86,95.0,173.86,Imbalance,Left Sartorius
+25/03/2026 12:45:00,30.3,30.0,60.3,Balanced,Balanced
+25/03/2026 12:45:30,56.72,74.01,130.73,Imbalance,Left Gracilis
+25/03/2026 12:46:00,39.39,55.81,95.2,Imbalance,Left Semimembranosus
+25/03/2026 12:46:30,73.05,57.07,130.12,Imbalance,Right Adductor Longus
+25/03/2026 12:47:00,75.66,94.79,170.45,Imbalance,Left Sartorius
+25/03/2026 12:47:30,57.78,64.19,121.97,Imbalance,Left Gastrocnemius
+25/03/2026 12:48:00,84.88,61.3,146.18,Imbalance,Right Adductor Magnus
+25/03/2026 12:48:30,80.97,82.12,163.09,Balanced,Balanced
+25/03/2026 12:49:00,46.58,42.31,88.89,Imbalance,Right Peroneus Longus
+25/03/2026 12:49:30,45.27,65.91,111.18,Imbalance,Left Gluteus Minimus
+25/03/2026 12:50:00,87.35,65.39,152.74,Imbalance,Right Adductor Longus
+25/03/2026 12:50:30,48.54,58.7,107.24,Imbalance,Left Sartorius
+25/03/2026 12:51:00,84.99,95.0,179.99,Imbalance,Left Vastus Medialis
+25/03/2026 12:51:30,63.46,46.39,109.85,Imbalance,Right Adductor Longus
+25/03/2026 12:52:00,43.51,59.29,102.8,Imbalance,Left Gracilis
+25/03/2026 12:52:30,74.89,81.14,156.03,Imbalance,Left Tibialis Anterior
+25/03/2026 12:53:00,86.81,71.93,158.74,Imbalance,Right Vastus Lateralis
+25/03/2026 12:53:30,37.27,36.14,73.41,Balanced,Balanced
+25/03/2026 12:54:00,37.93,56.03,93.96,Imbalance,Left Gluteus Maximus
+25/03/2026 12:54:30,55.02,58.76,113.78,Imbalance,Left Peroneus Longus
+25/03/2026 12:55:00,63.3,57.58,120.88,Imbalance,Right Soleus
+25/03/2026 12:55:30,70.06,53.49,123.55,Imbalance,Right Semimembranosus
+25/03/2026 12:56:00,31.37,54.65,86.02,Imbalance,Left Gluteus Minimus
+25/03/2026 12:56:30,58.54,58.88,117.42,Balanced,Balanced
+25/03/2026 12:57:00,62.73,58.31,121.04,Imbalance,Right Peroneus Longus
+25/03/2026 12:57:30,36.89,48.13,85.02,Imbalance,Left Gracilis
+25/03/2026 12:58:00,42.66,57.26,99.92,Imbalance,Left Semimembranosus
+25/03/2026 12:58:30,88.72,95.0,183.72,Imbalance,Left Gastrocnemius
+25/03/2026 12:59:00,78.49,87.18,165.67,Imbalance,Left Gastrocnemius
+25/03/2026 12:59:30,37.27,30.0,67.27,Imbalance,Right Semimembranosus
+25/03/2026 13:00:00,76.41,77.19,153.6,Balanced,Balanced
+25/03/2026 13:00:30,47.28,46.93,94.21,Balanced,Balanced
+25/03/2026 13:01:00,85.81,73.66,159.47,Imbalance,Right Rectus Femoris
+25/03/2026 13:01:30,42.44,50.49,92.93,Imbalance,Left Rectus Femoris
+25/03/2026 13:02:00,42.46,50.23,92.69,Imbalance,Left Rectus Femoris
+25/03/2026 13:02:30,60.41,69.97,130.38,Imbalance,Left Sartorius
+25/03/2026 13:03:00,75.86,55.41,131.27,Imbalance,Right Adductor Magnus
+25/03/2026 13:03:30,86.28,95.0,181.28,Imbalance,Left Rectus Femoris
+25/03/2026 13:04:00,65.7,88.14,153.84,Imbalance,Left Biceps Femoris
+25/03/2026 13:04:30,33.87,30.85,64.72,Imbalance,Right Gastrocnemius
+25/03/2026 13:05:00,43.08,58.51,101.59,Imbalance,Left Adductor Magnus
+25/03/2026 13:05:30,59.02,64.38,123.4,Imbalance,Left Tibialis Anterior
+25/03/2026 13:06:00,79.36,69.49,148.85,Imbalance,Right Peroneus Longus
+25/03/2026 13:06:30,74.46,95.0,169.46,Imbalance,Left Adductor Longus
+25/03/2026 13:07:00,64.14,83.81,147.95,Imbalance,Left Semitendinosus
+25/03/2026 13:07:30,44.37,43.75,88.12,Balanced,Balanced
+25/03/2026 13:08:00,33.3,41.97,75.27,Imbalance,Left Sartorius
+25/03/2026 13:08:30,73.9,70.36,144.26,Imbalance,Right Soleus
+25/03/2026 13:09:00,66.19,59.38,125.57,Imbalance,Right Peroneus Longus
+25/03/2026 13:09:30,63.24,85.9,149.14,Imbalance,Left Biceps Femoris
+25/03/2026 13:10:00,38.46,38.84,77.3,Balanced,Balanced
+25/03/2026 13:10:30,79.92,90.16,170.08,Imbalance,Left Gastrocnemius
+25/03/2026 13:11:00,38.52,38.18,76.7,Balanced,Balanced
+25/03/2026 13:11:30,74.89,94.84,169.73,Imbalance,Left Vastus Lateralis
+25/03/2026 13:12:00,58.28,59.55,117.83,Balanced,Balanced
+25/03/2026 13:12:30,60.31,65.03,125.34,Imbalance,Left Tibialis Anterior
+25/03/2026 13:13:00,74.82,49.98,124.8,Imbalance,Right Iliopsoas
+25/03/2026 13:13:30,56.73,76.76,133.49,Imbalance,Left Semitendinosus
+25/03/2026 13:14:00,54.77,67.16,121.93,Imbalance,Left Sartorius
+25/03/2026 13:14:30,62.64,56.28,118.92,Imbalance,Right Tibialis Anterior
+25/03/2026 13:15:00,82.03,72.9,154.93,Imbalance,Right Peroneus Longus
+25/03/2026 13:15:30,73.79,72.16,145.95,Balanced,Balanced
+25/03/2026 13:16:00,33.75,30.0,63.75,Imbalance,Right Semimembranosus
+25/03/2026 13:16:30,78.58,87.96,166.54,Imbalance,Left Gastrocnemius
+25/03/2026 13:17:00,41.77,57.36,99.13,Imbalance,Left Adductor Longus
+25/03/2026 13:17:30,76.17,72.6,148.77,Imbalance,Right Tibialis Anterior
+25/03/2026 13:18:00,36.87,47.31,84.18,Imbalance,Left Semitendinosus
+25/03/2026 13:18:30,60.48,59.23,119.71,Balanced,Balanced
+25/03/2026 13:19:00,52.46,66.56,119.02,Imbalance,Left Vastus Medialis
+25/03/2026 13:19:30,36.05,38.02,74.07,Balanced,Balanced
+25/03/2026 13:20:00,64.54,73.03,137.57,Imbalance,Left Peroneus Longus
+25/03/2026 13:20:30,50.41,55.27,105.68,Imbalance,Left Peroneus Longus
+25/03/2026 13:21:00,48.3,66.09,114.39,Imbalance,Left Adductor Longus
+25/03/2026 13:21:30,55.41,55.34,110.75,Balanced,Balanced
+25/03/2026 13:22:00,67.83,71.07,138.9,Imbalance,Left Peroneus Longus
+25/03/2026 13:22:30,78.65,65.16,143.81,Imbalance,Right Sartorius
+25/03/2026 13:23:00,52.55,51.63,104.18,Balanced,Balanced
+25/03/2026 13:23:30,88.46,82.11,170.57,Imbalance,Right Gastrocnemius
+25/03/2026 13:24:00,80.96,59.66,140.62,Imbalance,Right Semitendinosus
+25/03/2026 13:24:30,42.42,41.2,83.62,Balanced,Balanced
+25/03/2026 13:25:00,89.5,95.0,184.5,Imbalance,Left Peroneus Longus
+25/03/2026 13:25:30,76.29,94.86,171.15,Imbalance,Left Sartorius
+25/03/2026 13:26:00,77.13,78.78,155.91,Balanced,Balanced
+25/03/2026 13:26:30,50.73,67.07,117.8,Imbalance,Left Gracilis
+25/03/2026 13:27:00,36.72,40.79,77.51,Imbalance,Left Gastrocnemius
+25/03/2026 13:27:30,88.61,89.78,178.39,Balanced,Balanced
+25/03/2026 13:28:00,51.16,64.5,115.66,Imbalance,Left Rectus Femoris
+25/03/2026 13:28:30,65.05,61.55,126.6,Imbalance,Right Soleus
+25/03/2026 13:29:00,32.6,32.2,64.8,Balanced,Balanced
+25/03/2026 13:29:30,38.55,38.3,76.85,Balanced,Balanced
+25/03/2026 13:30:00,44.13,55.58,99.71,Imbalance,Left Vastus Medialis
+25/03/2026 13:30:30,30.55,51.0,81.55,Imbalance,Left Gluteus Maximus
+25/03/2026 13:31:00,38.04,30.0,68.04,Imbalance,Right Gracilis
+25/03/2026 13:31:30,31.72,30.0,61.72,Imbalance,Right Iliopsoas
+25/03/2026 13:32:00,68.55,66.78,135.33,Balanced,Balanced
+25/03/2026 13:32:30,61.3,69.72,131.02,Imbalance,Left Soleus
+25/03/2026 13:33:00,58.9,51.84,110.74,Imbalance,Right Gastrocnemius
+25/03/2026 13:33:30,74.41,86.89,161.3,Imbalance,Left Vastus Lateralis
+25/03/2026 13:34:00,75.81,70.88,146.69,Imbalance,Right Peroneus Longus
+25/03/2026 13:34:30,31.98,30.0,61.98,Imbalance,Right Iliopsoas
+25/03/2026 13:35:00,37.68,58.68,96.36,Imbalance,Left Gluteus Minimus
+25/03/2026 13:35:30,67.39,67.44,134.83,Balanced,Balanced
+25/03/2026 13:36:00,69.36,68.47,137.83,Balanced,Balanced
+25/03/2026 13:36:30,69.45,58.33,127.78,Imbalance,Right Rectus Femoris
+25/03/2026 13:37:00,77.49,53.67,131.16,Imbalance,Right Gluteus Minimus
+25/03/2026 13:37:30,81.55,58.47,140.02,Imbalance,Right Semimembranosus
+25/03/2026 13:38:00,41.82,58.32,100.14,Imbalance,Left Adductor Magnus
+25/03/2026 13:38:30,60.51,70.21,130.72,Imbalance,Left Sartorius
+25/03/2026 13:39:00,62.63,40.0,102.63,Imbalance,Right Gluteus Maximus
+25/03/2026 13:39:30,60.23,68.18,128.41,Imbalance,Left Tibialis Anterior
+25/03/2026 13:40:00,78.95,80.57,159.52,Balanced,Balanced
+25/03/2026 13:40:30,86.39,95.0,181.39,Imbalance,Left Rectus Femoris
+25/03/2026 13:41:00,45.05,36.98,82.03,Imbalance,Right Sartorius
+25/03/2026 13:41:30,53.06,53.53,106.59,Balanced,Balanced
+25/03/2026 13:42:00,85.52,85.56,171.08,Balanced,Balanced
+25/03/2026 13:42:30,70.55,63.43,133.98,Imbalance,Right Tibialis Anterior
+25/03/2026 13:43:00,59.54,69.95,129.49,Imbalance,Left Vastus Medialis
+25/03/2026 13:43:30,37.44,42.38,79.82,Imbalance,Left Soleus
+25/03/2026 13:44:00,64.38,75.32,139.7,Imbalance,Left Vastus Medialis
+25/03/2026 13:44:30,43.01,34.82,77.83,Imbalance,Right Vastus Medialis
+25/03/2026 13:45:00,72.16,49.12,121.28,Imbalance,Right Gluteus Medius
+25/03/2026 13:45:30,57.43,58.81,116.24,Balanced,Balanced
+25/03/2026 13:46:00,30.84,44.86,75.7,Imbalance,Left Gluteus Maximus
+25/03/2026 13:46:30,62.41,63.37,125.78,Balanced,Balanced
+25/03/2026 13:47:00,37.25,54.97,92.22,Imbalance,Left Gluteus Medius
+25/03/2026 13:47:30,62.46,67.24,129.7,Imbalance,Left Gastrocnemius
+25/03/2026 13:48:00,84.59,84.58,169.17,Balanced,Balanced
+25/03/2026 13:48:30,74.57,88.97,163.54,Imbalance,Left Vastus Lateralis
+25/03/2026 13:49:00,31.65,30.0,61.65,Imbalance,Right Gluteus Maximus
+25/03/2026 13:49:30,37.32,37.54,74.86,Balanced,Balanced
+25/03/2026 13:50:00,82.37,76.36,158.73,Imbalance,Right Gastrocnemius
+25/03/2026 13:50:30,75.83,75.66,151.49,Balanced,Balanced
+25/03/2026 13:51:00,34.34,45.64,79.98,Imbalance,Left Semitendinosus
+25/03/2026 13:51:30,51.44,53.24,104.68,Balanced,Balanced
+25/03/2026 13:52:00,73.09,87.23,160.32,Imbalance,Left Vastus Lateralis
+25/03/2026 13:52:30,69.58,59.69,129.27,Imbalance,Right Vastus Lateralis
+25/03/2026 13:53:00,85.99,62.54,148.53,Imbalance,Right Semitendinosus
+25/03/2026 13:53:30,86.39,72.77,159.16,Imbalance,Right Vastus Medialis
+25/03/2026 13:54:00,70.38,71.55,141.93,Balanced,Balanced
+25/03/2026 13:54:30,33.4,30.0,63.4,Imbalance,Right Gracilis
+25/03/2026 13:55:00,71.11,94.84,165.95,Imbalance,Left Semimembranosus
+25/03/2026 13:55:30,63.13,87.35,150.48,Imbalance,Left Semitendinosus
+25/03/2026 13:56:00,71.71,48.39,120.1,Imbalance,Right Gluteus Maximus
+25/03/2026 13:56:30,30.78,30.0,60.78,Imbalance,Right Gluteus Maximus
+25/03/2026 13:57:00,68.01,91.4,159.41,Imbalance,Left Semimembranosus
+25/03/2026 13:57:30,58.54,80.66,139.2,Imbalance,Left Semitendinosus
+25/03/2026 13:58:00,62.92,49.77,112.69,Imbalance,Right Rectus Femoris
+25/03/2026 13:58:30,82.07,95.0,177.07,Imbalance,Left Vastus Medialis
+25/03/2026 13:59:00,30.92,39.16,70.08,Imbalance,Left Vastus Lateralis
+25/03/2026 13:59:30,56.33,38.42,94.75,Imbalance,Right Iliopsoas
+25/03/2026 14:00:00,82.27,82.67,164.94,Balanced,Balanced
+25/03/2026 14:00:30,70.58,53.33,123.91,Imbalance,Right Gracilis
+25/03/2026 14:01:00,62.83,55.82,118.65,Imbalance,Right Gastrocnemius
+25/03/2026 14:01:30,48.04,30.0,78.04,Imbalance,Right Tensor Fasciae Latae
+25/03/2026 14:02:00,75.19,59.66,134.85,Imbalance,Right Rectus Femoris
+25/03/2026 14:02:30,87.54,90.98,178.52,Imbalance,Left Soleus
+25/03/2026 14:03:00,71.59,93.35,164.94,Imbalance,Left Adductor Longus
+25/03/2026 14:03:30,71.2,69.52,140.72,Balanced,Balanced
+25/03/2026 14:04:00,46.24,45.66,91.9,Balanced,Balanced
+25/03/2026 14:04:30,58.62,65.14,123.76,Imbalance,Left Gastrocnemius
+25/03/2026 14:05:00,59.56,59.2,118.76,Balanced,Balanced
+25/03/2026 14:05:30,72.79,80.04,152.83,Imbalance,Left Soleus
+25/03/2026 14:06:00,88.42,68.22,156.64,Imbalance,Right Biceps Femoris
+25/03/2026 14:06:30,44.89,63.51,108.4,Imbalance,Left Adductor Longus
+25/03/2026 14:07:00,59.64,61.29,120.93,Balanced,Balanced
+25/03/2026 14:07:30,72.11,72.05,144.16,Balanced,Balanced
+25/03/2026 14:08:00,53.05,53.65,106.7,Balanced,Balanced
+25/03/2026 14:08:30,80.55,82.36,162.91,Balanced,Balanced
+25/03/2026 14:09:00,58.13,57.41,115.54,Balanced,Balanced
+25/03/2026 14:09:30,30.1,30.0,60.1,Imbalance,Right Iliopsoas
+25/03/2026 14:10:00,84.25,90.95,175.2,Imbalance,Left Peroneus Longus
+25/03/2026 14:10:30,37.23,30.0,67.23,Imbalance,Right Gluteus Maximus
+25/03/2026 14:11:00,45.64,30.0,75.64,Imbalance,Right Gluteus Medius
+25/03/2026 14:11:30,55.41,41.19,96.6,Imbalance,Right Adductor Magnus
+25/03/2026 14:12:00,48.17,63.2,111.37,Imbalance,Left Semitendinosus
+25/03/2026 14:12:30,36.67,42.73,79.4,Imbalance,Left Sartorius
+25/03/2026 14:13:00,72.62,91.05,163.67,Imbalance,Left Vastus Lateralis
+25/03/2026 14:13:30,66.03,64.21,130.24,Balanced,Balanced
+25/03/2026 14:14:00,41.01,65.85,106.86,Imbalance,Left Gluteus Minimus
+25/03/2026 14:14:30,51.22,45.55,96.77,Imbalance,Right Peroneus Longus
+25/03/2026 14:15:00,58.01,77.37,135.38,Imbalance,Left Adductor Longus
+25/03/2026 14:15:30,35.58,50.11,85.69,Imbalance,Left Adductor Magnus
+25/03/2026 14:16:00,51.54,45.23,96.77,Imbalance,Right Soleus
+25/03/2026 14:16:30,64.3,47.32,111.62,Imbalance,Right Adductor Magnus
+25/03/2026 14:17:00,45.26,43.27,88.53,Balanced,Balanced
+25/03/2026 14:17:30,54.35,37.82,92.17,Imbalance,Right Biceps Femoris
+25/03/2026 14:18:00,44.65,30.0,74.65,Imbalance,Right Gluteus Maximus
+25/03/2026 14:18:30,51.01,52.16,103.17,Balanced,Balanced
+25/03/2026 14:19:00,42.49,41.61,84.1,Balanced,Balanced
+25/03/2026 14:19:30,33.31,52.47,85.78,Imbalance,Left Iliopsoas
+25/03/2026 14:20:00,88.33,95.0,183.33,Imbalance,Left Rectus Femoris
+25/03/2026 14:20:30,52.45,34.13,86.58,Imbalance,Right Gluteus Medius
+25/03/2026 14:21:00,70.29,68.31,138.6,Balanced,Balanced
+25/03/2026 14:21:30,44.44,31.66,76.1,Imbalance,Right Adductor Magnus
+25/03/2026 14:22:00,71.12,63.87,134.99,Imbalance,Right Tibialis Anterior
+25/03/2026 14:22:30,73.76,73.41,147.17,Balanced,Balanced
+25/03/2026 14:23:00,60.97,69.99,130.96,Imbalance,Left Soleus
+25/03/2026 14:23:30,41.83,35.99,77.82,Imbalance,Right Rectus Femoris
+25/03/2026 14:24:00,72.53,70.74,143.27,Balanced,Balanced
+25/03/2026 14:24:30,83.17,81.23,164.4,Balanced,Balanced
+25/03/2026 14:25:00,42.83,46.7,89.53,Imbalance,Left Gastrocnemius
+25/03/2026 14:25:30,40.44,30.0,70.44,Imbalance,Right Gluteus Minimus
+25/03/2026 14:26:00,60.73,59.23,119.96,Balanced,Balanced
+25/03/2026 14:26:30,57.73,79.02,136.75,Imbalance,Left Biceps Femoris
+25/03/2026 14:27:00,55.72,79.44,135.16,Imbalance,Left Semimembranosus
+25/03/2026 14:27:30,45.33,36.92,82.25,Imbalance,Right Vastus Lateralis
+25/03/2026 14:28:00,63.83,64.09,127.92,Balanced,Balanced
+25/03/2026 14:28:30,79.59,95.0,174.59,Imbalance,Left Semitendinosus
+25/03/2026 14:29:00,59.33,58.05,117.38,Balanced,Balanced
+25/03/2026 14:29:30,83.09,79.33,162.42,Imbalance,Right Peroneus Longus
+25/03/2026 14:30:00,79.4,83.42,162.82,Imbalance,Left Soleus
+25/03/2026 14:30:30,73.74,84.97,158.71,Imbalance,Left Rectus Femoris
+25/03/2026 14:31:00,68.84,68.45,137.29,Balanced,Balanced
+25/03/2026 14:31:30,78.45,81.78,160.23,Imbalance,Left Gastrocnemius
+25/03/2026 14:32:00,84.57,84.52,169.09,Balanced,Balanced
+25/03/2026 14:32:30,59.73,71.06,130.79,Imbalance,Left Rectus Femoris
+25/03/2026 14:33:00,79.51,91.44,170.95,Imbalance,Left Gastrocnemius
+25/03/2026 14:33:30,78.07,78.8,156.87,Balanced,Balanced
+25/03/2026 14:34:00,83.63,95.0,178.63,Imbalance,Left Vastus Lateralis
+25/03/2026 14:34:30,68.52,67.1,135.62,Balanced,Balanced
+25/03/2026 14:35:00,30.95,30.48,61.43,Balanced,Balanced
+25/03/2026 14:35:30,81.56,89.9,171.46,Imbalance,Left Tibialis Anterior
+25/03/2026 14:36:00,75.86,63.21,139.07,Imbalance,Right Rectus Femoris
+25/03/2026 14:36:30,47.18,63.39,110.57,Imbalance,Left Semitendinosus
+25/03/2026 14:37:00,38.53,39.17,77.7,Balanced,Balanced
+25/03/2026 14:37:30,34.46,55.48,89.94,Imbalance,Left Gluteus Maximus
+25/03/2026 14:38:00,45.73,46.09,91.82,Balanced,Balanced
+25/03/2026 14:38:30,56.55,57.99,114.54,Balanced,Balanced
+25/03/2026 14:39:00,82.84,71.62,154.46,Imbalance,Right Rectus Femoris
+25/03/2026 14:39:30,65.89,56.83,122.72,Imbalance,Right Sartorius
+25/03/2026 14:40:00,33.46,48.06,81.52,Imbalance,Left Adductor Longus
+25/03/2026 14:40:30,31.47,31.18,62.65,Balanced,Balanced
+25/03/2026 14:41:00,68.87,75.33,144.2,Imbalance,Left Tibialis Anterior
+25/03/2026 14:41:30,72.32,71.91,144.23,Balanced,Balanced
+25/03/2026 14:42:00,49.95,30.0,79.95,Imbalance,Right Tensor Fasciae Latae
+25/03/2026 14:42:30,50.95,33.77,84.72,Imbalance,Right Iliopsoas
+25/03/2026 14:43:00,78.67,88.64,167.31,Imbalance,Left Tibialis Anterior
+25/03/2026 14:43:30,77.7,55.19,132.89,Imbalance,Right Biceps Femoris
+25/03/2026 14:44:00,43.84,52.46,96.3,Imbalance,Left Vastus Lateralis
+25/03/2026 14:44:30,59.26,35.5,94.76,Imbalance,Right Gluteus Medius
+25/03/2026 14:45:00,77.36,95.0,172.36,Imbalance,Left Semimembranosus
+25/03/2026 14:45:30,57.82,50.14,107.96,Imbalance,Right Vastus Medialis
+25/03/2026 14:46:00,31.05,30.0,61.05,Imbalance,Right Gluteus Medius
+25/03/2026 14:46:30,57.0,78.37,135.37,Imbalance,Left Adductor Longus
+25/03/2026 14:47:00,61.44,61.13,122.57,Balanced,Balanced
+25/03/2026 14:47:30,72.81,71.24,144.05,Balanced,Balanced
+25/03/2026 14:48:00,51.71,53.3,105.01,Balanced,Balanced
+25/03/2026 14:48:30,75.44,74.5,149.94,Balanced,Balanced
+25/03/2026 14:49:00,73.51,78.24,151.75,Imbalance,Left Tibialis Anterior
+25/03/2026 14:49:30,71.32,80.44,151.76,Imbalance,Left Tibialis Anterior
+25/03/2026 14:50:00,31.54,30.0,61.54,Balanced,Balanced
+25/03/2026 14:50:30,34.0,56.54,90.54,Imbalance,Left Gluteus Medius
+25/03/2026 14:51:00,88.63,88.61,177.24,Balanced,Balanced
+25/03/2026 14:51:30,77.19,67.77,144.96,Imbalance,Right Peroneus Longus
+25/03/2026 14:52:00,44.66,57.18,101.84,Imbalance,Left Gracilis
+25/03/2026 14:52:30,89.59,79.93,169.52,Imbalance,Right Tibialis Anterior
+25/03/2026 14:53:00,42.64,54.39,97.03,Imbalance,Left Semitendinosus
+25/03/2026 14:53:30,88.14,95.0,183.14,Imbalance,Left Tibialis Anterior
+25/03/2026 14:54:00,48.33,30.0,78.33,Imbalance,Right Gluteus Minimus
+25/03/2026 14:54:30,44.42,30.0,74.42,Imbalance,Right Gluteus Minimus
+25/03/2026 14:55:00,77.7,79.7,157.4,Balanced,Balanced
+25/03/2026 14:55:30,55.89,49.92,105.81,Imbalance,Right Peroneus Longus
+25/03/2026 14:56:00,79.66,95.0,174.66,Imbalance,Left Rectus Femoris
+25/03/2026 14:56:30,44.33,43.68,88.01,Balanced,Balanced
+25/03/2026 14:57:00,53.74,46.93,100.67,Imbalance,Right Soleus
+25/03/2026 14:57:30,30.72,30.0,60.72,Imbalance,Right Gluteus Minimus
+25/03/2026 14:58:00,59.55,60.08,119.63,Balanced,Balanced
+25/03/2026 14:58:30,61.7,63.68,125.38,Balanced,Balanced
+25/03/2026 14:59:00,62.58,54.25,116.83,Imbalance,Right Vastus Lateralis
+25/03/2026 14:59:30,65.84,74.24,140.08,Imbalance,Left Peroneus Longus
+25/03/2026 15:00:00,82.88,87.18,170.06,Imbalance,Left Tibialis Anterior
+25/03/2026 15:00:30,79.36,84.78,164.14,Imbalance,Left Soleus
+25/03/2026 15:01:00,71.18,50.92,122.1,Imbalance,Right Gracilis
+25/03/2026 15:01:30,89.06,77.13,166.19,Imbalance,Right Vastus Medialis
+25/03/2026 15:02:00,52.9,52.05,104.95,Balanced,Balanced
+25/03/2026 15:02:30,85.61,86.36,171.97,Balanced,Balanced
+25/03/2026 15:03:00,86.93,92.17,179.1,Imbalance,Left Gastrocnemius
+25/03/2026 15:03:30,89.46,75.36,164.82,Imbalance,Right Vastus Lateralis
+25/03/2026 15:04:00,31.77,32.52,64.29,Balanced,Balanced
+25/03/2026 15:04:30,50.04,33.39,83.43,Imbalance,Right Gluteus Medius
+25/03/2026 15:05:00,87.92,88.78,176.7,Balanced,Balanced
+25/03/2026 15:05:30,35.47,34.74,70.21,Balanced,Balanced
+25/03/2026 15:06:00,32.47,30.0,62.47,Imbalance,Right Biceps Femoris
+25/03/2026 15:06:30,85.34,86.58,171.92,Balanced,Balanced
+25/03/2026 15:07:00,40.84,30.0,70.84,Imbalance,Right Gluteus Medius
+25/03/2026 15:07:30,33.93,34.44,68.37,Balanced,Balanced
+25/03/2026 15:08:00,83.02,66.01,149.03,Imbalance,Right Rectus Femoris
+25/03/2026 15:08:30,61.98,50.54,112.52,Imbalance,Right Vastus Lateralis
+25/03/2026 15:09:00,55.67,64.62,120.29,Imbalance,Left Vastus Medialis
+25/03/2026 15:09:30,32.28,32.68,64.96,Balanced,Balanced
+25/03/2026 15:10:00,81.41,82.92,164.33,Balanced,Balanced
+25/03/2026 15:10:30,59.29,60.86,120.15,Balanced,Balanced
+25/03/2026 15:11:00,46.72,46.59,93.31,Balanced,Balanced
+25/03/2026 15:11:30,58.26,69.24,127.5,Imbalance,Left Vastus Medialis
+25/03/2026 15:12:00,47.09,42.39,89.48,Imbalance,Right Tibialis Anterior
+25/03/2026 15:12:30,42.54,63.34,105.88,Imbalance,Left Iliopsoas
+25/03/2026 15:13:00,87.77,70.74,158.51,Imbalance,Right Sartorius
+25/03/2026 15:13:30,59.8,54.17,113.97,Imbalance,Right Soleus
+25/03/2026 15:14:00,53.65,58.64,112.29,Imbalance,Left Soleus
+25/03/2026 15:14:30,82.83,80.92,163.75,Balanced,Balanced
+25/03/2026 15:15:00,32.62,30.0,62.62,Imbalance,Right Gracilis
+25/03/2026 15:15:30,50.18,50.88,101.06,Balanced,Balanced
+25/03/2026 15:16:00,85.87,91.26,177.13,Imbalance,Left Tibialis Anterior
+25/03/2026 15:16:30,52.62,72.61,125.23,Imbalance,Left Gracilis
+25/03/2026 15:17:00,86.93,72.94,159.87,Imbalance,Right Vastus Medialis
+25/03/2026 15:17:30,31.43,30.0,61.43,Imbalance,Right Sartorius
+25/03/2026 15:18:00,49.78,47.98,97.76,Balanced,Balanced
+25/03/2026 15:18:30,89.55,89.23,178.78,Balanced,Balanced
+25/03/2026 15:19:00,59.65,60.54,120.19,Balanced,Balanced
+25/03/2026 15:19:30,70.92,80.5,151.42,Imbalance,Left Peroneus Longus
+25/03/2026 15:20:00,75.45,73.95,149.4,Balanced,Balanced
+25/03/2026 15:20:30,36.31,44.25,80.56,Imbalance,Left Vastus Lateralis
+25/03/2026 15:21:00,85.83,95.0,180.83,Imbalance,Left Sartorius
+25/03/2026 15:21:30,56.83,34.93,91.76,Imbalance,Right Gluteus Medius
+25/03/2026 15:22:00,73.43,83.56,156.99,Imbalance,Left Soleus
+25/03/2026 15:22:30,30.34,30.19,60.53,Balanced,Balanced
+25/03/2026 15:23:00,32.42,33.61,66.03,Balanced,Balanced
+25/03/2026 15:23:30,85.83,85.03,170.86,Balanced,Balanced
+25/03/2026 15:24:00,45.78,39.63,85.41,Imbalance,Right Vastus Medialis
+25/03/2026 15:24:30,34.38,30.0,64.38,Imbalance,Right Gluteus Medius
+25/03/2026 15:25:00,57.78,52.2,109.98,Imbalance,Right Gastrocnemius
+25/03/2026 15:25:30,78.49,76.91,155.4,Balanced,Balanced
+25/03/2026 15:26:00,66.29,72.58,138.87,Imbalance,Left Gastrocnemius
+25/03/2026 15:26:30,86.3,85.32,171.62,Balanced,Balanced
+25/03/2026 15:27:00,51.8,30.0,81.8,Imbalance,Right Gluteus Minimus
+25/03/2026 15:27:30,76.2,79.41,155.61,Imbalance,Left Gastrocnemius
+25/03/2026 15:28:00,82.18,95.0,177.18,Imbalance,Left Adductor Longus
+25/03/2026 15:28:30,87.81,87.03,174.84,Balanced,Balanced
+25/03/2026 15:29:00,44.27,45.0,89.27,Balanced,Balanced
+25/03/2026 15:29:30,71.24,93.58,164.82,Imbalance,Left Gracilis
+25/03/2026 15:30:00,41.95,30.0,71.95,Imbalance,Right Semitendinosus
+25/03/2026 15:30:30,79.98,81.14,161.12,Balanced,Balanced
+25/03/2026 15:31:00,83.88,84.86,168.74,Balanced,Balanced
+25/03/2026 15:31:30,45.52,44.22,89.74,Balanced,Balanced
+25/03/2026 15:32:00,72.4,60.41,132.81,Imbalance,Right Sartorius
+25/03/2026 15:32:30,33.0,33.37,66.37,Balanced,Balanced
+25/03/2026 15:33:00,80.8,95.0,175.8,Imbalance,Left Rectus Femoris
+25/03/2026 15:33:30,70.96,80.88,151.84,Imbalance,Left Soleus
+25/03/2026 15:34:00,83.84,95.0,178.84,Imbalance,Left Vastus Lateralis
+25/03/2026 15:34:30,66.57,73.47,140.04,Imbalance,Left Peroneus Longus
+25/03/2026 15:35:00,36.13,42.13,78.26,Imbalance,Left Rectus Femoris
+25/03/2026 15:35:30,34.89,44.58,79.47,Imbalance,Left Adductor Magnus
+25/03/2026 15:36:00,74.69,78.24,152.93,Imbalance,Left Gastrocnemius
+25/03/2026 15:36:30,81.29,80.89,162.18,Balanced,Balanced
+25/03/2026 15:37:00,52.49,53.69,106.18,Balanced,Balanced
+25/03/2026 15:37:30,81.99,87.77,169.76,Imbalance,Left Peroneus Longus
+25/03/2026 15:38:00,49.43,47.88,97.31,Balanced,Balanced
+25/03/2026 15:38:30,42.2,50.44,92.64,Imbalance,Left Rectus Femoris
+25/03/2026 15:39:00,66.23,57.43,123.66,Imbalance,Right Vastus Medialis
+25/03/2026 15:39:30,54.69,64.33,119.02,Imbalance,Left Vastus Lateralis
+25/03/2026 15:40:00,50.26,45.55,95.81,Imbalance,Right Gastrocnemius
+25/03/2026 15:40:30,72.71,71.11,143.82,Balanced,Balanced
+25/03/2026 15:41:00,68.67,74.22,142.89,Imbalance,Left Peroneus Longus
+25/03/2026 15:41:30,71.94,71.51,143.45,Balanced,Balanced
+25/03/2026 15:42:00,85.57,95.0,180.57,Imbalance,Left Sartorius
+25/03/2026 15:42:30,80.53,95.0,175.53,Imbalance,Left Vastus Lateralis
+25/03/2026 15:43:00,39.99,34.06,74.05,Imbalance,Right Rectus Femoris
+25/03/2026 15:43:30,85.38,95.0,180.38,Imbalance,Left Sartorius
+25/03/2026 15:44:00,39.72,39.08,78.8,Balanced,Balanced
+25/03/2026 15:44:30,84.27,95.0,179.27,Imbalance,Left Adductor Longus
+25/03/2026 15:45:00,39.17,38.1,77.27,Balanced,Balanced
+25/03/2026 15:45:30,33.0,30.0,63.0,Imbalance,Right Tibialis Anterior
+25/03/2026 15:46:00,51.54,41.49,93.03,Imbalance,Right Sartorius
+25/03/2026 15:46:30,49.49,73.37,122.86,Imbalance,Left Iliopsoas
+25/03/2026 15:47:00,80.3,71.62,151.92,Imbalance,Right Peroneus Longus
+25/03/2026 15:47:30,57.48,57.14,114.62,Balanced,Balanced
+25/03/2026 15:48:00,48.15,49.49,97.64,Balanced,Balanced
+25/03/2026 15:48:30,31.77,30.0,61.77,Imbalance,Right Gluteus Medius
+25/03/2026 15:49:00,30.34,46.2,76.54,Imbalance,Left Gluteus Minimus
+25/03/2026 15:49:30,61.52,61.66,123.18,Balanced,Balanced
+25/03/2026 15:50:00,39.18,31.19,70.37,Imbalance,Right Vastus Medialis
+25/03/2026 15:50:30,81.73,88.51,170.24,Imbalance,Left Peroneus Longus
+25/03/2026 15:51:00,44.87,58.9,103.77,Imbalance,Left Semimembranosus
+25/03/2026 15:51:30,33.98,33.83,67.81,Balanced,Balanced
+25/03/2026 15:52:00,45.87,44.62,90.49,Balanced,Balanced
+25/03/2026 15:52:30,43.29,42.32,85.61,Balanced,Balanced
+25/03/2026 15:53:00,83.56,95.0,178.56,Imbalance,Left Vastus Medialis
+25/03/2026 15:53:30,31.12,30.0,61.12,Imbalance,Right Gracilis
+25/03/2026 15:54:00,83.37,78.33,161.7,Imbalance,Right Peroneus Longus
+25/03/2026 15:54:30,80.35,69.67,150.02,Imbalance,Right Sartorius
+25/03/2026 15:55:00,63.01,79.03,142.04,Imbalance,Left Vastus Lateralis
+25/03/2026 15:55:30,43.2,30.0,73.2,Imbalance,Right Gluteus Minimus
+25/03/2026 15:56:00,68.13,64.54,132.67,Imbalance,Right Tibialis Anterior
+25/03/2026 15:56:30,40.56,39.29,79.85,Balanced,Balanced
+25/03/2026 15:57:00,47.66,30.0,77.66,Imbalance,Right Gluteus Medius
+25/03/2026 15:57:30,58.31,56.39,114.7,Balanced,Balanced
+25/03/2026 15:58:00,51.06,44.36,95.42,Imbalance,Right Rectus Femoris
+25/03/2026 15:58:30,48.64,47.42,96.06,Balanced,Balanced
+25/03/2026 15:59:00,87.01,87.23,174.24,Balanced,Balanced
+25/03/2026 15:59:30,80.0,75.39,155.39,Imbalance,Right Gastrocnemius
+25/03/2026 16:00:00,79.32,95.0,174.32,Imbalance,Left Adductor Magnus
+25/03/2026 16:00:30,38.06,30.0,68.06,Imbalance,Right Adductor Longus
+25/03/2026 16:01:00,43.03,41.63,84.66,Balanced,Balanced
+25/03/2026 16:01:30,58.73,44.54,103.27,Imbalance,Right Semitendinosus
+25/03/2026 16:02:00,40.56,54.19,94.75,Imbalance,Left Semimembranosus
+25/03/2026 16:02:30,56.33,62.82,119.15,Imbalance,Left Gastrocnemius
+25/03/2026 16:03:00,41.37,30.0,71.37,Imbalance,Right Gluteus Maximus
+25/03/2026 16:03:30,50.77,36.64,87.41,Imbalance,Right Gracilis
+25/03/2026 16:04:00,51.33,51.58,102.91,Balanced,Balanced
+25/03/2026 16:04:30,67.18,84.93,152.11,Imbalance,Left Sartorius
+25/03/2026 16:05:00,56.6,70.19,126.79,Imbalance,Left Vastus Medialis
+25/03/2026 16:05:30,76.13,53.03,129.16,Imbalance,Right Semitendinosus
+25/03/2026 16:06:00,51.84,46.1,97.94,Imbalance,Right Gastrocnemius
+25/03/2026 16:06:30,34.13,30.0,64.13,Imbalance,Right Gluteus Maximus
+25/03/2026 16:07:00,33.32,35.03,68.35,Balanced,Balanced
+25/03/2026 16:07:30,74.11,67.43,141.54,Imbalance,Right Tibialis Anterior
+25/03/2026 16:08:00,77.27,94.41,171.68,Imbalance,Left Vastus Medialis
+25/03/2026 16:08:30,32.66,46.91,79.57,Imbalance,Left Adductor Magnus
+25/03/2026 16:09:00,40.05,39.19,79.24,Balanced,Balanced
+25/03/2026 16:09:30,87.7,82.95,170.65,Imbalance,Right Peroneus Longus
+25/03/2026 16:10:00,39.96,35.04,75.0,Imbalance,Right Peroneus Longus
+25/03/2026 16:10:30,73.37,93.07,166.44,Imbalance,Left Vastus Lateralis
+25/03/2026 16:11:00,89.96,95.0,184.96,Imbalance,Left Gastrocnemius
+25/03/2026 16:11:30,68.48,68.72,137.2,Balanced,Balanced
+25/03/2026 16:12:00,49.68,53.49,103.17,Imbalance,Left Gastrocnemius
+25/03/2026 16:12:30,46.57,45.74,92.31,Balanced,Balanced
+25/03/2026 16:13:00,75.04,51.94,126.98,Imbalance,Right Tensor Fasciae Latae
+25/03/2026 16:13:30,86.13,95.0,181.13,Imbalance,Left Sartorius
+25/03/2026 16:14:00,45.28,46.41,91.69,Balanced,Balanced
+25/03/2026 16:14:30,61.23,59.57,120.8,Balanced,Balanced
+25/03/2026 16:15:00,51.77,30.0,81.77,Imbalance,Right Gluteus Minimus
+25/03/2026 16:15:30,64.63,74.45,139.08,Imbalance,Left Vastus Medialis
+25/03/2026 16:16:00,86.81,95.0,181.81,Imbalance,Left Semimembranosus
+25/03/2026 16:16:30,53.4,52.14,105.54,Balanced,Balanced
+25/03/2026 16:17:00,57.85,50.5,108.35,Imbalance,Right Soleus
+25/03/2026 16:17:30,56.58,56.49,113.07,Balanced,Balanced
+25/03/2026 16:18:00,39.74,30.0,69.74,Imbalance,Right Tensor Fasciae Latae
+25/03/2026 16:18:30,64.22,73.67,137.89,Imbalance,Left Soleus
+25/03/2026 16:19:00,78.95,58.82,137.77,Imbalance,Right Semimembranosus
+25/03/2026 16:19:30,77.02,95.0,172.02,Imbalance,Left Semimembranosus
+25/03/2026 16:20:00,32.01,32.96,64.97,Balanced,Balanced
+25/03/2026 16:20:30,71.89,94.19,166.08,Imbalance,Left Semimembranosus
+25/03/2026 16:21:00,65.57,47.66,113.23,Imbalance,Right Adductor Longus
+25/03/2026 16:21:30,60.7,36.18,96.88,Imbalance,Right Tensor Fasciae Latae
+25/03/2026 16:22:00,31.48,38.9,70.38,Imbalance,Left Vastus Medialis
+25/03/2026 16:22:30,52.62,46.21,98.83,Imbalance,Right Tibialis Anterior
+25/03/2026 16:23:00,51.35,30.0,81.35,Imbalance,Right Tensor Fasciae Latae
+25/03/2026 16:23:30,59.0,78.32,137.32,Imbalance,Left Semimembranosus
+25/03/2026 16:24:00,66.17,65.83,132.0,Balanced,Balanced
+25/03/2026 16:24:30,37.76,56.57,94.33,Imbalance,Left Iliopsoas
+25/03/2026 16:25:00,59.51,60.66,120.17,Balanced,Balanced
+25/03/2026 16:25:30,86.87,95.0,181.87,Imbalance,Left Rectus Femoris
+25/03/2026 16:26:00,66.72,67.63,134.35,Balanced,Balanced
+25/03/2026 16:26:30,71.16,52.54,123.7,Imbalance,Right Gracilis
+25/03/2026 16:27:00,47.37,45.7,93.07,Balanced,Balanced
+25/03/2026 16:27:30,80.83,82.1,162.93,Balanced,Balanced
+25/03/2026 16:28:00,55.49,58.49,113.98,Imbalance,Left Soleus
+25/03/2026 16:28:30,66.77,66.14,132.91,Balanced,Balanced
+25/03/2026 16:29:00,75.58,83.52,159.1,Imbalance,Left Peroneus Longus
+25/03/2026 16:29:30,58.38,64.59,122.97,Imbalance,Left Tibialis Anterior
+25/03/2026 16:30:00,85.64,86.75,172.39,Balanced,Balanced
+25/03/2026 16:30:30,33.05,30.0,63.05,Imbalance,Right Gracilis
+25/03/2026 16:31:00,61.8,61.89,123.69,Balanced,Balanced
+25/03/2026 16:31:30,68.33,91.92,160.25,Imbalance,Left Gracilis
+25/03/2026 16:32:00,52.84,44.35,97.19,Imbalance,Right Vastus Lateralis
+25/03/2026 16:32:30,47.36,30.39,77.75,Imbalance,Right Iliopsoas
+25/03/2026 16:33:00,67.29,61.59,128.88,Imbalance,Right Tibialis Anterior
+25/03/2026 16:33:30,54.36,57.64,112.0,Imbalance,Left Soleus
+25/03/2026 16:34:00,85.1,76.0,161.1,Imbalance,Right Tibialis Anterior
+25/03/2026 16:34:30,80.69,95.0,175.69,Imbalance,Left Rectus Femoris
+25/03/2026 16:35:00,45.14,39.06,84.2,Imbalance,Right Sartorius
+25/03/2026 16:35:30,83.62,83.0,166.62,Balanced,Balanced
+25/03/2026 16:36:00,35.42,30.0,65.42,Imbalance,Right Gluteus Medius
+25/03/2026 16:36:30,46.99,45.17,92.16,Balanced,Balanced
+25/03/2026 16:37:00,47.29,66.69,113.98,Imbalance,Left Biceps Femoris
+25/03/2026 16:37:30,45.96,45.26,91.22,Balanced,Balanced
+25/03/2026 16:38:00,84.7,85.51,170.21,Balanced,Balanced
+25/03/2026 16:38:30,42.02,59.66,101.68,Imbalance,Left Semimembranosus
+25/03/2026 16:39:00,33.6,47.47,81.07,Imbalance,Left Biceps Femoris
+25/03/2026 16:39:30,53.09,57.9,110.99,Imbalance,Left Soleus
+25/03/2026 16:40:00,62.41,51.93,114.34,Imbalance,Right Vastus Medialis
+25/03/2026 16:40:30,66.83,68.22,135.05,Balanced,Balanced
+25/03/2026 16:41:00,65.98,42.1,108.08,Imbalance,Right Tensor Fasciae Latae
+25/03/2026 16:41:30,73.85,95.0,168.85,Imbalance,Left Semitendinosus
+25/03/2026 16:42:00,64.34,76.68,141.02,Imbalance,Left Rectus Femoris
+25/03/2026 16:42:30,45.12,65.91,111.03,Imbalance,Left Gluteus Maximus
+25/03/2026 16:43:00,64.89,82.23,147.12,Imbalance,Left Vastus Lateralis
+25/03/2026 16:43:30,73.26,72.39,145.65,Balanced,Balanced
+25/03/2026 16:44:00,41.93,60.37,102.3,Imbalance,Left Tensor Fasciae Latae
+25/03/2026 16:44:30,75.16,95.0,170.16,Imbalance,Left Adductor Longus
+25/03/2026 16:45:00,35.85,36.09,71.94,Balanced,Balanced
+25/03/2026 16:45:30,34.66,34.16,68.82,Balanced,Balanced
+25/03/2026 16:46:00,46.25,30.95,77.2,Imbalance,Right Tensor Fasciae Latae
+25/03/2026 16:46:30,41.98,52.07,94.05,Imbalance,Left Vastus Medialis
+25/03/2026 16:47:00,81.79,76.38,158.17,Imbalance,Right Tibialis Anterior
+25/03/2026 16:47:30,82.26,80.58,162.84,Balanced,Balanced
+25/03/2026 16:48:00,81.17,62.78,143.95,Imbalance,Right Adductor Magnus
+25/03/2026 16:48:30,67.81,46.62,114.43,Imbalance,Right Tensor Fasciae Latae
+25/03/2026 16:49:00,61.06,36.25,97.31,Imbalance,Right Iliopsoas
+25/03/2026 16:49:30,38.54,30.0,68.54,Imbalance,Right Gluteus Minimus
+25/03/2026 16:50:00,72.1,57.02,129.12,Imbalance,Right Rectus Femoris
+25/03/2026 16:50:30,76.65,78.04,154.69,Balanced,Balanced
+25/03/2026 16:51:00,58.03,69.86,127.89,Imbalance,Left Vastus Lateralis
+25/03/2026 16:51:30,44.36,53.46,97.82,Imbalance,Left Sartorius
+25/03/2026 16:52:00,41.49,42.56,84.05,Balanced,Balanced
+25/03/2026 16:52:30,39.61,41.18,80.79,Balanced,Balanced
+25/03/2026 16:53:00,89.04,94.47,183.51,Imbalance,Left Peroneus Longus
+25/03/2026 16:53:30,48.91,48.25,97.16,Balanced,Balanced
+25/03/2026 16:54:00,70.55,69.87,140.42,Balanced,Balanced
+25/03/2026 16:54:30,42.31,55.25,97.56,Imbalance,Left Semimembranosus
+25/03/2026 16:55:00,51.4,68.21,119.61,Imbalance,Left Semimembranosus
+25/03/2026 16:55:30,57.97,73.82,131.79,Imbalance,Left Adductor Magnus
+25/03/2026 16:56:00,78.07,64.86,142.93,Imbalance,Right Vastus Medialis
+25/03/2026 16:56:30,34.16,30.0,64.16,Imbalance,Right Sartorius
+25/03/2026 16:57:00,87.53,75.14,162.67,Imbalance,Right Sartorius
+25/03/2026 16:57:30,81.71,68.48,150.19,Imbalance,Right Sartorius
+25/03/2026 16:58:00,89.19,89.84,179.03,Balanced,Balanced
+25/03/2026 16:58:30,31.31,30.0,61.31,Imbalance,Right Sartorius
+25/03/2026 16:59:00,77.13,55.78,132.91,Imbalance,Right Gracilis
+25/03/2026 16:59:30,61.13,61.75,122.88,Balanced,Balanced
+25/03/2026 17:00:00,41.43,30.0,71.43,Imbalance,Right Gluteus Minimus
+25/03/2026 17:00:30,65.18,73.61,138.79,Imbalance,Left Gastrocnemius
+25/03/2026 17:01:00,58.75,58.62,117.37,Balanced,Balanced
+25/03/2026 17:01:30,40.97,62.9,103.87,Imbalance,Left Iliopsoas
+25/03/2026 17:02:00,68.35,88.86,157.21,Imbalance,Left Gracilis
+25/03/2026 17:02:30,30.42,30.0,60.42,Imbalance,Right Gracilis
+25/03/2026 17:03:00,81.56,93.42,174.98,Imbalance,Left Tibialis Anterior
+25/03/2026 17:03:30,84.46,95.0,179.46,Imbalance,Left Semitendinosus
+25/03/2026 17:04:00,30.87,41.41,72.28,Imbalance,Left Semitendinosus
+25/03/2026 17:04:30,37.74,59.8,97.54,Imbalance,Left Iliopsoas
+25/03/2026 17:05:00,40.41,30.0,70.41,Imbalance,Right Semimembranosus
+25/03/2026 17:05:30,30.59,30.0,60.59,Imbalance,Right Gluteus Minimus
+25/03/2026 17:06:00,53.52,68.13,121.65,Imbalance,Left Semimembranosus
+25/03/2026 17:06:30,87.82,73.64,161.46,Imbalance,Right Vastus Medialis
+25/03/2026 17:07:00,86.63,85.51,172.14,Balanced,Balanced
+25/03/2026 17:07:30,69.78,54.93,124.71,Imbalance,Right Vastus Lateralis
+25/03/2026 17:08:00,48.57,44.51,93.08,Imbalance,Right Peroneus Longus
+25/03/2026 17:08:30,84.23,82.86,167.09,Balanced,Balanced
+25/03/2026 17:09:00,59.02,78.68,137.7,Imbalance,Left Semimembranosus
+25/03/2026 17:09:30,65.31,78.36,143.67,Imbalance,Left Vastus Medialis
+25/03/2026 17:10:00,80.17,79.46,159.63,Balanced,Balanced
+25/03/2026 17:10:30,82.57,82.45,165.02,Balanced,Balanced
+25/03/2026 17:11:00,83.13,95.0,178.13,Imbalance,Left Rectus Femoris
+25/03/2026 17:11:30,80.93,80.46,161.39,Balanced,Balanced
+25/03/2026 17:12:00,55.46,59.79,115.25,Imbalance,Left Soleus
+25/03/2026 17:12:30,59.83,61.19,121.02,Balanced,Balanced
+25/03/2026 17:13:00,89.22,85.63,174.85,Imbalance,Right Soleus
+25/03/2026 17:13:30,39.21,34.84,74.05,Imbalance,Right Tibialis Anterior
+25/03/2026 17:14:00,73.62,62.81,136.43,Imbalance,Right Rectus Femoris
+25/03/2026 17:14:30,54.63,45.64,100.27,Imbalance,Right Vastus Medialis
+25/03/2026 17:15:00,80.34,66.38,146.72,Imbalance,Right Sartorius
+25/03/2026 17:15:30,60.16,61.18,121.34,Balanced,Balanced
+25/03/2026 17:16:00,67.85,59.1,126.95,Imbalance,Right Peroneus Longus
+25/03/2026 17:16:30,70.81,57.69,128.5,Imbalance,Right Vastus Medialis
+25/03/2026 17:17:00,84.6,93.1,177.7,Imbalance,Left Soleus
+25/03/2026 17:17:30,65.66,64.97,130.63,Balanced,Balanced
+25/03/2026 17:18:00,63.84,64.83,128.67,Balanced,Balanced
+25/03/2026 17:18:30,30.13,51.32,81.45,Imbalance,Left Iliopsoas
+25/03/2026 17:19:00,64.19,62.78,126.97,Balanced,Balanced
+25/03/2026 17:19:30,49.76,45.72,95.48,Imbalance,Right Peroneus Longus
+25/03/2026 17:20:00,45.27,51.94,97.21,Imbalance,Left Tibialis Anterior
+25/03/2026 17:20:30,55.35,80.23,135.58,Imbalance,Left Gluteus Maximus
+25/03/2026 17:21:00,81.86,77.06,158.92,Imbalance,Right Gastrocnemius
+25/03/2026 17:21:30,48.55,68.86,117.41,Imbalance,Left Gracilis
+25/03/2026 17:22:00,34.17,30.0,64.17,Imbalance,Right Vastus Lateralis
+25/03/2026 17:22:30,80.3,80.47,160.77,Balanced,Balanced
+25/03/2026 17:23:00,41.82,55.44,97.26,Imbalance,Left Semitendinosus
+25/03/2026 17:23:30,48.75,30.0,78.75,Imbalance,Right Gluteus Minimus
+25/03/2026 17:24:00,34.75,30.0,64.75,Imbalance,Right Gluteus Maximus
+25/03/2026 17:24:30,51.38,49.52,100.9,Balanced,Balanced
+25/03/2026 17:25:00,53.13,30.53,83.66,Imbalance,Right Gluteus Maximus
+25/03/2026 17:25:30,79.06,87.72,166.78,Imbalance,Left Tibialis Anterior
+25/03/2026 17:26:00,87.26,95.0,182.26,Imbalance,Left Peroneus Longus
+25/03/2026 17:26:30,30.8,36.69,67.49,Imbalance,Left Rectus Femoris
+25/03/2026 17:27:00,65.58,64.77,130.35,Balanced,Balanced
+25/03/2026 17:27:30,53.85,53.99,107.84,Balanced,Balanced
+25/03/2026 17:28:00,73.36,64.88,138.24,Imbalance,Right Soleus
+25/03/2026 17:28:30,50.26,34.67,84.93,Imbalance,Right Gluteus Minimus
+25/03/2026 17:29:00,41.47,37.04,78.51,Imbalance,Right Tibialis Anterior
+25/03/2026 17:29:30,71.16,62.21,133.37,Imbalance,Right Tibialis Anterior
+25/03/2026 17:30:00,57.68,36.86,94.54,Imbalance,Right Gluteus Minimus
+25/03/2026 17:30:30,30.8,30.0,60.8,Balanced,Balanced
+25/03/2026 17:31:00,47.16,37.78,84.94,Imbalance,Right Vastus Lateralis
+25/03/2026 17:31:30,69.79,89.28,159.07,Imbalance,Left Adductor Longus
+25/03/2026 17:32:00,67.3,58.63,125.93,Imbalance,Right Tibialis Anterior
+25/03/2026 17:32:30,81.0,90.22,171.22,Imbalance,Left Gastrocnemius
+25/03/2026 17:33:00,61.43,56.64,118.07,Imbalance,Right Peroneus Longus
+25/03/2026 17:33:30,30.67,47.99,78.66,Imbalance,Left Gluteus Medius
+25/03/2026 17:34:00,42.48,32.29,74.77,Imbalance,Right Biceps Femoris
+25/03/2026 17:34:30,69.88,56.98,126.86,Imbalance,Right Sartorius
+25/03/2026 17:35:00,55.21,35.03,90.24,Imbalance,Right Iliopsoas
+25/03/2026 17:35:30,86.99,95.0,181.99,Imbalance,Left Tibialis Anterior
+25/03/2026 17:36:00,68.84,64.8,133.64,Imbalance,Right Gastrocnemius
+25/03/2026 17:36:30,46.23,46.66,92.89,Balanced,Balanced
+25/03/2026 17:37:00,65.91,50.51,116.42,Imbalance,Right Adductor Longus
+25/03/2026 17:37:30,75.38,80.45,155.83,Imbalance,Left Gastrocnemius
+25/03/2026 17:38:00,78.9,58.15,137.05,Imbalance,Right Semitendinosus
+25/03/2026 17:38:30,40.22,49.38,89.6,Imbalance,Left Vastus Lateralis
+25/03/2026 17:39:00,70.53,94.52,165.05,Imbalance,Left Semimembranosus
+25/03/2026 17:39:30,31.11,31.46,62.57,Balanced,Balanced
+25/03/2026 17:40:00,84.61,95.0,179.61,Imbalance,Left Sartorius
+25/03/2026 17:40:30,85.17,84.2,169.37,Balanced,Balanced
+25/03/2026 17:41:00,32.72,36.64,69.36,Imbalance,Left Soleus
+25/03/2026 17:41:30,64.3,54.67,118.97,Imbalance,Right Vastus Medialis
+25/03/2026 17:42:00,69.11,70.81,139.92,Balanced,Balanced
+25/03/2026 17:42:30,81.85,71.21,153.06,Imbalance,Right Tibialis Anterior
+25/03/2026 17:43:00,84.75,63.62,148.37,Imbalance,Right Semimembranosus
+25/03/2026 17:43:30,44.86,46.66,91.52,Balanced,Balanced
+25/03/2026 17:44:00,76.42,74.93,151.35,Balanced,Balanced
+25/03/2026 17:44:30,42.23,39.06,81.29,Imbalance,Right Soleus
+25/03/2026 17:45:00,81.59,95.0,176.59,Imbalance,Left Vastus Medialis
+25/03/2026 17:45:30,82.61,95.0,177.61,Imbalance,Left Rectus Femoris
+25/03/2026 17:46:00,61.0,62.86,123.86,Balanced,Balanced
+25/03/2026 17:46:30,79.38,84.93,164.31,Imbalance,Left Peroneus Longus
+25/03/2026 17:47:00,53.88,37.79,91.67,Imbalance,Right Gracilis
+25/03/2026 17:47:30,63.97,62.61,126.58,Balanced,Balanced
+25/03/2026 17:48:00,51.15,52.3,103.45,Balanced,Balanced
+25/03/2026 17:48:30,36.92,30.0,66.92,Imbalance,Right Semitendinosus
+25/03/2026 17:49:00,59.77,49.21,108.98,Imbalance,Right Vastus Medialis
+25/03/2026 17:49:30,63.11,50.26,113.37,Imbalance,Right Rectus Femoris
+25/03/2026 17:50:00,83.47,84.71,168.18,Balanced,Balanced
+25/03/2026 17:50:30,56.82,77.87,134.69,Imbalance,Left Semitendinosus
+25/03/2026 17:51:00,44.63,61.31,105.94,Imbalance,Left Adductor Longus
+25/03/2026 17:51:30,76.35,95.0,171.35,Imbalance,Left Adductor Longus
+25/03/2026 17:52:00,42.25,52.78,95.03,Imbalance,Left Vastus Medialis
+25/03/2026 17:52:30,79.51,88.58,168.09,Imbalance,Left Tibialis Anterior
+25/03/2026 17:53:00,41.64,66.42,108.06,Imbalance,Left Gluteus Medius
+25/03/2026 17:53:30,46.19,42.92,89.11,Imbalance,Right Peroneus Longus
+25/03/2026 17:54:00,56.68,53.38,110.06,Imbalance,Right Tibialis Anterior
+25/03/2026 17:54:30,54.76,54.13,108.89,Balanced,Balanced
+25/03/2026 17:55:00,62.44,63.81,126.25,Balanced,Balanced
+25/03/2026 17:55:30,69.8,70.22,140.02,Balanced,Balanced
+25/03/2026 17:56:00,67.82,62.45,130.27,Imbalance,Right Tibialis Anterior
+25/03/2026 17:56:30,55.16,35.11,90.27,Imbalance,Right Gluteus Medius
+25/03/2026 17:57:00,78.89,61.13,140.02,Imbalance,Right Biceps Femoris
+25/03/2026 17:57:30,64.32,85.45,149.77,Imbalance,Left Adductor Longus
+25/03/2026 17:58:00,75.05,65.96,141.01,Imbalance,Right Tibialis Anterior
+25/03/2026 17:58:30,45.65,50.6,96.25,Imbalance,Left Tibialis Anterior
+25/03/2026 17:59:00,54.73,56.57,111.3,Balanced,Balanced
+25/03/2026 17:59:30,80.64,89.31,169.95,Imbalance,Left Gastrocnemius
+25/03/2026 18:00:00,48.64,38.06,86.7,Imbalance,Right Semitendinosus
+25/03/2026 18:00:30,38.94,30.0,68.94,Imbalance,Right Gracilis
+25/03/2026 18:01:00,45.93,59.09,105.02,Imbalance,Left Semimembranosus
+25/03/2026 18:01:30,61.08,61.93,123.01,Balanced,Balanced
+25/03/2026 18:02:00,78.87,95.0,173.87,Imbalance,Left Vastus Medialis
+25/03/2026 18:02:30,44.0,50.19,94.19,Imbalance,Left Gastrocnemius
+25/03/2026 18:03:00,77.44,83.89,161.33,Imbalance,Left Soleus
+25/03/2026 18:03:30,64.75,88.74,153.49,Imbalance,Left Adductor Longus
+25/03/2026 18:04:00,87.81,95.0,182.81,Imbalance,Left Gastrocnemius
+25/03/2026 18:04:30,84.97,84.87,169.84,Balanced,Balanced
+25/03/2026 18:05:00,58.29,56.89,115.18,Balanced,Balanced
+25/03/2026 18:05:30,58.09,65.83,123.92,Imbalance,Left Peroneus Longus
+25/03/2026 18:06:00,63.25,42.45,105.7,Imbalance,Right Gluteus Medius
+25/03/2026 18:06:30,64.13,42.32,106.45,Imbalance,Right Tensor Fasciae Latae
+25/03/2026 18:07:00,46.62,45.93,92.55,Balanced,Balanced
+25/03/2026 18:07:30,89.54,76.95,166.49,Imbalance,Right Vastus Lateralis
+25/03/2026 18:08:00,85.52,84.17,169.69,Balanced,Balanced
+25/03/2026 18:08:30,53.12,48.46,101.58,Imbalance,Right Gastrocnemius
+25/03/2026 18:09:00,58.92,71.85,130.77,Imbalance,Left Vastus Lateralis
+25/03/2026 18:09:30,41.49,33.64,75.13,Imbalance,Right Sartorius
+25/03/2026 18:10:00,76.04,74.15,150.19,Balanced,Balanced
+25/03/2026 18:10:30,81.54,62.64,144.18,Imbalance,Right Biceps Femoris
+25/03/2026 18:11:00,53.43,39.53,92.96,Imbalance,Right Biceps Femoris
+25/03/2026 18:11:30,74.92,69.38,144.3,Imbalance,Right Tibialis Anterior
+25/03/2026 18:12:00,43.72,41.94,85.66,Balanced,Balanced
+25/03/2026 18:12:30,82.28,86.46,168.74,Imbalance,Left Peroneus Longus
+25/03/2026 18:13:00,83.72,94.32,178.04,Imbalance,Left Peroneus Longus
+25/03/2026 18:13:30,33.42,30.0,63.42,Imbalance,Right Gluteus Medius
+25/03/2026 18:14:00,74.31,73.95,148.26,Balanced,Balanced
+25/03/2026 18:14:30,61.13,60.08,121.21,Balanced,Balanced
+25/03/2026 18:15:00,48.42,55.86,104.28,Imbalance,Left Sartorius
+25/03/2026 18:15:30,81.23,82.97,164.2,Balanced,Balanced
+25/03/2026 18:16:00,72.93,60.7,133.63,Imbalance,Right Rectus Femoris
+25/03/2026 18:16:30,76.84,82.05,158.89,Imbalance,Left Peroneus Longus
+25/03/2026 18:17:00,57.18,79.25,136.43,Imbalance,Left Biceps Femoris
+25/03/2026 18:17:30,68.61,81.77,150.38,Imbalance,Left Sartorius
+25/03/2026 18:18:00,51.09,73.53,124.62,Imbalance,Left Iliopsoas
+25/03/2026 18:18:30,48.94,56.83,105.77,Imbalance,Left Vastus Medialis
+25/03/2026 18:19:00,56.71,71.65,128.36,Imbalance,Left Vastus Lateralis
+25/03/2026 18:19:30,31.6,30.0,61.6,Imbalance,Right Gluteus Medius
+25/03/2026 18:20:00,49.21,30.38,79.59,Imbalance,Right Gluteus Medius
+25/03/2026 18:20:30,42.89,33.83,76.72,Imbalance,Right Vastus Medialis
+25/03/2026 18:21:00,69.89,70.78,140.67,Balanced,Balanced
+25/03/2026 18:21:30,55.0,61.14,116.14,Imbalance,Left Soleus
+25/03/2026 18:22:00,40.13,30.0,70.13,Imbalance,Right Gluteus Medius
+25/03/2026 18:22:30,70.62,78.15,148.77,Imbalance,Left Soleus
+25/03/2026 18:23:00,45.76,30.0,75.76,Imbalance,Right Gluteus Minimus
+25/03/2026 18:23:30,30.5,41.27,71.77,Imbalance,Left Semitendinosus
+25/03/2026 18:24:00,87.09,95.0,182.09,Imbalance,Left Soleus
+25/03/2026 18:24:30,57.05,50.44,107.49,Imbalance,Right Peroneus Longus
+25/03/2026 18:25:00,47.46,46.89,94.35,Balanced,Balanced
+25/03/2026 18:25:30,68.76,78.36,147.12,Imbalance,Left Tibialis Anterior
+25/03/2026 18:26:00,85.59,84.17,169.76,Balanced,Balanced
+25/03/2026 18:26:30,87.38,80.33,167.71,Imbalance,Right Peroneus Longus
+25/03/2026 18:27:00,42.44,42.71,85.15,Balanced,Balanced
+25/03/2026 18:27:30,81.98,58.97,140.95,Imbalance,Right Adductor Magnus
+25/03/2026 18:28:00,87.25,95.0,182.25,Imbalance,Left Gastrocnemius
+25/03/2026 18:28:30,69.72,51.91,121.63,Imbalance,Right Semimembranosus
+25/03/2026 18:29:00,85.64,90.61,176.25,Imbalance,Left Gastrocnemius
+25/03/2026 18:29:30,31.92,30.0,61.92,Imbalance,Right Semitendinosus
+25/03/2026 18:30:00,86.59,95.0,181.59,Imbalance,Left Vastus Lateralis
+25/03/2026 18:30:30,74.31,90.26,164.57,Imbalance,Left Sartorius
+25/03/2026 18:31:00,67.81,66.55,134.36,Balanced,Balanced
+25/03/2026 18:31:30,37.14,30.0,67.14,Imbalance,Right Iliopsoas
+25/03/2026 18:32:00,38.74,30.0,68.74,Imbalance,Right Gluteus Maximus
+25/03/2026 18:32:30,87.72,95.0,182.72,Imbalance,Left Soleus
+25/03/2026 18:33:00,60.2,62.1,122.3,Balanced,Balanced
+25/03/2026 18:33:30,87.58,87.53,175.11,Balanced,Balanced
+25/03/2026 18:34:00,56.45,54.93,111.38,Balanced,Balanced
+25/03/2026 18:34:30,46.96,64.36,111.32,Imbalance,Left Biceps Femoris
+25/03/2026 18:35:00,84.06,90.84,174.9,Imbalance,Left Soleus
+25/03/2026 18:35:30,47.86,43.33,91.19,Imbalance,Right Soleus
+25/03/2026 18:36:00,54.28,66.96,121.24,Imbalance,Left Sartorius
+25/03/2026 18:36:30,38.98,62.53,101.51,Imbalance,Left Tensor Fasciae Latae
+25/03/2026 18:37:00,50.34,30.0,80.34,Imbalance,Right Iliopsoas
+25/03/2026 18:37:30,35.63,58.81,94.44,Imbalance,Left Gluteus Minimus
+25/03/2026 18:38:00,41.27,59.96,101.23,Imbalance,Left Gluteus Maximus
+25/03/2026 18:38:30,49.58,49.17,98.75,Balanced,Balanced
+25/03/2026 18:39:00,57.02,66.19,123.21,Imbalance,Left Rectus Femoris
+25/03/2026 18:39:30,52.96,53.12,106.08,Balanced,Balanced
+25/03/2026 18:40:00,74.06,49.68,123.74,Imbalance,Right Iliopsoas
+25/03/2026 18:40:30,40.84,39.82,80.66,Balanced,Balanced
+25/03/2026 18:41:00,43.87,43.38,87.25,Balanced,Balanced
+25/03/2026 18:41:30,81.38,82.52,163.9,Balanced,Balanced
+25/03/2026 18:42:00,75.47,95.0,170.47,Imbalance,Left Biceps Femoris
+25/03/2026 18:42:30,84.48,84.01,168.49,Balanced,Balanced
+25/03/2026 18:43:00,39.81,51.76,91.57,Imbalance,Left Semitendinosus
+25/03/2026 18:43:30,89.51,73.12,162.63,Imbalance,Right Vastus Lateralis
+25/03/2026 18:44:00,61.0,54.49,115.49,Imbalance,Right Soleus
+25/03/2026 18:44:30,88.39,79.84,168.23,Imbalance,Right Tibialis Anterior
+25/03/2026 18:45:00,75.0,95.0,170.0,Imbalance,Left Vastus Lateralis
+25/03/2026 18:45:30,44.58,52.42,97.0,Imbalance,Left Sartorius
+25/03/2026 18:46:00,65.32,63.45,128.77,Balanced,Balanced
+25/03/2026 18:46:30,63.03,86.1,149.13,Imbalance,Left Gracilis
+25/03/2026 18:47:00,38.85,39.5,78.35,Balanced,Balanced
+25/03/2026 18:47:30,65.75,81.27,147.02,Imbalance,Left Vastus Lateralis
+25/03/2026 18:48:00,63.42,56.14,119.56,Imbalance,Right Tibialis Anterior
+25/03/2026 18:48:30,56.72,60.23,116.95,Imbalance,Left Peroneus Longus
+25/03/2026 18:49:00,61.37,46.23,107.6,Imbalance,Right Adductor Longus
+25/03/2026 18:49:30,73.4,73.44,146.84,Balanced,Balanced
+25/03/2026 18:50:00,55.03,67.0,122.03,Imbalance,Left Vastus Medialis
+25/03/2026 18:50:30,89.27,95.0,184.27,Imbalance,Left Sartorius
+25/03/2026 18:51:00,49.94,38.73,88.67,Imbalance,Right Adductor Magnus
+25/03/2026 18:51:30,86.07,95.0,181.07,Imbalance,Left Vastus Lateralis
+25/03/2026 18:52:00,85.74,86.51,172.25,Balanced,Balanced
+25/03/2026 18:52:30,30.21,30.0,60.21,Imbalance,Right Gluteus Medius
+25/03/2026 18:53:00,76.02,87.46,163.48,Imbalance,Left Gastrocnemius
+25/03/2026 18:53:30,34.04,52.62,86.66,Imbalance,Left Gluteus Maximus
+25/03/2026 18:54:00,56.28,57.24,113.52,Balanced,Balanced
+25/03/2026 18:54:30,42.38,50.01,92.39,Imbalance,Left Vastus Lateralis
+25/03/2026 18:55:00,67.23,84.74,151.97,Imbalance,Left Vastus Lateralis
+25/03/2026 18:55:30,58.27,40.93,99.2,Imbalance,Right Biceps Femoris
+25/03/2026 18:56:00,57.59,36.72,94.31,Imbalance,Right Gluteus Maximus
+25/03/2026 18:56:30,61.79,39.09,100.88,Imbalance,Right Tensor Fasciae Latae
+25/03/2026 18:57:00,71.9,47.99,119.89,Imbalance,Right Gluteus Medius
+25/03/2026 18:57:30,82.62,92.57,175.19,Imbalance,Left Soleus
+25/03/2026 18:58:00,87.02,87.93,174.95,Balanced,Balanced
+25/03/2026 18:58:30,73.11,79.09,152.2,Imbalance,Left Soleus
+25/03/2026 18:59:00,49.55,52.83,102.38,Imbalance,Left Gastrocnemius
+25/03/2026 18:59:30,59.74,61.71,121.45,Balanced,Balanced
+25/03/2026 19:00:00,38.26,30.0,68.26,Imbalance,Right Semimembranosus
+25/03/2026 19:00:30,85.5,85.76,171.26,Balanced,Balanced
+25/03/2026 19:01:00,45.26,40.42,85.68,Imbalance,Right Gastrocnemius
+25/03/2026 19:01:30,39.0,34.16,73.16,Imbalance,Right Gastrocnemius
+25/03/2026 19:02:00,62.56,60.95,123.51,Balanced,Balanced
+25/03/2026 19:02:30,46.38,70.84,117.22,Imbalance,Left Gluteus Minimus
+25/03/2026 19:03:00,70.78,74.37,145.15,Imbalance,Left Gastrocnemius
+25/03/2026 19:03:30,78.36,59.22,137.58,Imbalance,Right Semitendinosus
+25/03/2026 19:04:00,66.4,59.62,126.02,Imbalance,Right Gastrocnemius
+25/03/2026 19:04:30,42.85,36.24,79.09,Imbalance,Right Rectus Femoris
+25/03/2026 19:05:00,37.65,30.0,67.65,Imbalance,Right Gluteus Medius
+25/03/2026 19:05:30,76.47,87.56,164.03,Imbalance,Left Gastrocnemius
+25/03/2026 19:06:00,74.06,80.94,155.0,Imbalance,Left Tibialis Anterior
+25/03/2026 19:06:30,70.68,72.1,142.78,Balanced,Balanced
+25/03/2026 19:07:00,84.59,84.25,168.84,Balanced,Balanced
+25/03/2026 19:07:30,69.97,86.25,156.22,Imbalance,Left Vastus Lateralis
+25/03/2026 19:08:00,39.6,44.23,83.83,Imbalance,Left Soleus
+25/03/2026 19:08:30,83.81,95.0,178.81,Imbalance,Left Biceps Femoris
+25/03/2026 19:09:00,60.9,41.4,102.3,Imbalance,Right Gluteus Maximus
+25/03/2026 19:09:30,81.69,88.54,170.23,Imbalance,Left Tibialis Anterior
+25/03/2026 19:10:00,77.39,86.1,163.49,Imbalance,Left Soleus
+25/03/2026 19:10:30,70.34,71.02,141.36,Balanced,Balanced
+25/03/2026 19:11:00,79.18,80.31,159.49,Balanced,Balanced
+25/03/2026 19:11:30,37.94,55.11,93.05,Imbalance,Left Gluteus Minimus
+25/03/2026 19:12:00,54.55,55.58,110.13,Balanced,Balanced
+25/03/2026 19:12:30,56.93,34.96,91.89,Imbalance,Right Tensor Fasciae Latae
+25/03/2026 19:13:00,78.98,95.0,173.98,Imbalance,Left Rectus Femoris
+25/03/2026 19:13:30,33.45,30.0,63.45,Imbalance,Right Gluteus Minimus
+25/03/2026 19:14:00,43.98,30.0,73.98,Imbalance,Right Gluteus Minimus
+25/03/2026 19:14:30,74.05,52.82,126.87,Imbalance,Right Gracilis
+25/03/2026 19:15:00,42.13,43.29,85.42,Balanced,Balanced
+25/03/2026 19:15:30,51.83,61.9,113.73,Imbalance,Left Vastus Lateralis
+25/03/2026 19:16:00,60.51,73.5,134.01,Imbalance,Left Sartorius
+25/03/2026 19:16:30,44.24,46.15,90.39,Balanced,Balanced
+25/03/2026 19:17:00,34.28,42.42,76.7,Imbalance,Left Vastus Lateralis
+25/03/2026 19:17:30,55.62,36.89,92.51,Imbalance,Right Gluteus Medius
+25/03/2026 19:18:00,34.33,58.22,92.55,Imbalance,Left Gluteus Minimus
+25/03/2026 19:18:30,62.06,84.19,146.25,Imbalance,Left Semitendinosus
+25/03/2026 19:19:00,46.41,46.53,92.94,Balanced,Balanced
+25/03/2026 19:19:30,52.1,59.36,111.46,Imbalance,Left Gastrocnemius
+25/03/2026 19:20:00,46.0,45.48,91.48,Balanced,Balanced
+25/03/2026 19:20:30,60.21,72.22,132.43,Imbalance,Left Sartorius
+25/03/2026 19:21:00,85.08,83.62,168.7,Balanced,Balanced
+25/03/2026 19:21:30,60.62,38.35,98.97,Imbalance,Right Iliopsoas
+25/03/2026 19:22:00,75.53,56.11,131.64,Imbalance,Right Adductor Magnus
+25/03/2026 19:22:30,85.12,95.0,180.12,Imbalance,Left Sartorius
+25/03/2026 19:23:00,76.41,71.52,147.93,Imbalance,Right Gastrocnemius
+25/03/2026 19:23:30,75.92,57.82,133.74,Imbalance,Right Adductor Longus
+25/03/2026 19:24:00,53.8,71.04,124.84,Imbalance,Left Gracilis
+25/03/2026 19:24:30,72.25,91.87,164.12,Imbalance,Left Vastus Medialis
+25/03/2026 19:25:00,41.59,34.16,75.75,Imbalance,Right Vastus Lateralis
+25/03/2026 19:25:30,30.73,39.81,70.54,Imbalance,Left Adductor Longus
+25/03/2026 19:26:00,77.08,87.89,164.97,Imbalance,Left Tibialis Anterior
+25/03/2026 19:26:30,51.18,68.16,119.34,Imbalance,Left Gracilis
+25/03/2026 19:27:00,81.67,91.93,173.6,Imbalance,Left Gastrocnemius
+25/03/2026 19:27:30,38.41,30.0,68.41,Imbalance,Right Gluteus Medius
+25/03/2026 19:28:00,89.82,90.67,180.49,Balanced,Balanced
+25/03/2026 19:28:30,55.23,66.01,121.24,Imbalance,Left Rectus Femoris
+25/03/2026 19:29:00,61.57,63.56,125.13,Balanced,Balanced
+25/03/2026 19:29:30,46.8,45.01,91.81,Balanced,Balanced
+25/03/2026 19:30:00,41.06,39.23,80.29,Balanced,Balanced
+25/03/2026 19:30:30,83.41,95.0,178.41,Imbalance,Left Sartorius
+25/03/2026 19:31:00,64.56,59.68,124.24,Imbalance,Right Tibialis Anterior
+25/03/2026 19:31:30,35.12,30.0,65.12,Imbalance,Right Sartorius
+25/03/2026 19:32:00,42.07,62.96,105.03,Imbalance,Left Iliopsoas
+25/03/2026 19:32:30,63.2,58.87,122.07,Imbalance,Right Gastrocnemius
+25/03/2026 19:33:00,76.18,51.31,127.49,Imbalance,Right Gluteus Minimus
+25/03/2026 19:33:30,54.81,63.76,118.57,Imbalance,Left Sartorius
+25/03/2026 19:34:00,62.81,49.89,112.7,Imbalance,Right Sartorius
+25/03/2026 19:34:30,79.83,95.0,174.83,Imbalance,Left Sartorius
+25/03/2026 19:35:00,35.15,33.41,68.56,Balanced,Balanced
+25/03/2026 19:35:30,87.8,63.52,151.32,Imbalance,Right Biceps Femoris
+25/03/2026 19:36:00,33.0,30.0,63.0,Imbalance,Right Tensor Fasciae Latae
+25/03/2026 19:36:30,63.58,51.4,114.98,Imbalance,Right Vastus Medialis
+25/03/2026 19:37:00,37.4,38.17,75.57,Balanced,Balanced
+25/03/2026 19:37:30,89.8,80.53,170.33,Imbalance,Right Peroneus Longus
+25/03/2026 19:38:00,31.6,32.06,63.66,Balanced,Balanced
+25/03/2026 19:38:30,38.5,30.71,69.21,Imbalance,Right Sartorius
+25/03/2026 19:39:00,55.61,35.02,90.63,Imbalance,Right Iliopsoas
+25/03/2026 19:39:30,78.7,80.67,159.37,Balanced,Balanced
+25/03/2026 19:40:00,86.12,68.21,154.33,Imbalance,Right Vastus Lateralis
+25/03/2026 19:40:30,35.78,30.0,65.78,Imbalance,Right Gluteus Maximus
+25/03/2026 19:41:00,36.56,31.08,67.64,Imbalance,Right Vastus Lateralis
+25/03/2026 19:41:30,86.49,91.42,177.91,Imbalance,Left Soleus
+25/03/2026 19:42:00,45.18,30.91,76.09,Imbalance,Right Gluteus Minimus
+25/03/2026 19:42:30,36.8,55.15,91.95,Imbalance,Left Gluteus Maximus
+25/03/2026 19:43:00,72.91,78.44,151.35,Imbalance,Left Tibialis Anterior
+25/03/2026 19:43:30,86.04,84.35,170.39,Balanced,Balanced
+25/03/2026 19:44:00,72.57,47.69,120.26,Imbalance,Right Gluteus Minimus
+25/03/2026 19:44:30,89.56,86.18,175.74,Imbalance,Right Peroneus Longus
+25/03/2026 19:45:00,37.75,37.52,75.27,Balanced,Balanced
+25/03/2026 19:45:30,55.61,45.02,100.63,Imbalance,Right Vastus Lateralis
+25/03/2026 19:46:00,40.5,53.1,93.6,Imbalance,Left Biceps Femoris
+25/03/2026 19:46:30,66.5,82.96,149.46,Imbalance,Left Sartorius
+25/03/2026 19:47:00,89.83,88.79,178.62,Balanced,Balanced
+25/03/2026 19:47:30,49.42,32.12,81.54,Imbalance,Right Gluteus Minimus
+25/03/2026 19:48:00,36.56,45.94,82.5,Imbalance,Left Rectus Femoris
+25/03/2026 19:48:30,56.03,57.07,113.1,Balanced,Balanced
+25/03/2026 19:49:00,89.02,95.0,184.02,Imbalance,Left Sartorius
+25/03/2026 19:49:30,78.42,71.54,149.96,Imbalance,Right Tibialis Anterior
+25/03/2026 19:50:00,46.17,38.72,84.89,Imbalance,Right Vastus Medialis
+25/03/2026 19:50:30,43.1,43.21,86.31,Balanced,Balanced
+25/03/2026 19:51:00,68.98,59.55,128.53,Imbalance,Right Vastus Lateralis
+25/03/2026 19:51:30,45.71,46.58,92.29,Balanced,Balanced
+25/03/2026 19:52:00,48.33,64.6,112.93,Imbalance,Left Biceps Femoris
+25/03/2026 19:52:30,34.04,41.61,75.65,Imbalance,Left Rectus Femoris
+25/03/2026 19:53:00,64.9,63.72,128.62,Balanced,Balanced
+25/03/2026 19:53:30,76.51,65.55,142.06,Imbalance,Right Sartorius
+25/03/2026 19:54:00,66.81,76.23,143.04,Imbalance,Left Peroneus Longus
+25/03/2026 19:54:30,66.75,68.57,135.32,Balanced,Balanced
+25/03/2026 19:55:00,67.26,81.48,148.74,Imbalance,Left Rectus Femoris
+25/03/2026 19:55:30,49.9,49.21,99.11,Balanced,Balanced
+25/03/2026 19:56:00,33.25,30.0,63.25,Imbalance,Right Biceps Femoris
+25/03/2026 19:56:30,31.95,46.77,78.72,Imbalance,Left Gluteus Maximus
+25/03/2026 19:57:00,74.25,69.39,143.64,Imbalance,Right Tibialis Anterior
+25/03/2026 19:57:30,67.02,66.82,133.84,Balanced,Balanced
+25/03/2026 19:58:00,64.87,78.01,142.88,Imbalance,Left Rectus Femoris
+25/03/2026 19:58:30,32.88,30.0,62.88,Imbalance,Right Tensor Fasciae Latae
+25/03/2026 19:59:00,74.87,93.02,167.89,Imbalance,Left Vastus Medialis
+25/03/2026 19:59:30,55.49,46.96,102.45,Imbalance,Right Vastus Medialis
+25/03/2026 20:00:00,78.45,78.54,156.99,Balanced,Balanced
+25/03/2026 20:00:30,35.03,34.0,69.03,Balanced,Balanced
+25/03/2026 20:01:00,32.49,38.6,71.09,Imbalance,Left Sartorius
+25/03/2026 20:01:30,35.6,30.0,65.6,Imbalance,Right Iliopsoas
+25/03/2026 20:02:00,50.91,50.34,101.25,Balanced,Balanced
+25/03/2026 20:02:30,89.74,86.34,176.08,Imbalance,Right Peroneus Longus
+25/03/2026 20:03:00,87.96,95.0,182.96,Imbalance,Left Vastus Lateralis
+25/03/2026 20:03:30,50.34,32.45,82.79,Imbalance,Right Gluteus Medius
+25/03/2026 20:04:00,49.73,73.82,123.55,Imbalance,Left Gluteus Maximus
+25/03/2026 20:04:30,42.76,56.41,99.17,Imbalance,Left Adductor Magnus
+25/03/2026 20:05:00,56.69,55.2,111.89,Balanced,Balanced
+25/03/2026 20:05:30,36.77,36.11,72.88,Balanced,Balanced
+25/03/2026 20:06:00,87.82,95.0,182.82,Imbalance,Left Sartorius
+25/03/2026 20:06:30,30.66,30.0,60.66,Imbalance,Right Tensor Fasciae Latae
+25/03/2026 20:07:00,33.53,30.0,63.53,Imbalance,Right Vastus Lateralis
+25/03/2026 20:07:30,47.24,52.6,99.84,Imbalance,Left Gastrocnemius
+25/03/2026 20:08:00,70.95,50.37,121.32,Imbalance,Right Biceps Femoris
+25/03/2026 20:08:30,77.87,60.64,138.51,Imbalance,Right Adductor Longus
+25/03/2026 20:09:00,78.64,84.6,163.24,Imbalance,Left Soleus
+25/03/2026 20:09:30,43.79,43.92,87.71,Balanced,Balanced
+25/03/2026 20:10:00,81.55,87.03,168.58,Imbalance,Left Peroneus Longus
+25/03/2026 20:10:30,83.39,95.0,178.39,Imbalance,Left Gracilis
+25/03/2026 20:11:00,55.04,55.34,110.38,Balanced,Balanced
+25/03/2026 20:11:30,44.11,48.65,92.76,Imbalance,Left Tibialis Anterior
+25/03/2026 20:12:00,34.82,51.43,86.25,Imbalance,Left Gluteus Minimus
+25/03/2026 20:12:30,76.49,54.61,131.1,Imbalance,Right Semitendinosus
+25/03/2026 20:13:00,51.11,52.5,103.61,Balanced,Balanced
+25/03/2026 20:13:30,51.24,68.42,119.66,Imbalance,Left Semitendinosus
+25/03/2026 20:14:00,89.22,87.54,176.76,Balanced,Balanced
+25/03/2026 20:14:30,57.21,62.84,120.05,Imbalance,Left Soleus
+25/03/2026 20:15:00,75.37,74.43,149.8,Balanced,Balanced
+25/03/2026 20:15:30,31.08,30.0,61.08,Imbalance,Right Tensor Fasciae Latae
+25/03/2026 20:16:00,51.92,63.35,115.27,Imbalance,Left Rectus Femoris
+25/03/2026 20:16:30,42.76,30.0,72.76,Imbalance,Right Tensor Fasciae Latae
+25/03/2026 20:17:00,50.72,45.85,96.57,Imbalance,Right Tibialis Anterior
+25/03/2026 20:17:30,52.29,52.96,105.25,Balanced,Balanced
+25/03/2026 20:18:00,38.12,30.0,68.12,Imbalance,Right Tensor Fasciae Latae
+25/03/2026 20:18:30,38.68,37.03,75.71,Balanced,Balanced
+25/03/2026 20:19:00,86.51,76.22,162.73,Imbalance,Right Gastrocnemius
+25/03/2026 20:19:30,88.63,67.98,156.61,Imbalance,Right Semimembranosus
+25/03/2026 20:20:00,61.58,38.68,100.26,Imbalance,Right Gluteus Maximus
+25/03/2026 20:20:30,41.49,42.64,84.13,Balanced,Balanced
+25/03/2026 20:21:00,56.06,54.98,111.04,Balanced,Balanced
+25/03/2026 20:21:30,74.64,53.56,128.2,Imbalance,Right Adductor Longus
+25/03/2026 20:22:00,65.03,77.93,142.96,Imbalance,Left Vastus Lateralis
+25/03/2026 20:22:30,77.34,65.71,143.05,Imbalance,Right Vastus Lateralis
+25/03/2026 20:23:00,38.85,55.08,93.93,Imbalance,Left Adductor Magnus
+25/03/2026 20:23:30,50.32,68.42,118.74,Imbalance,Left Adductor Longus
+25/03/2026 20:24:00,76.92,95.0,171.92,Imbalance,Left Semimembranosus
+25/03/2026 20:24:30,70.88,84.24,155.12,Imbalance,Left Vastus Medialis
+25/03/2026 20:25:00,86.11,90.82,176.93,Imbalance,Left Soleus
+25/03/2026 20:25:30,66.89,68.45,135.34,Balanced,Balanced
+25/03/2026 20:26:00,54.96,63.77,118.73,Imbalance,Left Rectus Femoris
+25/03/2026 20:26:30,62.83,46.42,109.25,Imbalance,Right Adductor Magnus
+25/03/2026 20:27:00,49.07,58.8,107.87,Imbalance,Left Vastus Medialis
+25/03/2026 20:27:30,87.9,83.12,171.02,Imbalance,Right Tibialis Anterior
+25/03/2026 20:28:00,83.33,69.39,152.72,Imbalance,Right Sartorius
+25/03/2026 20:28:30,71.56,70.08,141.64,Balanced,Balanced
+25/03/2026 20:29:00,49.11,42.47,91.58,Imbalance,Right Rectus Femoris
+25/03/2026 20:29:30,89.62,81.33,170.95,Imbalance,Right Gastrocnemius
+25/03/2026 20:30:00,86.53,83.23,169.76,Imbalance,Right Peroneus Longus
+25/03/2026 20:30:30,37.85,56.05,93.9,Imbalance,Left Iliopsoas
+25/03/2026 20:31:00,36.97,30.0,66.97,Imbalance,Right Adductor Longus
+25/03/2026 20:31:30,45.29,41.71,87.0,Imbalance,Right Gastrocnemius
+25/03/2026 20:32:00,63.61,47.83,111.44,Imbalance,Right Adductor Longus
+25/03/2026 20:32:30,44.2,66.86,111.06,Imbalance,Left Iliopsoas
+25/03/2026 20:33:00,88.91,95.0,183.91,Imbalance,Left Tibialis Anterior
+25/03/2026 20:33:30,71.79,85.24,157.03,Imbalance,Left Sartorius
+25/03/2026 20:34:00,87.57,78.98,166.55,Imbalance,Right Soleus
+25/03/2026 20:34:30,66.01,84.32,150.33,Imbalance,Left Semitendinosus
+25/03/2026 20:35:00,48.42,41.96,90.38,Imbalance,Right Vastus Lateralis
+25/03/2026 20:35:30,87.19,85.34,172.53,Balanced,Balanced
+25/03/2026 20:36:00,68.56,67.42,135.98,Balanced,Balanced
+25/03/2026 20:36:30,70.3,72.02,142.32,Balanced,Balanced
+25/03/2026 20:37:00,71.84,72.68,144.52,Balanced,Balanced
+25/03/2026 20:37:30,55.36,55.88,111.24,Balanced,Balanced
+25/03/2026 20:38:00,44.71,34.1,78.81,Imbalance,Right Semitendinosus
+25/03/2026 20:38:30,70.98,49.24,120.22,Imbalance,Right Gluteus Maximus
+25/03/2026 20:39:00,70.51,68.55,139.06,Balanced,Balanced
+25/03/2026 20:39:30,67.76,69.31,137.07,Balanced,Balanced
+25/03/2026 20:40:00,43.57,59.15,102.72,Imbalance,Left Semitendinosus
+25/03/2026 20:40:30,55.38,73.99,129.37,Imbalance,Left Gracilis
+25/03/2026 20:41:00,51.5,53.44,104.94,Balanced,Balanced
+25/03/2026 20:41:30,36.83,37.99,74.82,Balanced,Balanced
+25/03/2026 20:42:00,46.64,33.04,79.68,Imbalance,Right Semimembranosus
+25/03/2026 20:42:30,38.54,30.0,68.54,Imbalance,Right Tensor Fasciae Latae
+25/03/2026 20:43:00,64.88,48.49,113.37,Imbalance,Right Semitendinosus
+25/03/2026 20:43:30,84.35,95.0,179.35,Imbalance,Left Sartorius
+25/03/2026 20:44:00,64.89,64.65,129.54,Balanced,Balanced
+25/03/2026 20:44:30,89.08,90.77,179.85,Balanced,Balanced
+25/03/2026 20:45:00,60.07,59.0,119.07,Balanced,Balanced
+25/03/2026 20:45:30,52.98,52.66,105.64,Balanced,Balanced
+25/03/2026 20:46:00,44.31,37.5,81.81,Imbalance,Right Vastus Medialis
+25/03/2026 20:46:30,43.23,48.91,92.14,Imbalance,Left Gastrocnemius
+25/03/2026 20:47:00,56.58,51.75,108.33,Imbalance,Right Gastrocnemius
+25/03/2026 20:47:30,69.21,80.13,149.34,Imbalance,Left Rectus Femoris
+25/03/2026 20:48:00,30.34,30.0,60.34,Imbalance,Right Iliopsoas
+25/03/2026 20:48:30,35.82,30.0,65.82,Imbalance,Right Vastus Lateralis
+25/03/2026 20:49:00,30.04,30.0,60.04,Imbalance,Right Adductor Magnus
+25/03/2026 20:49:30,40.46,35.79,76.25,Imbalance,Right Tibialis Anterior
+25/03/2026 20:50:00,35.05,34.59,69.64,Balanced,Balanced
+25/03/2026 20:50:30,50.05,43.13,93.18,Imbalance,Right Rectus Femoris
+25/03/2026 20:51:00,81.01,95.0,176.01,Imbalance,Left Vastus Lateralis
+25/03/2026 20:51:30,53.32,34.23,87.55,Imbalance,Right Gluteus Maximus
+25/03/2026 20:52:00,89.95,66.6,156.55,Imbalance,Right Adductor Longus
+25/03/2026 20:52:30,43.82,66.56,110.38,Imbalance,Left Iliopsoas
+25/03/2026 20:53:00,73.15,74.23,147.38,Balanced,Balanced
+25/03/2026 20:53:30,31.38,30.0,61.38,Imbalance,Right Adductor Longus
+25/03/2026 20:54:00,49.41,39.19,88.6,Imbalance,Right Vastus Lateralis
+25/03/2026 20:54:30,85.58,79.77,165.35,Imbalance,Right Soleus
+25/03/2026 20:55:00,88.25,90.03,178.28,Balanced,Balanced
+25/03/2026 20:55:30,32.58,49.79,82.37,Imbalance,Left Iliopsoas
+25/03/2026 20:56:00,50.38,51.82,102.2,Balanced,Balanced
+25/03/2026 20:56:30,82.01,81.07,163.08,Balanced,Balanced
+25/03/2026 20:57:00,53.04,35.51,88.55,Imbalance,Right Tensor Fasciae Latae
+25/03/2026 20:57:30,73.16,84.57,157.73,Imbalance,Left Vastus Medialis
+25/03/2026 20:58:00,64.39,79.54,143.93,Imbalance,Left Sartorius
+25/03/2026 20:58:30,71.87,86.73,158.6,Imbalance,Left Rectus Femoris
+25/03/2026 20:59:00,39.8,41.79,81.59,Balanced,Balanced
+25/03/2026 20:59:30,45.39,44.58,89.97,Balanced,Balanced
+25/03/2026 21:00:00,63.87,86.34,150.21,Imbalance,Left Semitendinosus
+25/03/2026 21:00:30,60.83,61.49,122.32,Balanced,Balanced
+25/03/2026 21:01:00,70.89,69.37,140.26,Balanced,Balanced
+25/03/2026 21:01:30,50.34,46.41,96.75,Imbalance,Right Gastrocnemius
+25/03/2026 21:02:00,62.44,71.31,133.75,Imbalance,Left Peroneus Longus
+25/03/2026 21:02:30,47.75,51.55,99.3,Imbalance,Left Gastrocnemius
+25/03/2026 21:03:00,37.64,30.0,67.64,Imbalance,Right Gluteus Medius
+25/03/2026 21:03:30,31.25,30.0,61.25,Imbalance,Right Tensor Fasciae Latae
+25/03/2026 21:04:00,59.63,64.13,123.76,Imbalance,Left Peroneus Longus
+25/03/2026 21:04:30,72.95,73.51,146.46,Balanced,Balanced
+25/03/2026 21:05:00,88.65,82.57,171.22,Imbalance,Right Tibialis Anterior
+25/03/2026 21:05:30,31.73,35.92,67.65,Imbalance,Left Gastrocnemius
+25/03/2026 21:06:00,63.59,63.42,127.01,Balanced,Balanced
+25/03/2026 21:06:30,62.84,63.98,126.82,Balanced,Balanced
+25/03/2026 21:07:00,78.3,90.09,168.39,Imbalance,Left Sartorius
+25/03/2026 21:07:30,79.23,66.28,145.51,Imbalance,Right Sartorius
+25/03/2026 21:08:00,75.73,95.0,170.73,Imbalance,Left Adductor Longus
+25/03/2026 21:08:30,57.32,58.08,115.4,Balanced,Balanced
+25/03/2026 21:09:00,55.01,54.84,109.85,Balanced,Balanced
+25/03/2026 21:09:30,32.73,30.0,62.73,Imbalance,Right Gluteus Maximus
+25/03/2026 21:10:00,68.76,73.11,141.87,Imbalance,Left Soleus
+25/03/2026 21:10:30,64.18,62.75,126.93,Balanced,Balanced
+25/03/2026 21:11:00,60.55,48.79,109.34,Imbalance,Right Sartorius
+25/03/2026 21:11:30,30.52,30.0,60.52,Balanced,Balanced
+25/03/2026 21:12:00,79.49,89.22,168.71,Imbalance,Left Peroneus Longus
+25/03/2026 21:12:30,46.41,65.23,111.64,Imbalance,Left Biceps Femoris
+25/03/2026 21:13:00,81.86,68.7,150.56,Imbalance,Right Vastus Lateralis
+25/03/2026 21:13:30,66.39,90.4,156.79,Imbalance,Left Biceps Femoris
+25/03/2026 21:14:00,82.69,84.61,167.3,Balanced,Balanced
+25/03/2026 21:14:30,63.86,64.0,127.86,Balanced,Balanced
+25/03/2026 21:15:00,35.92,54.77,90.69,Imbalance,Left Gluteus Medius
+25/03/2026 21:15:30,74.95,90.25,165.2,Imbalance,Left Rectus Femoris
+25/03/2026 21:16:00,86.76,69.75,156.51,Imbalance,Right Rectus Femoris
+25/03/2026 21:16:30,61.51,68.7,130.21,Imbalance,Left Soleus
+25/03/2026 21:17:00,89.73,89.52,179.25,Balanced,Balanced
+25/03/2026 21:17:30,39.02,60.84,99.86,Imbalance,Left Iliopsoas
+25/03/2026 21:18:00,30.03,37.06,67.09,Imbalance,Left Vastus Medialis
+25/03/2026 21:18:30,41.49,46.09,87.58,Imbalance,Left Gastrocnemius
+25/03/2026 21:19:00,61.15,65.71,126.86,Imbalance,Left Tibialis Anterior
+25/03/2026 21:19:30,46.82,30.0,76.82,Imbalance,Right Gluteus Maximus
+25/03/2026 21:20:00,64.79,47.51,112.3,Imbalance,Right Adductor Magnus
+25/03/2026 21:20:30,40.92,30.0,70.92,Imbalance,Right Adductor Magnus
+25/03/2026 21:21:00,55.16,76.52,131.68,Imbalance,Left Semitendinosus
+25/03/2026 21:21:30,72.75,92.46,165.21,Imbalance,Left Vastus Medialis
+25/03/2026 21:22:00,73.3,71.52,144.82,Balanced,Balanced
+25/03/2026 21:22:30,61.51,71.35,132.86,Imbalance,Left Vastus Medialis
+25/03/2026 21:23:00,85.97,78.21,164.18,Imbalance,Right Tibialis Anterior
+25/03/2026 21:23:30,30.39,50.37,80.76,Imbalance,Left Gluteus Medius
+25/03/2026 21:24:00,32.06,33.89,65.95,Balanced,Balanced
+25/03/2026 21:24:30,34.01,38.35,72.36,Imbalance,Left Gastrocnemius
+25/03/2026 21:25:00,38.77,57.22,95.99,Imbalance,Left Gluteus Maximus
+25/03/2026 21:25:30,71.74,58.33,130.07,Imbalance,Right Vastus Lateralis
+25/03/2026 21:26:00,78.91,95.0,173.91,Imbalance,Left Semitendinosus
+25/03/2026 21:26:30,79.18,71.33,150.51,Imbalance,Right Tibialis Anterior
+25/03/2026 21:27:00,32.12,30.3,62.42,Balanced,Balanced
+25/03/2026 21:27:30,70.28,70.62,140.9,Balanced,Balanced
+25/03/2026 21:28:00,39.08,46.45,85.53,Imbalance,Left Sartorius
+25/03/2026 21:28:30,52.98,32.43,85.41,Imbalance,Right Gluteus Medius
+25/03/2026 21:29:00,32.29,45.96,78.25,Imbalance,Left Gracilis
+25/03/2026 21:29:30,79.57,80.7,160.27,Balanced,Balanced
+25/03/2026 21:30:00,71.73,71.81,143.54,Balanced,Balanced
+25/03/2026 21:30:30,56.55,51.44,107.99,Imbalance,Right Tibialis Anterior
+25/03/2026 21:31:00,74.56,94.89,169.45,Imbalance,Left Vastus Lateralis
+25/03/2026 21:31:30,72.77,93.04,165.81,Imbalance,Left Semimembranosus
+25/03/2026 21:32:00,64.81,81.4,146.21,Imbalance,Left Sartorius
+25/03/2026 21:32:30,54.43,59.46,113.89,Imbalance,Left Gastrocnemius
+25/03/2026 21:33:00,74.61,75.18,149.79,Balanced,Balanced
+25/03/2026 21:33:30,61.34,73.59,134.93,Imbalance,Left Vastus Lateralis
+25/03/2026 21:34:00,41.87,60.66,102.53,Imbalance,Left Gluteus Maximus
+25/03/2026 21:34:30,50.77,70.68,121.45,Imbalance,Left Gracilis
+25/03/2026 21:35:00,30.02,30.0,60.02,Balanced,Balanced
+25/03/2026 21:35:30,76.97,95.0,171.97,Imbalance,Left Adductor Magnus
+25/03/2026 21:36:00,50.43,74.29,124.72,Imbalance,Left Gluteus Minimus
+25/03/2026 21:36:30,75.76,94.31,170.07,Imbalance,Left Sartorius
+25/03/2026 21:37:00,32.06,39.6,71.66,Imbalance,Left Vastus Medialis
+25/03/2026 21:37:30,58.18,58.86,117.04,Balanced,Balanced
+25/03/2026 21:38:00,41.05,59.58,100.63,Imbalance,Left Gluteus Minimus
+25/03/2026 21:38:30,72.08,72.42,144.5,Balanced,Balanced
+25/03/2026 21:39:00,50.82,72.51,123.33,Imbalance,Left Semimembranosus
+25/03/2026 21:39:30,35.2,54.24,89.44,Imbalance,Left Tensor Fasciae Latae
+25/03/2026 21:40:00,30.08,38.85,68.93,Imbalance,Left Adductor Magnus
+25/03/2026 21:40:30,33.17,50.85,84.02,Imbalance,Left Iliopsoas
+25/03/2026 21:41:00,62.46,61.22,123.68,Balanced,Balanced
+25/03/2026 21:41:30,43.79,30.0,73.79,Imbalance,Right Iliopsoas
+25/03/2026 21:42:00,41.02,65.86,106.88,Imbalance,Left Iliopsoas
+25/03/2026 21:42:30,65.26,81.86,147.12,Imbalance,Left Vastus Medialis
+25/03/2026 21:43:00,38.23,55.51,93.74,Imbalance,Left Tensor Fasciae Latae
+25/03/2026 21:43:30,41.74,30.0,71.74,Imbalance,Right Gluteus Medius
+25/03/2026 21:44:00,34.41,30.0,64.41,Imbalance,Right Tensor Fasciae Latae
+25/03/2026 21:44:30,58.35,79.74,138.09,Imbalance,Left Adductor Magnus
+25/03/2026 21:45:00,80.58,65.47,146.05,Imbalance,Right Vastus Medialis
+25/03/2026 21:45:30,68.06,44.64,112.7,Imbalance,Right Tensor Fasciae Latae
+25/03/2026 21:46:00,65.73,65.17,130.9,Balanced,Balanced
+25/03/2026 21:46:30,82.88,95.0,177.88,Imbalance,Left Vastus Lateralis
+25/03/2026 21:47:00,36.47,30.0,66.47,Imbalance,Right Tensor Fasciae Latae
+25/03/2026 21:47:30,58.3,46.62,104.92,Imbalance,Right Sartorius
+25/03/2026 21:48:00,70.12,82.36,152.48,Imbalance,Left Vastus Medialis
+25/03/2026 21:48:30,81.16,65.76,146.92,Imbalance,Right Rectus Femoris
+25/03/2026 21:49:00,65.22,70.36,135.58,Imbalance,Left Gastrocnemius
+25/03/2026 21:49:30,83.5,82.42,165.92,Balanced,Balanced
+25/03/2026 21:50:00,81.53,65.12,146.65,Imbalance,Right Vastus Lateralis
+25/03/2026 21:50:30,72.0,73.25,145.25,Balanced,Balanced
+25/03/2026 21:51:00,58.69,36.52,95.21,Imbalance,Right Tensor Fasciae Latae
+25/03/2026 21:51:30,69.95,86.67,156.62,Imbalance,Left Sartorius
+25/03/2026 21:52:00,77.5,95.0,172.5,Imbalance,Left Semimembranosus
+25/03/2026 21:52:30,31.74,30.0,61.74,Imbalance,Right Gastrocnemius
+25/03/2026 21:53:00,69.12,47.71,116.83,Imbalance,Right Gluteus Medius
+25/03/2026 21:53:30,43.29,42.65,85.94,Balanced,Balanced
+25/03/2026 21:54:00,73.17,71.62,144.79,Balanced,Balanced
+25/03/2026 21:54:30,89.6,87.66,177.26,Balanced,Balanced
+25/03/2026 21:55:00,72.24,77.06,149.3,Imbalance,Left Soleus
+25/03/2026 21:55:30,54.8,47.99,102.79,Imbalance,Right Tibialis Anterior
+25/03/2026 21:56:00,65.76,64.03,129.79,Balanced,Balanced
+25/03/2026 21:56:30,54.56,54.77,109.33,Balanced,Balanced
+25/03/2026 21:57:00,54.07,36.71,90.78,Imbalance,Right Iliopsoas
+25/03/2026 21:57:30,53.89,73.05,126.94,Imbalance,Left Semitendinosus
+25/03/2026 21:58:00,32.31,31.0,63.31,Balanced,Balanced
+25/03/2026 21:58:30,75.04,73.94,148.98,Balanced,Balanced
+25/03/2026 21:59:00,65.07,65.09,130.16,Balanced,Balanced
+25/03/2026 21:59:30,34.45,57.24,91.69,Imbalance,Left Gluteus Minimus
+25/03/2026 22:00:00,71.81,47.11,118.92,Imbalance,Right Gluteus Minimus
+25/03/2026 22:00:30,49.07,48.06,97.13,Balanced,Balanced
+25/03/2026 22:01:00,59.93,51.88,111.81,Imbalance,Right Vastus Lateralis
+25/03/2026 22:01:30,84.5,59.81,144.31,Imbalance,Right Semitendinosus
+25/03/2026 22:02:00,82.58,95.0,177.58,Imbalance,Left Vastus Lateralis
+25/03/2026 22:02:30,42.05,41.01,83.06,Balanced,Balanced
+25/03/2026 22:03:00,84.03,95.0,179.03,Imbalance,Left Semimembranosus
+25/03/2026 22:03:30,54.92,70.25,125.17,Imbalance,Left Semimembranosus
+25/03/2026 22:04:00,33.01,55.63,88.64,Imbalance,Left Gluteus Maximus
+25/03/2026 22:04:30,45.9,30.0,75.9,Imbalance,Right Gluteus Maximus
+25/03/2026 22:05:00,40.11,43.3,83.41,Imbalance,Left Peroneus Longus
+25/03/2026 22:05:30,43.34,51.57,94.91,Imbalance,Left Sartorius
+25/03/2026 22:06:00,37.97,30.0,67.97,Imbalance,Right Adductor Longus
+25/03/2026 22:06:30,54.9,55.18,110.08,Balanced,Balanced
+25/03/2026 22:07:00,78.76,79.12,157.88,Balanced,Balanced
+25/03/2026 22:07:30,82.46,95.0,177.46,Imbalance,Left Rectus Femoris
+25/03/2026 22:08:00,52.11,76.84,128.95,Imbalance,Left Iliopsoas
+25/03/2026 22:08:30,75.19,95.0,170.19,Imbalance,Left Adductor Magnus
+25/03/2026 22:09:00,73.26,50.61,123.87,Imbalance,Right Tensor Fasciae Latae
+25/03/2026 22:09:30,79.05,72.73,151.78,Imbalance,Right Tibialis Anterior
+25/03/2026 22:10:00,38.85,30.0,68.85,Imbalance,Right Gluteus Minimus
+25/03/2026 22:10:30,60.65,74.13,134.78,Imbalance,Left Rectus Femoris
+25/03/2026 22:11:00,85.68,85.95,171.63,Balanced,Balanced
+25/03/2026 22:11:30,89.65,95.0,184.65,Imbalance,Left Peroneus Longus
+25/03/2026 22:12:00,64.68,65.14,129.82,Balanced,Balanced
+25/03/2026 22:12:30,38.63,56.23,94.86,Imbalance,Left Gluteus Maximus
+25/03/2026 22:13:00,67.19,88.72,155.91,Imbalance,Left Biceps Femoris
+25/03/2026 22:13:30,48.3,44.21,92.51,Imbalance,Right Soleus
+25/03/2026 22:14:00,68.38,77.63,146.01,Imbalance,Left Peroneus Longus
+25/03/2026 22:14:30,32.69,30.0,62.69,Imbalance,Right Iliopsoas
+25/03/2026 22:15:00,73.06,49.13,122.19,Imbalance,Right Iliopsoas
+25/03/2026 22:15:30,61.96,51.48,113.44,Imbalance,Right Sartorius
+25/03/2026 22:16:00,64.76,48.91,113.67,Imbalance,Right Adductor Longus
+25/03/2026 22:16:30,62.05,62.43,124.48,Balanced,Balanced
+25/03/2026 22:17:00,36.01,30.0,66.01,Imbalance,Right Gluteus Maximus
+25/03/2026 22:17:30,59.52,34.95,94.47,Imbalance,Right Gluteus Medius
+25/03/2026 22:18:00,66.41,87.4,153.81,Imbalance,Left Semimembranosus
+25/03/2026 22:18:30,45.69,45.03,90.72,Balanced,Balanced
+25/03/2026 22:19:00,70.01,86.13,156.14,Imbalance,Left Vastus Lateralis
+25/03/2026 22:19:30,59.44,79.62,139.06,Imbalance,Left Adductor Longus
+25/03/2026 22:20:00,31.78,30.0,61.78,Imbalance,Right Iliopsoas
+25/03/2026 22:20:30,39.54,30.0,69.54,Imbalance,Right Tensor Fasciae Latae
+25/03/2026 22:21:00,83.01,73.5,156.51,Imbalance,Right Soleus
+25/03/2026 22:21:30,81.57,73.78,155.35,Imbalance,Right Gastrocnemius
+25/03/2026 22:22:00,49.61,30.0,79.61,Imbalance,Right Iliopsoas
+25/03/2026 22:22:30,63.54,54.15,117.69,Imbalance,Right Rectus Femoris
+25/03/2026 22:23:00,57.85,77.58,135.43,Imbalance,Left Adductor Magnus
+25/03/2026 22:23:30,76.14,95.0,171.14,Imbalance,Left Semitendinosus
+25/03/2026 22:24:00,56.87,57.36,114.23,Balanced,Balanced
+25/03/2026 22:24:30,38.98,30.0,68.98,Imbalance,Right Tensor Fasciae Latae
+25/03/2026 22:25:00,81.38,58.15,139.53,Imbalance,Right Semitendinosus
+25/03/2026 22:25:30,30.74,30.7,61.44,Balanced,Balanced
+25/03/2026 22:26:00,86.65,77.6,164.25,Imbalance,Right Gastrocnemius
+25/03/2026 22:26:30,72.96,59.67,132.63,Imbalance,Right Rectus Femoris
+25/03/2026 22:27:00,54.3,64.24,118.54,Imbalance,Left Rectus Femoris
+25/03/2026 22:27:30,76.95,63.42,140.37,Imbalance,Right Sartorius
+25/03/2026 22:28:00,70.68,68.74,139.42,Balanced,Balanced
+25/03/2026 22:28:30,63.88,44.74,108.62,Imbalance,Right Semitendinosus
+25/03/2026 22:29:00,68.16,68.32,136.48,Balanced,Balanced
+25/03/2026 22:29:30,68.78,68.96,137.74,Balanced,Balanced
+25/03/2026 22:30:00,75.72,53.58,129.3,Imbalance,Right Biceps Femoris
+25/03/2026 22:30:30,79.63,70.17,149.8,Imbalance,Right Gastrocnemius
+25/03/2026 22:31:00,76.11,61.47,137.58,Imbalance,Right Vastus Medialis
+25/03/2026 22:31:30,32.98,30.0,62.98,Imbalance,Right Iliopsoas
+25/03/2026 22:32:00,81.31,69.32,150.63,Imbalance,Right Rectus Femoris
+25/03/2026 22:32:30,45.1,61.49,106.59,Imbalance,Left Semimembranosus
+25/03/2026 22:33:00,86.33,75.69,162.02,Imbalance,Right Peroneus Longus
+25/03/2026 22:33:30,39.28,39.81,79.09,Balanced,Balanced
+25/03/2026 22:34:00,55.07,55.63,110.7,Balanced,Balanced
+25/03/2026 22:34:30,83.33,84.87,168.2,Balanced,Balanced
+25/03/2026 22:35:00,34.76,49.07,83.83,Imbalance,Left Semitendinosus
+25/03/2026 22:35:30,79.02,77.37,156.39,Balanced,Balanced
+25/03/2026 22:36:00,80.27,88.59,168.86,Imbalance,Left Gastrocnemius
+25/03/2026 22:36:30,86.96,86.77,173.73,Balanced,Balanced
+25/03/2026 22:37:00,86.86,85.33,172.19,Balanced,Balanced
+25/03/2026 22:37:30,35.68,36.51,72.19,Balanced,Balanced
+25/03/2026 22:38:00,31.85,36.16,68.01,Imbalance,Left Soleus
+25/03/2026 22:38:30,85.98,79.23,165.21,Imbalance,Right Tibialis Anterior
+25/03/2026 22:39:00,43.0,66.63,109.63,Imbalance,Left Iliopsoas
+25/03/2026 22:39:30,66.19,65.83,132.02,Balanced,Balanced
+25/03/2026 22:40:00,87.08,86.06,173.14,Balanced,Balanced
+25/03/2026 22:40:30,83.46,95.0,178.46,Imbalance,Left Semimembranosus
+25/03/2026 22:41:00,60.92,72.64,133.56,Imbalance,Left Vastus Lateralis
+25/03/2026 22:41:30,39.23,32.32,71.55,Imbalance,Right Rectus Femoris
+25/03/2026 22:42:00,57.68,61.78,119.46,Imbalance,Left Peroneus Longus
+25/03/2026 22:42:30,57.57,58.75,116.32,Balanced,Balanced
+25/03/2026 22:43:00,40.6,63.93,104.53,Imbalance,Left Gluteus Maximus
+25/03/2026 22:43:30,44.84,37.79,82.63,Imbalance,Right Rectus Femoris
+25/03/2026 22:44:00,50.77,37.72,88.49,Imbalance,Right Biceps Femoris
+25/03/2026 22:44:30,69.32,78.93,148.25,Imbalance,Left Tibialis Anterior
+25/03/2026 22:45:00,71.46,85.01,156.47,Imbalance,Left Vastus Lateralis
+25/03/2026 22:45:30,43.28,54.59,97.87,Imbalance,Left Vastus Lateralis
+25/03/2026 22:46:00,67.4,56.46,123.86,Imbalance,Right Rectus Femoris
+25/03/2026 22:46:30,80.3,86.42,166.72,Imbalance,Left Soleus
+25/03/2026 22:47:00,65.86,69.94,135.8,Imbalance,Left Gastrocnemius
+25/03/2026 22:47:30,50.09,51.41,101.5,Balanced,Balanced
+25/03/2026 22:48:00,76.5,68.6,145.1,Imbalance,Right Gastrocnemius
+25/03/2026 22:48:30,74.56,65.94,140.5,Imbalance,Right Tibialis Anterior
+25/03/2026 22:49:00,81.74,85.6,167.34,Imbalance,Left Tibialis Anterior
+25/03/2026 22:49:30,58.26,78.21,136.47,Imbalance,Left Adductor Longus
+25/03/2026 22:50:00,31.65,43.1,74.75,Imbalance,Left Adductor Magnus
+25/03/2026 22:50:30,69.03,77.24,146.27,Imbalance,Left Gastrocnemius
+25/03/2026 22:51:00,32.76,30.0,62.76,Imbalance,Right Tensor Fasciae Latae
+25/03/2026 22:51:30,61.46,68.23,129.69,Imbalance,Left Tibialis Anterior
+25/03/2026 22:52:00,38.53,44.99,83.52,Imbalance,Left Sartorius
+25/03/2026 22:52:30,83.31,91.73,175.04,Imbalance,Left Gastrocnemius
+25/03/2026 22:53:00,70.93,95.0,165.93,Imbalance,Left Semitendinosus
+25/03/2026 22:53:30,40.46,40.64,81.1,Balanced,Balanced
+25/03/2026 22:54:00,84.11,85.38,169.49,Balanced,Balanced
+25/03/2026 22:54:30,78.01,55.87,133.88,Imbalance,Right Adductor Longus
+25/03/2026 22:55:00,64.45,76.73,141.18,Imbalance,Left Rectus Femoris
+25/03/2026 22:55:30,56.39,37.22,93.61,Imbalance,Right Iliopsoas
+25/03/2026 22:56:00,71.17,72.71,143.88,Balanced,Balanced
+25/03/2026 22:56:30,54.94,74.51,129.45,Imbalance,Left Biceps Femoris
+25/03/2026 22:57:00,68.02,69.44,137.46,Balanced,Balanced
+25/03/2026 22:57:30,37.58,58.99,96.57,Imbalance,Left Gluteus Medius
+25/03/2026 22:58:00,60.86,60.33,121.19,Balanced,Balanced
+25/03/2026 22:58:30,51.48,36.1,87.58,Imbalance,Right Adductor Longus
+25/03/2026 22:59:00,86.66,80.03,166.69,Imbalance,Right Gastrocnemius
+25/03/2026 22:59:30,48.6,53.52,102.12,Imbalance,Left Soleus
+25/03/2026 23:00:00,31.12,30.06,61.18,Balanced,Balanced
+25/03/2026 23:00:30,43.34,30.0,73.34,Imbalance,Right Gluteus Maximus
+25/03/2026 23:01:00,43.01,30.0,73.01,Imbalance,Right Tensor Fasciae Latae
+25/03/2026 23:01:30,53.5,32.0,85.5,Imbalance,Right Iliopsoas
+25/03/2026 23:02:00,41.48,31.31,72.79,Imbalance,Right Gracilis
+25/03/2026 23:02:30,47.18,32.39,79.57,Imbalance,Right Gluteus Minimus
+25/03/2026 23:03:00,86.1,95.0,181.1,Imbalance,Left Biceps Femoris
+25/03/2026 23:03:30,37.13,35.62,72.75,Balanced,Balanced
+25/03/2026 23:04:00,63.58,39.28,102.86,Imbalance,Right Tensor Fasciae Latae
+25/03/2026 23:04:30,59.12,48.68,107.8,Imbalance,Right Vastus Lateralis
+25/03/2026 23:05:00,58.55,61.97,120.52,Imbalance,Left Peroneus Longus
+25/03/2026 23:05:30,73.21,73.7,146.91,Balanced,Balanced
+25/03/2026 23:06:00,65.1,70.35,135.45,Imbalance,Left Gastrocnemius
+25/03/2026 23:06:30,86.24,62.51,148.75,Imbalance,Right Semimembranosus
+25/03/2026 23:07:00,86.86,67.19,154.05,Imbalance,Right Biceps Femoris
+25/03/2026 23:07:30,80.49,95.0,175.49,Imbalance,Left Rectus Femoris
+25/03/2026 23:08:00,48.81,63.27,112.08,Imbalance,Left Gracilis
+25/03/2026 23:08:30,37.58,30.0,67.58,Imbalance,Right Gluteus Minimus
+25/03/2026 23:09:00,52.43,52.96,105.39,Balanced,Balanced
+25/03/2026 23:09:30,32.7,31.87,64.57,Balanced,Balanced
+25/03/2026 23:10:00,40.67,30.0,70.67,Imbalance,Right Tensor Fasciae Latae
+25/03/2026 23:10:30,61.57,37.73,99.3,Imbalance,Right Gluteus Maximus
+25/03/2026 23:11:00,65.67,41.49,107.16,Imbalance,Right Tensor Fasciae Latae
+25/03/2026 23:11:30,83.9,80.62,164.52,Imbalance,Right Peroneus Longus
+25/03/2026 23:12:00,79.33,74.75,154.08,Imbalance,Right Gastrocnemius
+25/03/2026 23:12:30,45.31,30.0,75.31,Imbalance,Right Iliopsoas
+25/03/2026 23:13:00,69.14,69.14,138.28,Balanced,Balanced
+25/03/2026 23:13:30,85.99,95.0,180.99,Imbalance,Left Sartorius
+25/03/2026 23:14:00,42.38,59.25,101.63,Imbalance,Left Gracilis
+25/03/2026 23:14:30,74.7,63.83,138.53,Imbalance,Right Vastus Lateralis
+25/03/2026 23:15:00,30.98,30.0,60.98,Imbalance,Right Vastus Medialis
+25/03/2026 23:15:30,55.1,74.74,129.84,Imbalance,Left Gracilis
+25/03/2026 23:16:00,51.18,40.53,91.71,Imbalance,Right Vastus Medialis
+25/03/2026 23:16:30,49.97,46.58,96.55,Imbalance,Right Peroneus Longus
+25/03/2026 23:17:00,82.59,78.92,161.51,Imbalance,Right Peroneus Longus
+25/03/2026 23:17:30,66.66,53.27,119.93,Imbalance,Right Sartorius
+25/03/2026 23:18:00,79.24,95.0,174.24,Imbalance,Left Vastus Lateralis
+25/03/2026 23:18:30,77.23,81.92,159.15,Imbalance,Left Tibialis Anterior
+25/03/2026 23:19:00,89.11,87.74,176.85,Balanced,Balanced
+25/03/2026 23:19:30,77.49,67.76,145.25,Imbalance,Right Peroneus Longus
+25/03/2026 23:20:00,39.58,48.93,88.51,Imbalance,Left Sartorius
+25/03/2026 23:20:30,65.69,86.29,151.98,Imbalance,Left Biceps Femoris
+25/03/2026 23:21:00,82.38,95.0,177.38,Imbalance,Left Rectus Femoris
+25/03/2026 23:21:30,44.48,37.57,82.05,Imbalance,Right Vastus Lateralis
+25/03/2026 23:22:00,59.19,60.97,120.16,Balanced,Balanced
+25/03/2026 23:22:30,87.56,89.5,177.06,Balanced,Balanced
+25/03/2026 23:23:00,47.69,36.95,84.64,Imbalance,Right Adductor Longus
+25/03/2026 23:23:30,64.48,80.85,145.33,Imbalance,Left Vastus Lateralis
+25/03/2026 23:24:00,69.07,92.92,161.99,Imbalance,Left Adductor Longus
+25/03/2026 23:24:30,82.74,84.6,167.34,Balanced,Balanced
+25/03/2026 23:25:00,78.72,55.49,134.21,Imbalance,Right Adductor Magnus
+25/03/2026 23:25:30,71.7,92.93,164.63,Imbalance,Left Adductor Longus
+25/03/2026 23:26:00,87.31,95.0,182.31,Imbalance,Left Gastrocnemius
+25/03/2026 23:26:30,63.34,40.22,103.56,Imbalance,Right Iliopsoas
+25/03/2026 23:27:00,43.51,67.61,111.12,Imbalance,Left Iliopsoas
+25/03/2026 23:27:30,71.78,70.41,142.19,Balanced,Balanced
+25/03/2026 23:28:00,44.69,69.69,114.38,Imbalance,Left Tensor Fasciae Latae
+25/03/2026 23:28:30,31.85,45.57,77.42,Imbalance,Left Semitendinosus
+25/03/2026 23:29:00,45.94,59.45,105.39,Imbalance,Left Semitendinosus
+25/03/2026 23:29:30,64.33,86.89,151.22,Imbalance,Left Semimembranosus
+25/03/2026 23:30:00,79.8,78.54,158.34,Balanced,Balanced
+25/03/2026 23:30:30,68.99,45.7,114.69,Imbalance,Right Iliopsoas
+25/03/2026 23:31:00,44.62,38.14,82.76,Imbalance,Right Rectus Femoris
+25/03/2026 23:31:30,85.55,95.0,180.55,Imbalance,Left Vastus Medialis
+25/03/2026 23:32:00,65.65,64.37,130.02,Balanced,Balanced
+25/03/2026 23:32:30,81.25,82.13,163.38,Balanced,Balanced
+25/03/2026 23:33:00,40.53,59.27,99.8,Imbalance,Left Gluteus Minimus
+25/03/2026 23:33:30,82.09,75.83,157.92,Imbalance,Right Gastrocnemius
+25/03/2026 23:34:00,32.52,30.0,62.52,Imbalance,Right Tensor Fasciae Latae
+25/03/2026 23:34:30,64.13,63.9,128.03,Balanced,Balanced
+25/03/2026 23:35:00,33.73,30.0,63.73,Imbalance,Right Vastus Medialis
+25/03/2026 23:35:30,31.56,51.43,82.99,Imbalance,Left Gluteus Minimus
+25/03/2026 23:36:00,72.16,72.84,145.0,Balanced,Balanced
+25/03/2026 23:36:30,72.21,73.45,145.66,Balanced,Balanced
+25/03/2026 23:37:00,87.4,95.0,182.4,Imbalance,Left Peroneus Longus
+25/03/2026 23:37:30,45.77,51.64,97.41,Imbalance,Left Soleus
+25/03/2026 23:38:00,79.87,78.87,158.74,Balanced,Balanced
+25/03/2026 23:38:30,30.02,30.0,60.02,Balanced,Balanced
+25/03/2026 23:39:00,40.33,57.37,97.7,Imbalance,Left Adductor Longus
+25/03/2026 23:39:30,87.84,95.0,182.84,Imbalance,Left Vastus Medialis
+25/03/2026 23:40:00,43.01,43.85,86.86,Balanced,Balanced
+25/03/2026 23:40:30,50.46,52.43,102.89,Balanced,Balanced
+25/03/2026 23:41:00,56.66,56.33,112.99,Balanced,Balanced
+25/03/2026 23:41:30,85.74,84.84,170.58,Balanced,Balanced
+25/03/2026 23:42:00,88.75,70.55,159.3,Imbalance,Right Sartorius
+25/03/2026 23:42:30,55.95,65.89,121.84,Imbalance,Left Sartorius
+25/03/2026 23:43:00,40.69,53.72,94.41,Imbalance,Left Semitendinosus
+25/03/2026 23:43:30,38.44,30.0,68.44,Imbalance,Right Gluteus Minimus
+25/03/2026 23:44:00,32.09,32.02,64.11,Balanced,Balanced
+25/03/2026 23:44:30,62.37,55.81,118.18,Imbalance,Right Tibialis Anterior
+25/03/2026 23:45:00,70.96,71.76,142.72,Balanced,Balanced
+25/03/2026 23:45:30,80.69,95.0,175.69,Imbalance,Left Sartorius
+25/03/2026 23:46:00,44.4,57.31,101.71,Imbalance,Left Adductor Magnus
+25/03/2026 23:46:30,44.89,30.0,74.89,Imbalance,Right Gluteus Medius
+25/03/2026 23:47:00,65.85,72.6,138.45,Imbalance,Left Tibialis Anterior
+25/03/2026 23:47:30,66.37,65.03,131.4,Balanced,Balanced
+25/03/2026 23:48:00,41.9,49.04,90.94,Imbalance,Left Sartorius
+25/03/2026 23:48:30,61.09,56.68,117.77,Imbalance,Right Peroneus Longus
+25/03/2026 23:49:00,30.14,30.0,60.14,Imbalance,Right Gluteus Maximus
+25/03/2026 23:49:30,36.88,51.5,88.38,Imbalance,Left Gracilis
+25/03/2026 23:50:00,60.0,80.52,140.52,Imbalance,Left Adductor Magnus
+25/03/2026 23:50:30,75.02,95.0,170.02,Imbalance,Left Adductor Magnus
+25/03/2026 23:51:00,34.25,32.96,67.21,Balanced,Balanced
+25/03/2026 23:51:30,78.83,95.0,173.83,Imbalance,Left Adductor Longus
+25/03/2026 23:52:00,34.13,34.63,68.76,Balanced,Balanced
+25/03/2026 23:52:30,61.04,36.66,97.7,Imbalance,Right Gluteus Medius
+25/03/2026 23:53:00,65.7,63.9,129.6,Balanced,Balanced
+25/03/2026 23:53:30,51.48,43.32,94.8,Imbalance,Right Rectus Femoris
+25/03/2026 23:54:00,53.88,39.58,93.46,Imbalance,Right Semimembranosus
+25/03/2026 23:54:30,62.76,50.45,113.21,Imbalance,Right Rectus Femoris
+25/03/2026 23:55:00,54.64,76.98,131.62,Imbalance,Left Semimembranosus
+25/03/2026 23:55:30,61.49,62.91,124.4,Balanced,Balanced
+25/03/2026 23:56:00,88.07,95.0,183.07,Imbalance,Left Vastus Lateralis
+25/03/2026 23:56:30,58.94,75.49,134.43,Imbalance,Left Adductor Magnus
+25/03/2026 23:57:00,61.0,61.44,122.44,Balanced,Balanced
+25/03/2026 23:57:30,87.42,82.85,170.27,Imbalance,Right Gastrocnemius
+25/03/2026 23:58:00,80.58,95.0,175.58,Imbalance,Left Semimembranosus
+25/03/2026 23:58:30,53.76,73.9,127.66,Imbalance,Left Adductor Longus
+25/03/2026 23:59:00,76.36,81.85,158.21,Imbalance,Left Peroneus Longus
+25/03/2026 23:59:30,61.76,44.69,106.45,Imbalance,Right Biceps Femoris
+26/03/2026 00:00:00,86.37,62.05,148.42,Imbalance,Right Biceps Femoris
+26/03/2026 00:00:30,46.91,63.97,110.88,Imbalance,Left Semimembranosus
+26/03/2026 00:01:00,49.07,30.0,79.07,Imbalance,Right Gluteus Maximus
+26/03/2026 00:01:30,64.15,72.7,136.85,Imbalance,Left Soleus
+26/03/2026 00:02:00,62.85,63.24,126.09,Balanced,Balanced
+26/03/2026 00:02:30,76.68,59.2,135.88,Imbalance,Right Biceps Femoris
+26/03/2026 00:03:00,70.79,66.0,136.79,Imbalance,Right Tibialis Anterior
+26/03/2026 00:03:30,36.98,38.92,75.9,Balanced,Balanced
+26/03/2026 00:04:00,59.11,83.35,142.46,Imbalance,Left Adductor Magnus
+26/03/2026 00:04:30,61.86,57.26,119.12,Imbalance,Right Gastrocnemius
+26/03/2026 00:05:00,42.46,31.73,74.19,Imbalance,Right Semitendinosus
+26/03/2026 00:05:30,68.7,53.32,122.02,Imbalance,Right Semimembranosus
+26/03/2026 00:06:00,59.82,59.34,119.16,Balanced,Balanced
+26/03/2026 00:06:30,75.07,56.21,131.28,Imbalance,Right Adductor Magnus
+26/03/2026 00:07:00,63.88,64.45,128.33,Balanced,Balanced
+26/03/2026 00:07:30,83.29,84.75,168.04,Balanced,Balanced
+26/03/2026 00:08:00,33.29,30.0,63.29,Imbalance,Right Iliopsoas
+26/03/2026 00:08:30,44.68,44.15,88.83,Balanced,Balanced
+26/03/2026 00:09:00,63.6,40.67,104.27,Imbalance,Right Iliopsoas
+26/03/2026 00:09:30,63.06,76.31,139.37,Imbalance,Left Rectus Femoris
+26/03/2026 00:10:00,65.28,72.27,137.55,Imbalance,Left Tibialis Anterior
+26/03/2026 00:10:30,47.36,48.59,95.95,Balanced,Balanced
+26/03/2026 00:11:00,39.18,40.24,79.42,Balanced,Balanced
+26/03/2026 00:11:30,68.08,67.99,136.07,Balanced,Balanced
+26/03/2026 00:12:00,83.62,59.52,143.14,Imbalance,Right Gracilis
+26/03/2026 00:12:30,50.48,57.62,108.1,Imbalance,Left Soleus
+26/03/2026 00:13:00,54.45,30.12,84.57,Imbalance,Right Gluteus Medius
+26/03/2026 00:13:30,67.57,65.92,133.49,Balanced,Balanced
+26/03/2026 00:14:00,77.66,80.67,158.33,Imbalance,Left Gastrocnemius
+26/03/2026 00:14:30,89.27,71.37,160.64,Imbalance,Right Vastus Lateralis
+26/03/2026 00:15:00,69.37,78.13,147.5,Imbalance,Left Soleus
+26/03/2026 00:15:30,61.03,49.08,110.11,Imbalance,Right Vastus Lateralis
+26/03/2026 00:16:00,40.94,44.37,85.31,Imbalance,Left Peroneus Longus
+26/03/2026 00:16:30,44.55,31.49,76.04,Imbalance,Right Semimembranosus
+26/03/2026 00:17:00,37.93,30.0,67.93,Imbalance,Right Iliopsoas
+26/03/2026 00:17:30,33.85,30.0,63.85,Imbalance,Right Tensor Fasciae Latae
+26/03/2026 00:18:00,48.01,30.0,78.01,Imbalance,Right Iliopsoas
+26/03/2026 00:18:30,67.82,43.25,111.07,Imbalance,Right Iliopsoas
+26/03/2026 00:19:00,31.8,30.0,61.8,Imbalance,Right Vastus Lateralis
+26/03/2026 00:19:30,86.94,93.75,180.69,Imbalance,Left Tibialis Anterior
+26/03/2026 00:20:00,83.5,85.08,168.58,Balanced,Balanced
+26/03/2026 00:20:30,56.07,66.37,122.44,Imbalance,Left Vastus Lateralis
+26/03/2026 00:21:00,30.41,30.0,60.41,Balanced,Balanced
+26/03/2026 00:21:30,45.55,30.0,75.55,Imbalance,Right Tensor Fasciae Latae
+26/03/2026 00:22:00,59.74,61.37,121.11,Balanced,Balanced
+26/03/2026 00:22:30,36.54,44.97,81.51,Imbalance,Left Vastus Lateralis
+26/03/2026 00:23:00,80.76,80.27,161.03,Balanced,Balanced
+26/03/2026 00:23:30,62.8,54.76,117.56,Imbalance,Right Tibialis Anterior
+26/03/2026 00:24:00,56.3,36.85,93.15,Imbalance,Right Gluteus Minimus
+26/03/2026 00:24:30,89.44,71.17,160.61,Imbalance,Right Rectus Femoris
+26/03/2026 00:25:00,60.24,61.0,121.24,Balanced,Balanced
+26/03/2026 00:25:30,60.43,60.62,121.05,Balanced,Balanced
+26/03/2026 00:26:00,32.59,53.22,85.81,Imbalance,Left Iliopsoas
+26/03/2026 00:26:30,57.82,56.14,113.96,Balanced,Balanced
+26/03/2026 00:27:00,36.46,30.0,66.46,Imbalance,Right Gluteus Minimus
+26/03/2026 00:27:30,52.66,31.57,84.23,Imbalance,Right Tensor Fasciae Latae
+26/03/2026 00:28:00,58.44,69.1,127.54,Imbalance,Left Vastus Lateralis
+26/03/2026 00:28:30,44.93,45.47,90.4,Balanced,Balanced
+26/03/2026 00:29:00,60.1,75.54,135.64,Imbalance,Left Vastus Lateralis
+26/03/2026 00:29:30,80.97,95.0,175.97,Imbalance,Left Rectus Femoris
+26/03/2026 00:30:00,42.31,41.23,83.54,Balanced,Balanced
+26/03/2026 00:30:30,48.55,38.82,87.37,Imbalance,Right Vastus Medialis
+26/03/2026 00:31:00,33.0,30.0,63.0,Imbalance,Right Gluteus Minimus
+26/03/2026 00:31:30,69.55,67.87,137.42,Balanced,Balanced
+26/03/2026 00:32:00,81.54,60.02,141.56,Imbalance,Right Semimembranosus
+26/03/2026 00:32:30,89.23,95.0,184.23,Imbalance,Left Vastus Lateralis
+26/03/2026 00:33:00,80.72,81.8,162.52,Balanced,Balanced
+26/03/2026 00:33:30,86.74,78.44,165.18,Imbalance,Right Tibialis Anterior
+26/03/2026 00:34:00,57.26,75.69,132.95,Imbalance,Left Semitendinosus
+26/03/2026 00:34:30,38.45,39.68,78.13,Balanced,Balanced
+26/03/2026 00:35:00,53.93,48.77,102.7,Imbalance,Right Peroneus Longus
+26/03/2026 00:35:30,58.86,56.87,115.73,Balanced,Balanced
+26/03/2026 00:36:00,54.81,61.35,116.16,Imbalance,Left Tibialis Anterior
+26/03/2026 00:36:30,80.08,63.41,143.49,Imbalance,Right Vastus Medialis
+26/03/2026 00:37:00,56.02,43.73,99.75,Imbalance,Right Adductor Longus
+26/03/2026 00:37:30,69.15,68.9,138.05,Balanced,Balanced
+26/03/2026 00:38:00,62.57,55.63,118.2,Imbalance,Right Soleus
+26/03/2026 00:38:30,50.86,58.62,109.48,Imbalance,Left Vastus Medialis
+26/03/2026 00:39:00,69.85,68.66,138.51,Balanced,Balanced
+26/03/2026 00:39:30,69.63,51.2,120.83,Imbalance,Right Semitendinosus
+26/03/2026 00:40:00,31.82,49.23,81.05,Imbalance,Left Iliopsoas
+26/03/2026 00:40:30,46.14,68.4,114.54,Imbalance,Left Gluteus Maximus
+26/03/2026 00:41:00,77.7,77.89,155.59,Balanced,Balanced
+26/03/2026 00:41:30,55.7,55.36,111.06,Balanced,Balanced
+26/03/2026 00:42:00,40.89,62.1,102.99,Imbalance,Left Gluteus Minimus
+26/03/2026 00:42:30,77.05,70.52,147.57,Imbalance,Right Tibialis Anterior
+26/03/2026 00:43:00,76.34,75.25,151.59,Balanced,Balanced
+26/03/2026 00:43:30,47.07,45.46,92.53,Balanced,Balanced
+26/03/2026 00:44:00,74.46,51.8,126.26,Imbalance,Right Adductor Magnus
+26/03/2026 00:44:30,70.71,74.1,144.81,Imbalance,Left Soleus
+26/03/2026 00:45:00,45.58,67.9,113.48,Imbalance,Left Iliopsoas
+26/03/2026 00:45:30,52.83,40.4,93.23,Imbalance,Right Gracilis
+26/03/2026 00:46:00,52.0,43.95,95.95,Imbalance,Right Rectus Femoris
+26/03/2026 00:46:30,65.96,86.59,152.55,Imbalance,Left Semimembranosus
+26/03/2026 00:47:00,32.03,33.34,65.37,Balanced,Balanced
+26/03/2026 00:47:30,56.01,55.0,111.01,Balanced,Balanced
+26/03/2026 00:48:00,74.34,85.13,159.47,Imbalance,Left Tibialis Anterior
+26/03/2026 00:48:30,80.63,70.9,151.53,Imbalance,Right Soleus
+26/03/2026 00:49:00,36.85,30.0,66.85,Imbalance,Right Gluteus Medius
+26/03/2026 00:49:30,31.6,30.0,61.6,Imbalance,Right Gluteus Medius
+26/03/2026 00:50:00,63.19,76.16,139.35,Imbalance,Left Rectus Femoris
+26/03/2026 00:50:30,75.44,75.64,151.08,Balanced,Balanced
+26/03/2026 00:51:00,78.9,93.71,172.61,Imbalance,Left Sartorius
+26/03/2026 00:51:30,86.0,84.22,170.22,Balanced,Balanced
+26/03/2026 00:52:00,31.34,46.97,78.31,Imbalance,Left Iliopsoas
+26/03/2026 00:52:30,36.57,30.0,66.57,Imbalance,Right Adductor Magnus
+26/03/2026 00:53:00,80.78,79.95,160.73,Balanced,Balanced
+26/03/2026 00:53:30,67.55,47.86,115.41,Imbalance,Right Semitendinosus
+26/03/2026 00:54:00,62.72,62.28,125.0,Balanced,Balanced
+26/03/2026 00:54:30,63.98,41.49,105.47,Imbalance,Right Gluteus Medius
+26/03/2026 00:55:00,44.55,30.0,74.55,Imbalance,Right Gluteus Medius
+26/03/2026 00:55:30,62.33,65.58,127.91,Imbalance,Left Tibialis Anterior
+26/03/2026 00:56:00,70.53,57.1,127.63,Imbalance,Right Vastus Lateralis
+26/03/2026 00:56:30,44.57,44.94,89.51,Balanced,Balanced
+26/03/2026 00:57:00,62.38,83.77,146.15,Imbalance,Left Gracilis
+26/03/2026 00:57:30,33.83,49.04,82.87,Imbalance,Left Iliopsoas
+26/03/2026 00:58:00,61.0,80.18,141.18,Imbalance,Left Semimembranosus
+26/03/2026 00:58:30,74.06,66.33,140.39,Imbalance,Right Tibialis Anterior
+26/03/2026 00:59:00,32.96,30.0,62.96,Imbalance,Right Vastus Medialis
+26/03/2026 00:59:30,87.66,95.0,182.66,Imbalance,Left Vastus Medialis
+26/03/2026 01:00:00,85.84,95.0,180.84,Imbalance,Left Peroneus Longus
+26/03/2026 01:00:30,74.65,61.48,136.13,Imbalance,Right Vastus Medialis
+26/03/2026 01:01:00,75.49,75.12,150.61,Balanced,Balanced
+26/03/2026 01:01:30,84.05,95.0,179.05,Imbalance,Left Adductor Longus
+26/03/2026 01:02:00,58.46,67.93,126.39,Imbalance,Left Vastus Medialis
+26/03/2026 01:02:30,45.5,46.52,92.02,Balanced,Balanced
+26/03/2026 01:03:00,44.48,68.43,112.91,Imbalance,Left Iliopsoas
+26/03/2026 01:03:30,39.45,30.0,69.45,Imbalance,Right Tensor Fasciae Latae
+26/03/2026 01:04:00,88.27,65.9,154.17,Imbalance,Right Gracilis
+26/03/2026 01:04:30,72.06,51.09,123.15,Imbalance,Right Gracilis
+26/03/2026 01:05:00,33.65,32.16,65.81,Balanced,Balanced
+26/03/2026 01:05:30,30.65,48.05,78.7,Imbalance,Left Gluteus Medius
+26/03/2026 01:06:00,57.05,64.21,121.26,Imbalance,Left Soleus
+26/03/2026 01:06:30,85.33,87.24,172.57,Balanced,Balanced
+26/03/2026 01:07:00,68.49,70.29,138.78,Balanced,Balanced
+26/03/2026 01:07:30,47.17,37.34,84.51,Imbalance,Right Sartorius
+26/03/2026 01:08:00,50.87,30.0,80.87,Imbalance,Right Tensor Fasciae Latae
+26/03/2026 01:08:30,78.15,95.0,173.15,Imbalance,Left Adductor Longus
+26/03/2026 01:09:00,40.69,52.56,93.25,Imbalance,Left Biceps Femoris
+26/03/2026 01:09:30,58.8,81.5,140.3,Imbalance,Left Adductor Magnus
+26/03/2026 01:10:00,52.08,74.66,126.74,Imbalance,Left Adductor Magnus
+26/03/2026 01:10:30,82.76,62.03,144.79,Imbalance,Right Semimembranosus
+26/03/2026 01:11:00,68.5,57.17,125.67,Imbalance,Right Rectus Femoris
+26/03/2026 01:11:30,42.99,63.67,106.66,Imbalance,Left Tensor Fasciae Latae
+26/03/2026 01:12:00,43.32,36.0,79.32,Imbalance,Right Vastus Medialis
+26/03/2026 01:12:30,43.61,47.73,91.34,Imbalance,Left Gastrocnemius
+26/03/2026 01:13:00,32.92,30.0,62.92,Imbalance,Right Gluteus Minimus
+26/03/2026 01:13:30,88.93,88.4,177.33,Balanced,Balanced
+26/03/2026 01:14:00,79.24,64.95,144.19,Imbalance,Right Rectus Femoris
+26/03/2026 01:14:30,61.02,60.16,121.18,Balanced,Balanced
+26/03/2026 01:15:00,87.13,91.73,178.86,Imbalance,Left Gastrocnemius
+26/03/2026 01:15:30,64.0,67.54,131.54,Imbalance,Left Peroneus Longus
+26/03/2026 01:16:00,44.2,30.0,74.2,Imbalance,Right Gluteus Maximus
+26/03/2026 01:16:30,72.52,85.62,158.14,Imbalance,Left Rectus Femoris
+26/03/2026 01:17:00,43.86,42.62,86.48,Balanced,Balanced
+26/03/2026 01:17:30,45.28,30.0,75.28,Imbalance,Right Gluteus Minimus
+26/03/2026 01:18:00,46.58,50.19,96.77,Imbalance,Left Soleus
+26/03/2026 01:18:30,89.89,89.84,179.73,Balanced,Balanced
+26/03/2026 01:19:00,87.01,74.77,161.78,Imbalance,Right Rectus Femoris
+26/03/2026 01:19:30,71.47,75.99,147.46,Imbalance,Left Peroneus Longus
+26/03/2026 01:20:00,33.38,32.67,66.05,Balanced,Balanced
+26/03/2026 01:20:30,57.33,56.04,113.37,Balanced,Balanced
+26/03/2026 01:21:00,35.43,59.62,95.05,Imbalance,Left Iliopsoas
+26/03/2026 01:21:30,74.63,74.09,148.72,Balanced,Balanced
+26/03/2026 01:22:00,74.9,51.54,126.44,Imbalance,Right Gluteus Minimus
+26/03/2026 01:22:30,42.6,42.56,85.16,Balanced,Balanced
+26/03/2026 01:23:00,76.6,76.39,152.99,Balanced,Balanced
+26/03/2026 01:23:30,68.69,53.89,122.58,Imbalance,Right Semimembranosus
+26/03/2026 01:24:00,31.4,32.02,63.42,Balanced,Balanced
+26/03/2026 01:24:30,76.43,82.83,159.26,Imbalance,Left Peroneus Longus
+26/03/2026 01:25:00,59.64,40.01,99.65,Imbalance,Right Tensor Fasciae Latae
+26/03/2026 01:25:30,45.19,46.97,92.16,Balanced,Balanced
+26/03/2026 01:26:00,32.23,30.0,62.23,Imbalance,Right Gluteus Maximus
+26/03/2026 01:26:30,83.24,94.89,178.13,Imbalance,Left Peroneus Longus
+26/03/2026 01:27:00,33.24,47.45,80.69,Imbalance,Left Semimembranosus
+26/03/2026 01:27:30,50.49,50.35,100.84,Balanced,Balanced
+26/03/2026 01:28:00,56.54,32.93,89.47,Imbalance,Right Tensor Fasciae Latae
+26/03/2026 01:28:30,84.18,95.0,179.18,Imbalance,Left Vastus Medialis
+26/03/2026 01:29:00,52.6,30.0,82.6,Imbalance,Right Gluteus Maximus
+26/03/2026 01:29:30,55.94,42.83,98.77,Imbalance,Right Gracilis
+26/03/2026 01:30:00,86.19,72.87,159.06,Imbalance,Right Vastus Medialis
+26/03/2026 01:30:30,40.19,41.7,81.89,Balanced,Balanced
+26/03/2026 01:31:00,60.54,70.2,130.74,Imbalance,Left Vastus Medialis
+26/03/2026 01:31:30,47.04,38.84,85.88,Imbalance,Right Rectus Femoris
+26/03/2026 01:32:00,54.26,38.49,92.75,Imbalance,Right Gracilis
+26/03/2026 01:32:30,64.96,71.04,136.0,Imbalance,Left Peroneus Longus
+26/03/2026 01:33:00,37.42,37.59,75.01,Balanced,Balanced
+26/03/2026 01:33:30,56.15,45.61,101.76,Imbalance,Right Sartorius
+26/03/2026 01:34:00,41.01,44.69,85.7,Imbalance,Left Tibialis Anterior
+26/03/2026 01:34:30,52.15,55.27,107.42,Imbalance,Left Tibialis Anterior
+26/03/2026 01:35:00,76.78,77.29,154.07,Balanced,Balanced
+26/03/2026 01:35:30,67.43,68.28,135.71,Balanced,Balanced
+26/03/2026 01:36:00,43.68,44.36,88.04,Balanced,Balanced
+26/03/2026 01:36:30,65.78,64.88,130.66,Balanced,Balanced
+26/03/2026 01:37:00,58.35,57.12,115.47,Balanced,Balanced
+26/03/2026 01:37:30,70.62,69.94,140.56,Balanced,Balanced
+26/03/2026 01:38:00,60.93,54.58,115.51,Imbalance,Right Tibialis Anterior
+26/03/2026 01:38:30,67.09,66.97,134.06,Balanced,Balanced
+26/03/2026 01:39:00,79.52,88.2,167.72,Imbalance,Left Peroneus Longus
+26/03/2026 01:39:30,79.2,80.49,159.69,Balanced,Balanced
+26/03/2026 01:40:00,78.9,61.71,140.61,Imbalance,Right Semitendinosus
+26/03/2026 01:40:30,60.45,51.45,111.9,Imbalance,Right Vastus Lateralis
+26/03/2026 01:41:00,66.86,66.53,133.39,Balanced,Balanced
+26/03/2026 01:41:30,86.75,95.0,181.75,Imbalance,Left Sartorius
+26/03/2026 01:42:00,53.98,55.44,109.42,Balanced,Balanced
+26/03/2026 01:42:30,52.48,32.95,85.43,Imbalance,Right Iliopsoas
+26/03/2026 01:43:00,41.93,61.48,103.41,Imbalance,Left Iliopsoas
+26/03/2026 01:43:30,31.07,32.6,63.67,Balanced,Balanced
+26/03/2026 01:44:00,80.55,61.27,141.82,Imbalance,Right Semimembranosus
+26/03/2026 01:44:30,35.49,45.15,80.64,Imbalance,Left Sartorius
+26/03/2026 01:45:00,41.5,30.0,71.5,Imbalance,Right Semimembranosus
+26/03/2026 01:45:30,68.6,64.28,132.88,Imbalance,Right Peroneus Longus
+26/03/2026 01:46:00,65.12,65.19,130.31,Balanced,Balanced
+26/03/2026 01:46:30,51.28,34.18,85.46,Imbalance,Right Gluteus Maximus
+26/03/2026 01:47:00,35.43,30.0,65.43,Imbalance,Right Iliopsoas
+26/03/2026 01:47:30,68.75,92.99,161.74,Imbalance,Left Semimembranosus
+26/03/2026 01:48:00,70.12,68.71,138.83,Balanced,Balanced
+26/03/2026 01:48:30,32.09,38.17,70.26,Imbalance,Left Sartorius
+26/03/2026 01:49:00,61.96,70.1,132.06,Imbalance,Left Tibialis Anterior
+26/03/2026 01:49:30,30.49,44.92,75.41,Imbalance,Left Tensor Fasciae Latae
+26/03/2026 01:50:00,85.32,93.44,178.76,Imbalance,Left Tibialis Anterior
+26/03/2026 01:50:30,31.83,30.0,61.83,Imbalance,Right Gluteus Minimus
+26/03/2026 01:51:00,71.55,64.99,136.54,Imbalance,Right Tibialis Anterior
+26/03/2026 01:51:30,35.17,35.16,70.33,Balanced,Balanced
+26/03/2026 01:52:00,89.3,74.13,163.43,Imbalance,Right Vastus Lateralis
+26/03/2026 01:52:30,60.97,60.3,121.27,Balanced,Balanced
+26/03/2026 01:53:00,85.44,91.05,176.49,Imbalance,Left Peroneus Longus
+26/03/2026 01:53:30,67.19,73.43,140.62,Imbalance,Left Tibialis Anterior
+26/03/2026 01:54:00,33.74,30.0,63.74,Imbalance,Right Iliopsoas
+26/03/2026 01:54:30,36.66,59.92,96.58,Imbalance,Left Gluteus Maximus
+26/03/2026 01:55:00,88.17,88.33,176.5,Balanced,Balanced
+26/03/2026 01:55:30,72.51,88.32,160.83,Imbalance,Left Sartorius
+26/03/2026 01:56:00,43.53,55.95,99.48,Imbalance,Left Gracilis
+26/03/2026 01:56:30,64.46,70.28,134.74,Imbalance,Left Soleus
+26/03/2026 01:57:00,41.0,41.91,82.91,Balanced,Balanced
+26/03/2026 01:57:30,47.62,62.1,109.72,Imbalance,Left Adductor Magnus
+26/03/2026 01:58:00,58.0,59.84,117.84,Balanced,Balanced
+26/03/2026 01:58:30,73.94,67.05,140.99,Imbalance,Right Tibialis Anterior
+26/03/2026 01:59:00,51.76,62.12,113.88,Imbalance,Left Vastus Lateralis
+26/03/2026 01:59:30,32.35,30.0,62.35,Imbalance,Right Gluteus Minimus
+26/03/2026 02:00:00,53.04,35.36,88.4,Imbalance,Right Iliopsoas
+26/03/2026 02:00:30,37.49,36.05,73.54,Balanced,Balanced
+26/03/2026 02:01:00,57.22,63.42,120.64,Imbalance,Left Peroneus Longus
+26/03/2026 02:01:30,83.24,65.02,148.26,Imbalance,Right Biceps Femoris
+26/03/2026 02:02:00,82.99,60.66,143.65,Imbalance,Right Adductor Magnus
+26/03/2026 02:02:30,37.45,49.48,86.93,Imbalance,Left Semitendinosus
+26/03/2026 02:03:00,58.11,74.8,132.91,Imbalance,Left Adductor Magnus
+26/03/2026 02:03:30,43.1,64.42,107.52,Imbalance,Left Gluteus Medius
+26/03/2026 02:04:00,89.59,90.75,180.34,Balanced,Balanced
+26/03/2026 02:04:30,40.13,38.35,78.48,Balanced,Balanced
+26/03/2026 02:05:00,51.86,35.56,87.42,Imbalance,Right Iliopsoas
+26/03/2026 02:05:30,45.47,57.5,102.97,Imbalance,Left Vastus Lateralis
+26/03/2026 02:06:00,71.81,53.34,125.15,Imbalance,Right Adductor Magnus
+26/03/2026 02:06:30,89.2,88.99,178.19,Balanced,Balanced
+26/03/2026 02:07:00,60.51,50.71,111.22,Imbalance,Right Vastus Lateralis
+26/03/2026 02:07:30,38.82,53.43,92.25,Imbalance,Left Gracilis
+26/03/2026 02:08:00,83.05,73.37,156.42,Imbalance,Right Peroneus Longus
+26/03/2026 02:08:30,62.93,78.46,141.39,Imbalance,Left Sartorius
+26/03/2026 02:09:00,55.46,55.79,111.25,Balanced,Balanced
+26/03/2026 02:09:30,33.3,33.83,67.13,Balanced,Balanced
+26/03/2026 02:10:00,65.47,67.22,132.69,Balanced,Balanced
+26/03/2026 02:10:30,81.41,95.0,176.41,Imbalance,Left Vastus Medialis
+26/03/2026 02:11:00,52.08,74.81,126.89,Imbalance,Left Adductor Longus
+26/03/2026 02:11:30,73.78,79.38,153.16,Imbalance,Left Gastrocnemius
+26/03/2026 02:12:00,34.47,39.97,74.44,Imbalance,Left Sartorius
+26/03/2026 02:12:30,60.56,47.86,108.42,Imbalance,Right Sartorius
+26/03/2026 02:13:00,62.72,52.43,115.15,Imbalance,Right Vastus Lateralis
+26/03/2026 02:13:30,88.49,93.98,182.47,Imbalance,Left Tibialis Anterior
+26/03/2026 02:14:00,42.75,41.07,83.82,Balanced,Balanced
+26/03/2026 02:14:30,78.14,95.0,173.14,Imbalance,Left Vastus Medialis
+26/03/2026 02:15:00,70.91,50.3,121.21,Imbalance,Right Adductor Longus
+26/03/2026 02:15:30,82.39,83.56,165.95,Balanced,Balanced
+26/03/2026 02:16:00,33.05,36.74,69.79,Imbalance,Left Gastrocnemius
+26/03/2026 02:16:30,67.22,66.24,133.46,Balanced,Balanced
+26/03/2026 02:17:00,63.08,63.87,126.95,Balanced,Balanced
+26/03/2026 02:17:30,56.27,79.18,135.45,Imbalance,Left Adductor Longus
+26/03/2026 02:18:00,87.2,95.0,182.2,Imbalance,Left Vastus Medialis
+26/03/2026 02:18:30,39.16,61.13,100.29,Imbalance,Left Tensor Fasciae Latae
+26/03/2026 02:19:00,30.87,31.86,62.73,Balanced,Balanced
+26/03/2026 02:19:30,78.54,89.06,167.6,Imbalance,Left Tibialis Anterior
+26/03/2026 02:20:00,73.63,88.15,161.78,Imbalance,Left Vastus Lateralis
+26/03/2026 02:20:30,78.12,80.1,158.22,Balanced,Balanced
+26/03/2026 02:21:00,60.83,58.97,119.8,Balanced,Balanced
+26/03/2026 02:21:30,59.72,66.65,126.37,Imbalance,Left Gastrocnemius
+26/03/2026 02:22:00,58.03,57.92,115.95,Balanced,Balanced
+26/03/2026 02:22:30,80.1,79.08,159.18,Balanced,Balanced
+26/03/2026 02:23:00,40.71,42.23,82.94,Balanced,Balanced
+26/03/2026 02:23:30,38.94,32.03,70.97,Imbalance,Right Sartorius
+26/03/2026 02:24:00,56.05,59.75,115.8,Imbalance,Left Tibialis Anterior
+26/03/2026 02:24:30,75.86,81.95,157.81,Imbalance,Left Gastrocnemius
+26/03/2026 02:25:00,39.89,38.58,78.47,Balanced,Balanced
+26/03/2026 02:25:30,49.94,72.67,122.61,Imbalance,Left Gluteus Medius
+26/03/2026 02:26:00,67.19,55.01,122.2,Imbalance,Right Vastus Lateralis
+26/03/2026 02:26:30,81.16,95.0,176.16,Imbalance,Left Vastus Medialis
+26/03/2026 02:27:00,74.15,91.24,165.39,Imbalance,Left Rectus Femoris
+26/03/2026 02:27:30,52.69,42.83,95.52,Imbalance,Right Vastus Medialis
+26/03/2026 02:28:00,48.3,30.0,78.3,Imbalance,Right Tensor Fasciae Latae
+26/03/2026 02:28:30,56.19,61.91,118.1,Imbalance,Left Tibialis Anterior
+26/03/2026 02:29:00,84.02,90.53,174.55,Imbalance,Left Tibialis Anterior
+26/03/2026 02:29:30,44.84,58.79,103.63,Imbalance,Left Biceps Femoris
+26/03/2026 02:30:00,58.12,67.71,125.83,Imbalance,Left Vastus Lateralis
+26/03/2026 02:30:30,31.43,35.1,66.53,Imbalance,Left Peroneus Longus
+26/03/2026 02:31:00,45.47,30.0,75.47,Imbalance,Right Gluteus Minimus
+26/03/2026 02:31:30,45.45,30.0,75.45,Imbalance,Right Iliopsoas
+26/03/2026 02:32:00,56.57,57.35,113.92,Balanced,Balanced
+26/03/2026 02:32:30,44.42,54.13,98.55,Imbalance,Left Sartorius
+26/03/2026 02:33:00,79.22,59.91,139.13,Imbalance,Right Gracilis
+26/03/2026 02:33:30,61.56,42.72,104.28,Imbalance,Right Iliopsoas
+26/03/2026 02:34:00,79.17,95.0,174.17,Imbalance,Left Sartorius
+26/03/2026 02:34:30,89.21,83.06,172.27,Imbalance,Right Tibialis Anterior
+26/03/2026 02:35:00,81.93,93.45,175.38,Imbalance,Left Tibialis Anterior
+26/03/2026 02:35:30,59.43,73.71,133.14,Imbalance,Left Sartorius
+26/03/2026 02:36:00,88.99,95.0,183.99,Imbalance,Left Semitendinosus
+26/03/2026 02:36:30,51.02,50.51,101.53,Balanced,Balanced
+26/03/2026 02:37:00,80.45,84.39,164.84,Imbalance,Left Gastrocnemius
+26/03/2026 02:37:30,52.84,48.0,100.84,Imbalance,Right Peroneus Longus
+26/03/2026 02:38:00,56.05,49.49,105.54,Imbalance,Right Gastrocnemius
+26/03/2026 02:38:30,74.97,95.0,169.97,Imbalance,Left Biceps Femoris
+26/03/2026 02:39:00,31.95,30.0,61.95,Imbalance,Right Gluteus Minimus
+26/03/2026 02:39:30,50.02,30.0,80.02,Imbalance,Right Gluteus Medius
+26/03/2026 02:40:00,36.05,36.2,72.25,Balanced,Balanced
+26/03/2026 02:40:30,65.14,68.23,133.37,Imbalance,Left Soleus
+26/03/2026 02:41:00,71.07,72.47,143.54,Balanced,Balanced
+26/03/2026 02:41:30,84.14,78.81,162.95,Imbalance,Right Soleus
+26/03/2026 02:42:00,62.51,52.17,114.68,Imbalance,Right Sartorius
+26/03/2026 02:42:30,63.69,74.96,138.65,Imbalance,Left Vastus Lateralis
+26/03/2026 02:43:00,60.81,50.07,110.88,Imbalance,Right Vastus Medialis
+26/03/2026 02:43:30,57.98,50.3,108.28,Imbalance,Right Sartorius
+26/03/2026 02:44:00,86.52,95.0,181.52,Imbalance,Left Gastrocnemius
+26/03/2026 02:44:30,47.91,30.0,77.91,Imbalance,Right Iliopsoas
+26/03/2026 02:45:00,85.16,85.57,170.73,Balanced,Balanced
+26/03/2026 02:45:30,87.48,72.37,159.85,Imbalance,Right Rectus Femoris
+26/03/2026 02:46:00,52.14,53.04,105.18,Balanced,Balanced
+26/03/2026 02:46:30,69.31,48.45,117.76,Imbalance,Right Biceps Femoris
+26/03/2026 02:47:00,59.29,79.92,139.21,Imbalance,Left Gracilis
+26/03/2026 02:47:30,70.52,61.72,132.24,Imbalance,Right Tibialis Anterior
+26/03/2026 02:48:00,67.34,67.29,134.63,Balanced,Balanced
+26/03/2026 02:48:30,36.17,30.0,66.17,Imbalance,Right Iliopsoas
+26/03/2026 02:49:00,81.5,95.0,176.5,Imbalance,Left Sartorius
+26/03/2026 02:49:30,40.8,58.12,98.92,Imbalance,Left Semimembranosus
+26/03/2026 02:50:00,44.21,43.13,87.34,Balanced,Balanced
+26/03/2026 02:50:30,47.43,30.0,77.43,Imbalance,Right Tensor Fasciae Latae
+26/03/2026 02:51:00,59.39,42.72,102.11,Imbalance,Right Biceps Femoris
+26/03/2026 02:51:30,70.44,71.08,141.52,Balanced,Balanced
+26/03/2026 02:52:00,34.75,30.0,64.75,Imbalance,Right Rectus Femoris
+26/03/2026 02:52:30,52.24,45.37,97.61,Imbalance,Right Vastus Medialis
+26/03/2026 02:53:00,81.15,92.35,173.5,Imbalance,Left Soleus
+26/03/2026 02:53:30,79.88,75.52,155.4,Imbalance,Right Gastrocnemius
+26/03/2026 02:54:00,46.68,47.22,93.9,Balanced,Balanced
+26/03/2026 02:54:30,84.8,82.86,167.66,Balanced,Balanced
+26/03/2026 02:55:00,63.47,84.91,148.38,Imbalance,Left Adductor Magnus
+26/03/2026 02:55:30,77.46,79.14,156.6,Balanced,Balanced
+26/03/2026 02:56:00,59.42,83.2,142.62,Imbalance,Left Gracilis
+26/03/2026 02:56:30,80.44,95.0,175.44,Imbalance,Left Adductor Longus
+26/03/2026 02:57:00,47.47,45.51,92.98,Balanced,Balanced
+26/03/2026 02:57:30,32.22,30.0,62.22,Imbalance,Right Gluteus Medius
+26/03/2026 02:58:00,52.14,33.65,85.79,Imbalance,Right Gluteus Medius
+26/03/2026 02:58:30,42.67,30.0,72.67,Imbalance,Right Iliopsoas
+26/03/2026 02:59:00,67.53,62.3,129.83,Imbalance,Right Tibialis Anterior
+26/03/2026 02:59:30,79.5,75.89,155.39,Imbalance,Right Tibialis Anterior
+26/03/2026 03:00:00,60.89,59.34,120.23,Balanced,Balanced
+26/03/2026 03:00:30,69.21,70.03,139.24,Balanced,Balanced
+26/03/2026 03:01:00,75.97,75.86,151.83,Balanced,Balanced
+26/03/2026 03:01:30,55.2,67.37,122.57,Imbalance,Left Vastus Lateralis
+26/03/2026 03:02:00,89.65,86.15,175.8,Imbalance,Right Tibialis Anterior
+26/03/2026 03:02:30,76.66,63.24,139.9,Imbalance,Right Vastus Medialis
+26/03/2026 03:03:00,87.41,95.0,182.41,Imbalance,Left Peroneus Longus
+26/03/2026 03:03:30,83.11,84.05,167.16,Balanced,Balanced
+26/03/2026 03:04:00,54.9,72.55,127.45,Imbalance,Left Adductor Longus
+26/03/2026 03:04:30,88.13,95.0,183.13,Imbalance,Left Soleus
+26/03/2026 03:05:00,61.58,78.78,140.36,Imbalance,Left Semimembranosus
+26/03/2026 03:05:30,79.57,88.2,167.77,Imbalance,Left Soleus
+26/03/2026 03:06:00,57.75,55.99,113.74,Balanced,Balanced
+26/03/2026 03:06:30,85.69,95.0,180.69,Imbalance,Left Tibialis Anterior
+26/03/2026 03:07:00,67.51,83.96,151.47,Imbalance,Left Sartorius
+26/03/2026 03:07:30,58.92,57.98,116.9,Balanced,Balanced
+26/03/2026 03:08:00,67.15,68.12,135.27,Balanced,Balanced
+26/03/2026 03:08:30,32.27,30.0,62.27,Imbalance,Right Iliopsoas
+26/03/2026 03:09:00,62.0,63.55,125.55,Balanced,Balanced
+26/03/2026 03:09:30,52.15,50.86,103.01,Balanced,Balanced
+26/03/2026 03:10:00,38.24,54.24,92.48,Imbalance,Left Adductor Longus
+26/03/2026 03:10:30,35.04,30.0,65.04,Imbalance,Right Gluteus Medius
+26/03/2026 03:11:00,65.46,70.04,135.5,Imbalance,Left Soleus
+26/03/2026 03:11:30,44.66,43.74,88.4,Balanced,Balanced
+26/03/2026 03:12:00,34.93,33.23,68.16,Balanced,Balanced
+26/03/2026 03:12:30,35.24,30.0,65.24,Imbalance,Right Iliopsoas
+26/03/2026 03:13:00,42.81,58.47,101.28,Imbalance,Left Gracilis
+26/03/2026 03:13:30,31.56,30.0,61.56,Imbalance,Right Biceps Femoris
+26/03/2026 03:14:00,55.86,31.38,87.24,Imbalance,Right Iliopsoas
+26/03/2026 03:14:30,89.91,80.72,170.63,Imbalance,Right Peroneus Longus
+26/03/2026 03:15:00,31.58,43.87,75.45,Imbalance,Left Semimembranosus
+26/03/2026 03:15:30,75.93,82.27,158.2,Imbalance,Left Peroneus Longus
+26/03/2026 03:16:00,44.84,31.62,76.46,Imbalance,Right Adductor Magnus
+26/03/2026 03:16:30,56.27,62.48,118.75,Imbalance,Left Gastrocnemius
+26/03/2026 03:17:00,51.73,38.14,89.87,Imbalance,Right Semitendinosus
+26/03/2026 03:17:30,47.63,55.25,102.88,Imbalance,Left Vastus Medialis
+26/03/2026 03:18:00,67.85,55.9,123.75,Imbalance,Right Rectus Femoris
+26/03/2026 03:18:30,64.73,85.53,150.26,Imbalance,Left Semimembranosus
+26/03/2026 03:19:00,67.15,67.73,134.88,Balanced,Balanced
+26/03/2026 03:19:30,53.71,60.09,113.8,Imbalance,Left Peroneus Longus
+26/03/2026 03:20:00,79.6,59.48,139.08,Imbalance,Right Biceps Femoris
+26/03/2026 03:20:30,46.54,30.0,76.54,Imbalance,Right Gluteus Maximus
+26/03/2026 03:21:00,36.1,30.0,66.1,Imbalance,Right Iliopsoas
+26/03/2026 03:21:30,57.28,57.44,114.72,Balanced,Balanced
+26/03/2026 03:22:00,71.59,86.98,158.57,Imbalance,Left Vastus Medialis
+26/03/2026 03:22:30,60.23,39.78,100.01,Imbalance,Right Iliopsoas
+26/03/2026 03:23:00,50.23,59.71,109.94,Imbalance,Left Vastus Lateralis
+26/03/2026 03:23:30,66.55,82.98,149.53,Imbalance,Left Vastus Lateralis
+26/03/2026 03:24:00,41.36,41.29,82.65,Balanced,Balanced
+26/03/2026 03:24:30,80.75,89.51,170.26,Imbalance,Left Gastrocnemius
+26/03/2026 03:25:00,40.35,56.0,96.35,Imbalance,Left Semimembranosus
+26/03/2026 03:25:30,37.56,53.29,90.85,Imbalance,Left Adductor Magnus
+26/03/2026 03:26:00,64.83,63.71,128.54,Balanced,Balanced
+26/03/2026 03:26:30,79.18,91.39,170.57,Imbalance,Left Vastus Lateralis
+26/03/2026 03:27:00,71.17,72.92,144.09,Balanced,Balanced
+26/03/2026 03:27:30,73.63,61.98,135.61,Imbalance,Right Vastus Medialis
+26/03/2026 03:28:00,66.48,54.45,120.93,Imbalance,Right Rectus Femoris
+26/03/2026 03:28:30,66.73,67.86,134.59,Balanced,Balanced
+26/03/2026 03:29:00,67.78,79.87,147.65,Imbalance,Left Sartorius
+26/03/2026 03:29:30,56.38,44.65,101.03,Imbalance,Right Rectus Femoris
+26/03/2026 03:30:00,34.83,49.65,84.48,Imbalance,Left Adductor Magnus
+26/03/2026 03:30:30,76.94,76.59,153.53,Balanced,Balanced
+26/03/2026 03:31:00,53.07,59.28,112.35,Imbalance,Left Peroneus Longus
+26/03/2026 03:31:30,39.27,39.51,78.78,Balanced,Balanced
+26/03/2026 03:32:00,41.19,42.75,83.94,Balanced,Balanced
+26/03/2026 03:32:30,58.9,59.87,118.77,Balanced,Balanced
+26/03/2026 03:33:00,70.02,69.89,139.91,Balanced,Balanced
+26/03/2026 03:33:30,82.76,95.0,177.76,Imbalance,Left Sartorius
+26/03/2026 03:34:00,30.72,49.09,79.81,Imbalance,Left Tensor Fasciae Latae
+26/03/2026 03:34:30,72.0,78.18,150.18,Imbalance,Left Peroneus Longus
+26/03/2026 03:35:00,83.3,84.0,167.3,Balanced,Balanced
+26/03/2026 03:35:30,35.73,39.43,75.16,Imbalance,Left Peroneus Longus
+26/03/2026 03:36:00,62.03,76.26,138.29,Imbalance,Left Rectus Femoris
+26/03/2026 03:36:30,78.94,77.74,156.68,Balanced,Balanced
+26/03/2026 03:37:00,71.62,47.3,118.92,Imbalance,Right Gluteus Minimus
+26/03/2026 03:37:30,48.8,57.16,105.96,Imbalance,Left Rectus Femoris
+26/03/2026 03:38:00,77.81,86.99,164.8,Imbalance,Left Tibialis Anterior
+26/03/2026 03:38:30,32.98,30.0,62.98,Imbalance,Right Peroneus Longus
+26/03/2026 03:39:00,56.95,41.54,98.49,Imbalance,Right Biceps Femoris
+26/03/2026 03:39:30,43.29,63.01,106.3,Imbalance,Left Gluteus Medius
+26/03/2026 03:40:00,54.0,48.94,102.94,Imbalance,Right Soleus
+26/03/2026 03:40:30,73.22,72.95,146.17,Balanced,Balanced
+26/03/2026 03:41:00,50.33,58.84,109.17,Imbalance,Left Vastus Medialis
+26/03/2026 03:41:30,75.09,95.0,170.09,Imbalance,Left Adductor Magnus
+26/03/2026 03:42:00,45.3,52.8,98.1,Imbalance,Left Rectus Femoris
+26/03/2026 03:42:30,87.14,70.14,157.28,Imbalance,Right Sartorius
+26/03/2026 03:43:00,45.89,51.54,97.43,Imbalance,Left Tibialis Anterior
+26/03/2026 03:43:30,45.65,39.85,85.5,Imbalance,Right Tibialis Anterior
+26/03/2026 03:44:00,32.35,32.38,64.73,Balanced,Balanced
+26/03/2026 03:44:30,89.37,91.15,180.52,Balanced,Balanced
+26/03/2026 03:45:00,60.32,60.27,120.59,Balanced,Balanced
+26/03/2026 03:45:30,80.73,86.82,167.55,Imbalance,Left Soleus
+26/03/2026 03:46:00,48.49,30.0,78.49,Imbalance,Right Gluteus Maximus
+26/03/2026 03:46:30,83.62,59.51,143.13,Imbalance,Right Semitendinosus
+26/03/2026 03:47:00,42.8,42.92,85.72,Balanced,Balanced
+26/03/2026 03:47:30,88.09,95.0,183.09,Imbalance,Left Peroneus Longus
+26/03/2026 03:48:00,88.28,74.11,162.39,Imbalance,Right Vastus Medialis
+26/03/2026 03:48:30,81.74,91.16,172.9,Imbalance,Left Gastrocnemius
+26/03/2026 03:49:00,42.95,43.78,86.73,Balanced,Balanced
+26/03/2026 03:49:30,57.73,56.04,113.77,Balanced,Balanced
+26/03/2026 03:50:00,74.32,64.39,138.71,Imbalance,Right Vastus Medialis
+26/03/2026 03:50:30,84.46,85.56,170.02,Balanced,Balanced
+26/03/2026 03:51:00,75.67,77.25,152.92,Balanced,Balanced
+26/03/2026 03:51:30,65.03,65.68,130.71,Balanced,Balanced
+26/03/2026 03:52:00,50.47,60.87,111.34,Imbalance,Left Rectus Femoris
+26/03/2026 03:52:30,80.0,60.22,140.22,Imbalance,Right Biceps Femoris
+26/03/2026 03:53:00,54.2,59.55,113.75,Imbalance,Left Gastrocnemius
+26/03/2026 03:53:30,37.29,47.01,84.3,Imbalance,Left Vastus Lateralis
+26/03/2026 03:54:00,49.14,32.41,81.55,Imbalance,Right Gluteus Medius
+26/03/2026 03:54:30,30.16,34.78,64.94,Imbalance,Left Vastus Medialis
+26/03/2026 03:55:00,67.2,89.89,157.09,Imbalance,Left Gracilis
+26/03/2026 03:55:30,63.64,64.65,128.29,Balanced,Balanced
+26/03/2026 03:56:00,39.48,41.07,80.55,Balanced,Balanced
+26/03/2026 03:56:30,57.07,58.19,115.26,Balanced,Balanced
+26/03/2026 03:57:00,83.87,75.68,159.55,Imbalance,Right Tibialis Anterior
+26/03/2026 03:57:30,48.3,46.59,94.89,Balanced,Balanced
+26/03/2026 03:58:00,39.01,47.61,86.62,Imbalance,Left Sartorius
+26/03/2026 03:58:30,33.72,54.46,88.18,Imbalance,Left Gluteus Maximus
+26/03/2026 03:59:00,37.43,38.83,76.26,Balanced,Balanced
+26/03/2026 03:59:30,72.04,70.89,142.93,Balanced,Balanced
+26/03/2026 04:00:00,38.48,62.91,101.39,Imbalance,Left Gluteus Medius
+26/03/2026 04:00:30,54.11,40.67,94.78,Imbalance,Right Semitendinosus
+26/03/2026 04:01:00,85.48,95.0,180.48,Imbalance,Left Rectus Femoris
+26/03/2026 04:01:30,42.37,46.17,88.54,Imbalance,Left Gastrocnemius
+26/03/2026 04:02:00,88.87,78.13,167.0,Imbalance,Right Gastrocnemius
+26/03/2026 04:02:30,67.35,80.68,148.03,Imbalance,Left Vastus Lateralis
+26/03/2026 04:03:00,87.72,77.49,165.21,Imbalance,Right Tibialis Anterior
+26/03/2026 04:03:30,89.72,95.0,184.72,Imbalance,Left Sartorius
+26/03/2026 04:04:00,68.29,69.48,137.77,Balanced,Balanced
+26/03/2026 04:04:30,44.74,54.78,99.52,Imbalance,Left Vastus Lateralis
+26/03/2026 04:05:00,35.17,33.5,68.67,Balanced,Balanced
+26/03/2026 04:05:30,86.93,62.81,149.74,Imbalance,Right Biceps Femoris
+26/03/2026 04:06:00,64.51,76.31,140.82,Imbalance,Left Sartorius
+26/03/2026 04:06:30,47.8,33.09,80.89,Imbalance,Right Iliopsoas
+26/03/2026 04:07:00,66.69,54.54,121.23,Imbalance,Right Vastus Medialis
+26/03/2026 04:07:30,88.81,95.0,183.81,Imbalance,Left Soleus
+26/03/2026 04:08:00,68.31,77.4,145.71,Imbalance,Left Tibialis Anterior
+26/03/2026 04:08:30,71.46,79.93,151.39,Imbalance,Left Tibialis Anterior
+26/03/2026 04:09:00,80.26,72.87,153.13,Imbalance,Right Soleus
+26/03/2026 04:09:30,62.61,72.06,134.67,Imbalance,Left Rectus Femoris
+26/03/2026 04:10:00,44.1,55.57,99.67,Imbalance,Left Vastus Medialis
+26/03/2026 04:10:30,87.09,95.0,182.09,Imbalance,Left Gastrocnemius
+26/03/2026 04:11:00,72.18,66.58,138.76,Imbalance,Right Tibialis Anterior
+26/03/2026 04:11:30,48.57,47.19,95.76,Balanced,Balanced
+26/03/2026 04:12:00,73.22,48.86,122.08,Imbalance,Right Gluteus Minimus
+26/03/2026 04:12:30,55.3,64.53,119.83,Imbalance,Left Vastus Medialis
+26/03/2026 04:13:00,81.71,66.79,148.5,Imbalance,Right Vastus Medialis
+26/03/2026 04:13:30,49.38,30.0,79.38,Imbalance,Right Gluteus Maximus
+26/03/2026 04:14:00,83.24,81.24,164.48,Balanced,Balanced
+26/03/2026 04:14:30,89.02,76.29,165.31,Imbalance,Right Sartorius
+26/03/2026 04:15:00,42.67,30.0,72.67,Imbalance,Right Gluteus Minimus
+26/03/2026 04:15:30,59.2,64.31,123.51,Imbalance,Left Tibialis Anterior
+26/03/2026 04:16:00,81.18,79.75,160.93,Balanced,Balanced
+26/03/2026 04:16:30,34.23,30.63,64.86,Imbalance,Right Tibialis Anterior
+26/03/2026 04:17:00,43.76,42.72,86.48,Balanced,Balanced
+26/03/2026 04:17:30,43.69,45.57,89.26,Balanced,Balanced
+26/03/2026 04:18:00,41.45,58.09,99.54,Imbalance,Left Semitendinosus
+26/03/2026 04:18:30,82.83,88.02,170.85,Imbalance,Left Peroneus Longus
+26/03/2026 04:19:00,64.72,65.97,130.69,Balanced,Balanced
+26/03/2026 04:19:30,38.25,30.0,68.25,Imbalance,Right Gracilis
+26/03/2026 04:20:00,62.09,60.28,122.37,Balanced,Balanced
+26/03/2026 04:20:30,66.98,68.77,135.75,Balanced,Balanced
+26/03/2026 04:21:00,65.61,64.15,129.76,Balanced,Balanced
+26/03/2026 04:21:30,55.26,56.3,111.56,Balanced,Balanced
+26/03/2026 04:22:00,85.03,80.07,165.1,Imbalance,Right Soleus
+26/03/2026 04:22:30,30.74,46.51,77.25,Imbalance,Left Iliopsoas
+26/03/2026 04:23:00,67.09,77.94,145.03,Imbalance,Left Sartorius
+26/03/2026 04:23:30,31.55,36.25,67.8,Imbalance,Left Soleus
+26/03/2026 04:24:00,36.17,48.97,85.14,Imbalance,Left Semitendinosus
+26/03/2026 04:24:30,68.86,89.51,158.37,Imbalance,Left Semitendinosus
+26/03/2026 04:25:00,36.96,30.0,66.96,Imbalance,Right Adductor Longus
+26/03/2026 04:25:30,44.09,47.86,91.95,Imbalance,Left Gastrocnemius
+26/03/2026 04:26:00,30.17,48.64,78.81,Imbalance,Left Iliopsoas
+26/03/2026 04:26:30,89.82,77.66,167.48,Imbalance,Right Sartorius
+26/03/2026 04:27:00,70.32,74.21,144.53,Imbalance,Left Peroneus Longus
+26/03/2026 04:27:30,80.23,95.0,175.23,Imbalance,Left Vastus Medialis
+26/03/2026 04:28:00,61.67,83.82,145.49,Imbalance,Left Semitendinosus
+26/03/2026 04:28:30,50.3,50.05,100.35,Balanced,Balanced
+26/03/2026 04:29:00,53.85,55.3,109.15,Balanced,Balanced
+26/03/2026 04:29:30,39.75,36.36,76.11,Imbalance,Right Gastrocnemius
+26/03/2026 04:30:00,87.4,74.1,161.5,Imbalance,Right Rectus Femoris
+26/03/2026 04:30:30,30.79,39.41,70.2,Imbalance,Left Biceps Femoris
+26/03/2026 04:31:00,50.67,36.81,87.48,Imbalance,Right Adductor Longus
+26/03/2026 04:31:30,58.04,39.56,97.6,Imbalance,Right Tensor Fasciae Latae
+26/03/2026 04:32:00,33.29,30.0,63.29,Imbalance,Right Semimembranosus
+26/03/2026 04:32:30,47.05,47.38,94.43,Balanced,Balanced
+26/03/2026 04:33:00,80.04,70.89,150.93,Imbalance,Right Gastrocnemius
+26/03/2026 04:33:30,31.83,53.29,85.12,Imbalance,Left Gluteus Maximus
+26/03/2026 04:34:00,31.51,30.79,62.3,Balanced,Balanced
+26/03/2026 04:34:30,51.99,36.54,88.53,Imbalance,Right Semitendinosus
+26/03/2026 04:35:00,41.58,59.15,100.73,Imbalance,Left Semimembranosus
+26/03/2026 04:35:30,55.8,54.43,110.23,Balanced,Balanced
+26/03/2026 04:36:00,44.84,45.35,90.19,Balanced,Balanced
+26/03/2026 04:36:30,84.93,95.0,179.93,Imbalance,Left Vastus Lateralis
+26/03/2026 04:37:00,76.26,80.44,156.7,Imbalance,Left Soleus
+26/03/2026 04:37:30,78.08,78.7,156.78,Balanced,Balanced
+26/03/2026 04:38:00,58.15,51.72,109.87,Imbalance,Right Gastrocnemius
+26/03/2026 04:38:30,81.78,95.0,176.78,Imbalance,Left Vastus Medialis
+26/03/2026 04:39:00,41.88,41.83,83.71,Balanced,Balanced
+26/03/2026 04:39:30,68.04,43.33,111.37,Imbalance,Right Gluteus Medius
+26/03/2026 04:40:00,45.58,31.03,76.61,Imbalance,Right Tensor Fasciae Latae
+26/03/2026 04:40:30,55.88,56.9,112.78,Balanced,Balanced
+26/03/2026 04:41:00,37.97,32.49,70.46,Imbalance,Right Rectus Femoris
+26/03/2026 04:41:30,89.82,95.0,184.82,Imbalance,Left Rectus Femoris
+26/03/2026 04:42:00,40.78,45.55,86.33,Imbalance,Left Peroneus Longus
+26/03/2026 04:42:30,73.6,95.0,168.6,Imbalance,Left Semitendinosus
+26/03/2026 04:43:00,59.94,59.7,119.64,Balanced,Balanced
+26/03/2026 04:43:30,37.62,44.41,82.03,Imbalance,Left Sartorius
+26/03/2026 04:44:00,65.96,90.8,156.76,Imbalance,Left Semitendinosus
+26/03/2026 04:44:30,58.0,53.11,111.11,Imbalance,Right Gastrocnemius
+26/03/2026 04:45:00,78.59,54.53,133.12,Imbalance,Right Gluteus Maximus
+26/03/2026 04:45:30,71.8,85.41,157.21,Imbalance,Left Vastus Lateralis
+26/03/2026 04:46:00,57.78,60.78,118.56,Imbalance,Left Peroneus Longus
+26/03/2026 04:46:30,31.31,30.0,61.31,Imbalance,Right Gluteus Medius
+26/03/2026 04:47:00,36.91,45.74,82.65,Imbalance,Left Vastus Lateralis
+26/03/2026 04:47:30,47.01,46.4,93.41,Balanced,Balanced
+26/03/2026 04:48:00,55.82,35.0,90.82,Imbalance,Right Gluteus Maximus
+26/03/2026 04:48:30,40.87,56.15,97.02,Imbalance,Left Adductor Magnus
+26/03/2026 04:49:00,45.16,36.14,81.3,Imbalance,Right Vastus Lateralis
+26/03/2026 04:49:30,89.8,69.91,159.71,Imbalance,Right Gracilis
+26/03/2026 04:50:00,51.78,74.09,125.87,Imbalance,Left Biceps Femoris
+26/03/2026 04:50:30,73.2,74.06,147.26,Balanced,Balanced
+26/03/2026 04:51:00,36.24,30.0,66.24,Imbalance,Right Gluteus Maximus
+26/03/2026 04:51:30,83.47,95.0,178.47,Imbalance,Left Tibialis Anterior
+26/03/2026 04:52:00,37.76,37.87,75.63,Balanced,Balanced
+26/03/2026 04:52:30,84.44,67.23,151.67,Imbalance,Right Sartorius
+26/03/2026 04:53:00,60.8,45.93,106.73,Imbalance,Right Gracilis
+26/03/2026 04:53:30,31.89,30.0,61.89,Imbalance,Right Gluteus Minimus
+26/03/2026 04:54:00,65.46,66.48,131.94,Balanced,Balanced
+26/03/2026 04:54:30,35.38,33.48,68.86,Balanced,Balanced
+26/03/2026 04:55:00,87.48,81.02,168.5,Imbalance,Right Tibialis Anterior
+26/03/2026 04:55:30,75.72,53.55,129.27,Imbalance,Right Semimembranosus
+26/03/2026 04:56:00,87.73,90.8,178.53,Imbalance,Left Gastrocnemius
+26/03/2026 04:56:30,77.7,55.16,132.86,Imbalance,Right Adductor Longus
+26/03/2026 04:57:00,71.65,71.67,143.32,Balanced,Balanced
+26/03/2026 04:57:30,53.17,63.97,117.14,Imbalance,Left Vastus Lateralis
+26/03/2026 04:58:00,55.88,68.76,124.64,Imbalance,Left Vastus Medialis
+26/03/2026 04:58:30,53.25,49.55,102.8,Imbalance,Right Gastrocnemius
+26/03/2026 04:59:00,52.94,54.72,107.66,Balanced,Balanced
+26/03/2026 04:59:30,58.51,53.08,111.59,Imbalance,Right Tibialis Anterior
+26/03/2026 05:00:00,75.03,73.95,148.98,Balanced,Balanced
+26/03/2026 05:00:30,59.43,59.46,118.89,Balanced,Balanced
+26/03/2026 05:01:00,79.14,79.86,159.0,Balanced,Balanced
+26/03/2026 05:01:30,56.8,58.11,114.91,Balanced,Balanced
+26/03/2026 05:02:00,48.86,47.09,95.95,Balanced,Balanced
+26/03/2026 05:02:30,71.46,83.35,154.81,Imbalance,Left Rectus Femoris
+26/03/2026 05:03:00,57.57,76.69,134.26,Imbalance,Left Gracilis
+26/03/2026 05:03:30,51.14,52.48,103.62,Balanced,Balanced
+26/03/2026 05:04:00,79.88,80.29,160.17,Balanced,Balanced
+26/03/2026 05:04:30,62.61,61.87,124.48,Balanced,Balanced
+26/03/2026 05:05:00,33.65,30.0,63.65,Imbalance,Right Gluteus Maximus
+26/03/2026 05:05:30,89.85,91.27,181.12,Balanced,Balanced
+26/03/2026 05:06:00,38.63,30.0,68.63,Imbalance,Right Gluteus Maximus
+26/03/2026 05:06:30,73.69,54.58,128.27,Imbalance,Right Semitendinosus
+26/03/2026 05:07:00,55.58,40.53,96.11,Imbalance,Right Adductor Magnus
+26/03/2026 05:07:30,57.12,70.43,127.55,Imbalance,Left Vastus Lateralis
+26/03/2026 05:08:00,39.64,30.0,69.64,Imbalance,Right Gluteus Maximus
+26/03/2026 05:08:30,30.54,30.0,60.54,Imbalance,Right Gluteus Medius
+26/03/2026 05:09:00,60.48,58.89,119.37,Balanced,Balanced
+26/03/2026 05:09:30,45.82,30.0,75.82,Imbalance,Right Gluteus Minimus
+26/03/2026 05:10:00,37.72,53.63,91.35,Imbalance,Left Semimembranosus
+26/03/2026 05:10:30,33.48,50.55,84.03,Imbalance,Left Iliopsoas
+26/03/2026 05:11:00,63.44,63.89,127.33,Balanced,Balanced
+26/03/2026 05:11:30,78.17,65.17,143.34,Imbalance,Right Vastus Medialis
+26/03/2026 05:12:00,50.85,54.3,105.15,Imbalance,Left Gastrocnemius
+26/03/2026 05:12:30,43.8,52.89,96.69,Imbalance,Left Vastus Lateralis
+26/03/2026 05:13:00,47.62,43.17,90.79,Imbalance,Right Soleus
+26/03/2026 05:13:30,75.64,77.36,153.0,Balanced,Balanced
+26/03/2026 05:14:00,64.01,59.87,123.88,Imbalance,Right Tibialis Anterior
+26/03/2026 05:14:30,54.69,42.08,96.77,Imbalance,Right Semitendinosus
+26/03/2026 05:15:00,86.02,67.89,153.91,Imbalance,Right Sartorius
+26/03/2026 05:15:30,72.04,71.06,143.1,Balanced,Balanced
+26/03/2026 05:16:00,30.12,30.0,60.12,Imbalance,Right Gluteus Medius
+26/03/2026 05:16:30,82.06,95.0,177.06,Imbalance,Left Sartorius
+26/03/2026 05:17:00,79.13,75.58,154.71,Imbalance,Right Peroneus Longus
+26/03/2026 05:17:30,70.82,75.71,146.53,Imbalance,Left Soleus
+26/03/2026 05:18:00,48.4,50.06,98.46,Balanced,Balanced
+26/03/2026 05:18:30,57.97,52.36,110.33,Imbalance,Right Gastrocnemius
+26/03/2026 05:19:00,67.02,65.47,132.49,Balanced,Balanced
+26/03/2026 05:19:30,78.11,81.96,160.07,Imbalance,Left Tibialis Anterior
+26/03/2026 05:20:00,52.93,52.36,105.29,Balanced,Balanced
+26/03/2026 05:20:30,78.69,74.16,152.85,Imbalance,Right Gastrocnemius
+26/03/2026 05:21:00,52.4,68.52,120.92,Imbalance,Left Semimembranosus
+26/03/2026 05:21:30,65.87,89.96,155.83,Imbalance,Left Biceps Femoris
+26/03/2026 05:22:00,86.99,87.21,174.2,Balanced,Balanced
+26/03/2026 05:22:30,57.23,44.18,101.41,Imbalance,Right Gracilis
+26/03/2026 05:23:00,48.43,47.66,96.09,Balanced,Balanced
+26/03/2026 05:23:30,57.65,58.44,116.09,Balanced,Balanced
+26/03/2026 05:24:00,85.83,95.0,180.83,Imbalance,Left Gastrocnemius
+26/03/2026 05:24:30,51.09,41.21,92.3,Imbalance,Right Rectus Femoris
+26/03/2026 05:25:00,62.97,64.03,127.0,Balanced,Balanced
+26/03/2026 05:25:30,42.09,40.81,82.9,Balanced,Balanced
+26/03/2026 05:26:00,50.6,50.92,101.52,Balanced,Balanced
+26/03/2026 05:26:30,36.94,53.28,90.22,Imbalance,Left Gluteus Minimus
+26/03/2026 05:27:00,71.95,73.68,145.63,Balanced,Balanced
+26/03/2026 05:27:30,47.47,56.79,104.26,Imbalance,Left Vastus Lateralis
+26/03/2026 05:28:00,33.92,33.59,67.51,Balanced,Balanced
+26/03/2026 05:28:30,81.74,95.0,176.74,Imbalance,Left Vastus Medialis
+26/03/2026 05:29:00,34.38,38.61,72.99,Imbalance,Left Tibialis Anterior
+26/03/2026 05:29:30,62.82,53.58,116.4,Imbalance,Right Sartorius
+26/03/2026 05:30:00,45.5,31.91,77.41,Imbalance,Right Semitendinosus
+26/03/2026 05:30:30,32.58,32.93,65.51,Balanced,Balanced
+26/03/2026 05:31:00,64.01,65.03,129.04,Balanced,Balanced
+26/03/2026 05:31:30,33.89,33.1,66.99,Balanced,Balanced
+26/03/2026 05:32:00,41.12,59.08,100.2,Imbalance,Left Adductor Longus
+26/03/2026 05:32:30,59.42,57.53,116.95,Balanced,Balanced
+26/03/2026 05:33:00,74.96,83.43,158.39,Imbalance,Left Tibialis Anterior
+26/03/2026 05:33:30,31.67,49.47,81.14,Imbalance,Left Gluteus Maximus
+26/03/2026 05:34:00,86.47,68.58,155.05,Imbalance,Right Vastus Lateralis
+26/03/2026 05:34:30,79.07,69.05,148.12,Imbalance,Right Soleus
+26/03/2026 05:35:00,35.38,57.28,92.66,Imbalance,Left Gluteus Minimus
+26/03/2026 05:35:30,60.08,51.68,111.76,Imbalance,Right Rectus Femoris
+26/03/2026 05:36:00,76.16,54.85,131.01,Imbalance,Right Semitendinosus
+26/03/2026 05:36:30,36.33,37.29,73.62,Balanced,Balanced
+26/03/2026 05:37:00,52.0,55.61,107.61,Imbalance,Left Tibialis Anterior
+26/03/2026 05:37:30,67.51,76.53,144.04,Imbalance,Left Tibialis Anterior
+26/03/2026 05:38:00,77.31,94.68,171.99,Imbalance,Left Rectus Femoris
+26/03/2026 05:38:30,36.69,30.0,66.69,Imbalance,Right Tensor Fasciae Latae
+26/03/2026 05:39:00,67.92,57.13,125.05,Imbalance,Right Vastus Lateralis
+26/03/2026 05:39:30,62.01,65.94,127.95,Imbalance,Left Soleus
+26/03/2026 05:40:00,76.95,76.34,153.29,Balanced,Balanced
+26/03/2026 05:40:30,33.2,30.0,63.2,Imbalance,Right Iliopsoas
+26/03/2026 05:41:00,50.14,66.01,116.15,Imbalance,Left Adductor Magnus
+26/03/2026 05:41:30,75.61,76.37,151.98,Balanced,Balanced
+26/03/2026 05:42:00,39.2,30.0,69.2,Imbalance,Right Iliopsoas
+26/03/2026 05:42:30,78.7,66.22,144.92,Imbalance,Right Vastus Lateralis
+26/03/2026 05:43:00,82.8,78.73,161.53,Imbalance,Right Peroneus Longus
+26/03/2026 05:43:30,40.82,30.0,70.82,Imbalance,Right Gluteus Medius
+26/03/2026 05:44:00,39.37,30.0,69.37,Imbalance,Right Gluteus Minimus
+26/03/2026 05:44:30,75.97,90.19,166.16,Imbalance,Left Rectus Femoris
+26/03/2026 05:45:00,67.95,60.48,128.43,Imbalance,Right Peroneus Longus
+26/03/2026 05:45:30,89.44,90.48,179.92,Balanced,Balanced
+26/03/2026 05:46:00,57.53,57.51,115.04,Balanced,Balanced
+26/03/2026 05:46:30,66.25,44.19,110.44,Imbalance,Right Gluteus Maximus
+26/03/2026 05:47:00,69.39,85.48,154.87,Imbalance,Left Rectus Femoris
+26/03/2026 05:47:30,83.23,87.48,170.71,Imbalance,Left Tibialis Anterior
+26/03/2026 05:48:00,71.58,78.47,150.05,Imbalance,Left Soleus
+26/03/2026 05:48:30,70.13,91.26,161.39,Imbalance,Left Semitendinosus
+26/03/2026 05:49:00,49.49,39.62,89.11,Imbalance,Right Sartorius
+26/03/2026 05:49:30,66.51,66.84,133.35,Balanced,Balanced
+26/03/2026 05:50:00,36.44,39.89,76.33,Imbalance,Left Soleus
+26/03/2026 05:50:30,89.6,89.64,179.24,Balanced,Balanced
+26/03/2026 05:51:00,89.43,74.58,164.01,Imbalance,Right Rectus Femoris
+26/03/2026 05:51:30,36.61,37.0,73.61,Balanced,Balanced
+26/03/2026 05:52:00,79.56,78.46,158.02,Balanced,Balanced
+26/03/2026 05:52:30,53.02,51.2,104.22,Balanced,Balanced
+26/03/2026 05:53:00,57.54,64.27,121.81,Imbalance,Left Gastrocnemius
+26/03/2026 05:53:30,56.05,38.25,94.3,Imbalance,Right Gluteus Minimus
+26/03/2026 05:54:00,68.56,70.53,139.09,Balanced,Balanced
+26/03/2026 05:54:30,76.31,76.45,152.76,Balanced,Balanced
+26/03/2026 05:55:00,61.56,70.02,131.58,Imbalance,Left Gastrocnemius
+26/03/2026 05:55:30,42.2,30.0,72.2,Imbalance,Right Gluteus Maximus
+26/03/2026 05:56:00,86.97,78.38,165.35,Imbalance,Right Tibialis Anterior
+26/03/2026 05:56:30,79.83,89.7,169.53,Imbalance,Left Soleus
+26/03/2026 05:57:00,40.89,55.54,96.43,Imbalance,Left Semitendinosus
+26/03/2026 05:57:30,52.39,45.96,98.35,Imbalance,Right Peroneus Longus
+26/03/2026 05:58:00,85.15,95.0,180.15,Imbalance,Left Vastus Lateralis
+26/03/2026 05:58:30,51.36,58.64,110.0,Imbalance,Left Gastrocnemius
+26/03/2026 05:59:00,74.5,74.22,148.72,Balanced,Balanced
+26/03/2026 05:59:30,51.47,50.05,101.52,Balanced,Balanced
+26/03/2026 06:00:00,34.03,30.0,64.03,Imbalance,Right Rectus Femoris
+26/03/2026 06:00:30,81.34,59.11,140.45,Imbalance,Right Gracilis
+26/03/2026 06:01:00,77.58,65.73,143.31,Imbalance,Right Rectus Femoris
+26/03/2026 06:01:30,75.84,60.51,136.35,Imbalance,Right Vastus Medialis
+26/03/2026 06:02:00,54.66,37.86,92.52,Imbalance,Right Gluteus Maximus
+26/03/2026 06:02:30,35.05,35.68,70.73,Balanced,Balanced
+26/03/2026 06:03:00,72.28,82.55,154.83,Imbalance,Left Tibialis Anterior
+26/03/2026 06:03:30,76.13,57.72,133.85,Imbalance,Right Gracilis
+26/03/2026 06:04:00,84.85,95.0,179.85,Imbalance,Left Sartorius
+26/03/2026 06:04:30,66.44,64.58,131.02,Balanced,Balanced
+26/03/2026 06:05:00,50.79,74.98,125.77,Imbalance,Left Tensor Fasciae Latae
+26/03/2026 06:05:30,79.66,92.39,172.05,Imbalance,Left Vastus Lateralis
+26/03/2026 06:06:00,49.18,49.8,98.98,Balanced,Balanced
+26/03/2026 06:06:30,30.61,30.0,60.61,Imbalance,Right Peroneus Longus
+26/03/2026 06:07:00,68.29,68.32,136.61,Balanced,Balanced
+26/03/2026 06:07:30,63.3,61.56,124.86,Balanced,Balanced
+26/03/2026 06:08:00,80.77,95.0,175.77,Imbalance,Left Sartorius
+26/03/2026 06:08:30,40.43,41.48,81.91,Balanced,Balanced
+26/03/2026 06:09:00,49.68,30.0,79.68,Imbalance,Right Gluteus Maximus
+26/03/2026 06:09:30,52.16,34.53,86.69,Imbalance,Right Gluteus Medius
+26/03/2026 06:10:00,62.2,46.35,108.55,Imbalance,Right Semitendinosus
+26/03/2026 06:10:30,84.43,92.61,177.04,Imbalance,Left Peroneus Longus
+26/03/2026 06:11:00,84.54,85.69,170.23,Balanced,Balanced
+26/03/2026 06:11:30,37.92,36.83,74.75,Balanced,Balanced
+26/03/2026 06:12:00,62.52,63.75,126.27,Balanced,Balanced
+26/03/2026 06:12:30,52.5,52.47,104.97,Balanced,Balanced
+26/03/2026 06:13:00,75.98,67.02,143.0,Imbalance,Right Tibialis Anterior
+26/03/2026 06:13:30,59.2,58.72,117.92,Balanced,Balanced
+26/03/2026 06:14:00,80.36,95.0,175.36,Imbalance,Left Rectus Femoris
+26/03/2026 06:14:30,34.95,35.63,70.58,Balanced,Balanced
+26/03/2026 06:15:00,86.55,71.4,157.95,Imbalance,Right Sartorius
+26/03/2026 06:15:30,77.48,95.0,172.48,Imbalance,Left Sartorius
+26/03/2026 06:16:00,68.0,69.98,137.98,Balanced,Balanced
+26/03/2026 06:16:30,40.71,39.28,79.99,Balanced,Balanced
+26/03/2026 06:17:00,49.51,59.95,109.46,Imbalance,Left Vastus Lateralis
+26/03/2026 06:17:30,47.65,47.23,94.88,Balanced,Balanced
+26/03/2026 06:18:00,57.19,57.47,114.66,Balanced,Balanced
+26/03/2026 06:18:30,59.59,59.25,118.84,Balanced,Balanced
+26/03/2026 06:19:00,78.54,54.21,132.75,Imbalance,Right Gluteus Medius
+26/03/2026 06:19:30,39.42,57.79,97.21,Imbalance,Left Gluteus Minimus
+26/03/2026 06:20:00,53.37,69.95,123.32,Imbalance,Left Gracilis
+26/03/2026 06:20:30,53.25,39.9,93.15,Imbalance,Right Adductor Longus
+26/03/2026 06:21:00,69.45,81.72,151.17,Imbalance,Left Vastus Lateralis
+26/03/2026 06:21:30,54.98,55.38,110.36,Balanced,Balanced
+26/03/2026 06:22:00,43.17,30.0,73.17,Imbalance,Right Gluteus Maximus
+26/03/2026 06:22:30,67.97,72.92,140.89,Imbalance,Left Tibialis Anterior
+26/03/2026 06:23:00,87.43,76.09,163.52,Imbalance,Right Soleus
+26/03/2026 06:23:30,61.4,47.47,108.87,Imbalance,Right Adductor Magnus
+26/03/2026 06:24:00,56.71,53.52,110.23,Imbalance,Right Tibialis Anterior
+26/03/2026 06:24:30,44.09,46.03,90.12,Balanced,Balanced
+26/03/2026 06:25:00,40.16,30.0,70.16,Imbalance,Right Iliopsoas
+26/03/2026 06:25:30,30.84,54.24,85.08,Imbalance,Left Tensor Fasciae Latae
+26/03/2026 06:26:00,83.03,87.95,170.98,Imbalance,Left Gastrocnemius
+26/03/2026 06:26:30,47.38,30.0,77.38,Imbalance,Right Gluteus Minimus
+26/03/2026 06:27:00,73.16,73.89,147.05,Balanced,Balanced
+26/03/2026 06:27:30,42.56,30.0,72.56,Imbalance,Right Gluteus Maximus
+26/03/2026 06:28:00,49.41,49.29,98.7,Balanced,Balanced
+26/03/2026 06:28:30,40.61,55.02,95.63,Imbalance,Left Semimembranosus
+26/03/2026 06:29:00,62.76,57.46,120.22,Imbalance,Right Tibialis Anterior
+26/03/2026 06:29:30,81.53,81.52,163.05,Balanced,Balanced
+26/03/2026 06:30:00,70.61,70.81,141.42,Balanced,Balanced
+26/03/2026 06:30:30,78.41,62.36,140.77,Imbalance,Right Sartorius
+26/03/2026 06:31:00,46.81,46.71,93.52,Balanced,Balanced
+26/03/2026 06:31:30,76.57,51.95,128.52,Imbalance,Right Iliopsoas
+26/03/2026 06:32:00,59.54,37.48,97.02,Imbalance,Right Gluteus Maximus
+26/03/2026 06:32:30,40.99,42.94,83.93,Balanced,Balanced
+26/03/2026 06:33:00,74.63,75.57,150.2,Balanced,Balanced
+26/03/2026 06:33:30,55.76,56.66,112.42,Balanced,Balanced
+26/03/2026 06:34:00,71.25,70.36,141.61,Balanced,Balanced
+26/03/2026 06:34:30,80.7,64.14,144.84,Imbalance,Right Vastus Lateralis
+26/03/2026 06:35:00,45.46,43.72,89.18,Balanced,Balanced
+26/03/2026 06:35:30,43.1,30.0,73.1,Imbalance,Right Tensor Fasciae Latae
+26/03/2026 06:36:00,41.43,30.0,71.43,Imbalance,Right Gluteus Maximus
+26/03/2026 06:36:30,65.31,63.75,129.06,Balanced,Balanced
+26/03/2026 06:37:00,72.64,95.0,167.64,Imbalance,Left Semimembranosus
+26/03/2026 06:37:30,50.13,50.21,100.34,Balanced,Balanced
+26/03/2026 06:38:00,87.16,95.0,182.16,Imbalance,Left Vastus Medialis
+26/03/2026 06:38:30,43.07,60.96,104.03,Imbalance,Left Adductor Longus
+26/03/2026 06:39:00,45.74,66.63,112.37,Imbalance,Left Iliopsoas
+26/03/2026 06:39:30,72.98,58.65,131.63,Imbalance,Right Rectus Femoris
+26/03/2026 06:40:00,82.58,84.22,166.8,Balanced,Balanced
+26/03/2026 06:40:30,32.09,49.85,81.94,Imbalance,Left Gluteus Minimus
+26/03/2026 06:41:00,59.93,59.22,119.15,Balanced,Balanced
+26/03/2026 06:41:30,68.21,67.74,135.95,Balanced,Balanced
+26/03/2026 06:42:00,49.95,48.22,98.17,Balanced,Balanced
+26/03/2026 06:42:30,89.8,95.0,184.8,Imbalance,Left Rectus Femoris
+26/03/2026 06:43:00,53.41,52.63,106.04,Balanced,Balanced
+26/03/2026 06:43:30,47.89,41.85,89.74,Imbalance,Right Peroneus Longus
+26/03/2026 06:44:00,65.27,64.71,129.98,Balanced,Balanced
+26/03/2026 06:44:30,82.98,69.25,152.23,Imbalance,Right Sartorius
+26/03/2026 06:45:00,88.55,95.0,183.55,Imbalance,Left Vastus Lateralis
+26/03/2026 06:45:30,49.06,71.77,120.83,Imbalance,Left Gluteus Maximus
+26/03/2026 06:46:00,67.44,46.47,113.91,Imbalance,Right Iliopsoas
+26/03/2026 06:46:30,74.15,95.0,169.15,Imbalance,Left Gracilis
+26/03/2026 06:47:00,74.8,90.1,164.9,Imbalance,Left Vastus Lateralis
+26/03/2026 06:47:30,31.41,31.97,63.38,Balanced,Balanced
+26/03/2026 06:48:00,82.09,83.82,165.91,Balanced,Balanced
+26/03/2026 06:48:30,49.03,67.24,116.27,Imbalance,Left Gracilis
+26/03/2026 06:49:00,89.03,73.26,162.29,Imbalance,Right Vastus Medialis
+26/03/2026 06:49:30,57.3,77.18,134.48,Imbalance,Left Gracilis
+26/03/2026 06:50:00,87.72,88.34,176.06,Balanced,Balanced
+26/03/2026 06:50:30,34.72,39.48,74.2,Imbalance,Left Tibialis Anterior
+26/03/2026 06:51:00,61.43,77.26,138.69,Imbalance,Left Vastus Lateralis
+26/03/2026 06:51:30,47.66,47.73,95.39,Balanced,Balanced
+26/03/2026 06:52:00,36.51,38.45,74.96,Balanced,Balanced
+26/03/2026 06:52:30,86.06,81.16,167.22,Imbalance,Right Peroneus Longus
+26/03/2026 06:53:00,82.64,71.02,153.66,Imbalance,Right Vastus Medialis
+26/03/2026 06:53:30,37.77,30.0,67.77,Imbalance,Right Semitendinosus
+26/03/2026 06:54:00,87.69,89.16,176.85,Balanced,Balanced
+26/03/2026 06:54:30,44.76,30.0,74.76,Imbalance,Right Gluteus Maximus
+26/03/2026 06:55:00,42.95,60.4,103.35,Imbalance,Left Gracilis
+26/03/2026 06:55:30,60.94,60.05,120.99,Balanced,Balanced
+26/03/2026 06:56:00,77.1,64.64,141.74,Imbalance,Right Vastus Lateralis
+26/03/2026 06:56:30,60.82,60.28,121.1,Balanced,Balanced
+26/03/2026 06:57:00,46.67,45.58,92.25,Balanced,Balanced
+26/03/2026 06:57:30,31.76,30.09,61.85,Balanced,Balanced
+26/03/2026 06:58:00,68.06,79.14,147.2,Imbalance,Left Sartorius
+26/03/2026 06:58:30,47.83,49.27,97.1,Balanced,Balanced
+26/03/2026 06:59:00,78.79,69.9,148.69,Imbalance,Right Gastrocnemius
+26/03/2026 06:59:30,33.29,30.0,63.29,Imbalance,Right Gluteus Medius
+26/03/2026 07:00:00,87.67,89.36,177.03,Balanced,Balanced
+26/03/2026 07:00:30,62.25,83.42,145.67,Imbalance,Left Semimembranosus
+26/03/2026 07:01:00,86.94,87.09,174.03,Balanced,Balanced
+26/03/2026 07:01:30,58.07,50.42,108.49,Imbalance,Right Rectus Femoris
+26/03/2026 07:02:00,41.16,30.0,71.16,Imbalance,Right Tensor Fasciae Latae
+26/03/2026 07:02:30,58.5,60.22,118.72,Balanced,Balanced
+26/03/2026 07:03:00,63.1,53.53,116.63,Imbalance,Right Rectus Femoris
+26/03/2026 07:03:30,59.12,76.13,135.25,Imbalance,Left Biceps Femoris
+26/03/2026 07:04:00,40.5,41.29,81.79,Balanced,Balanced
+26/03/2026 07:04:30,68.95,70.14,139.09,Balanced,Balanced
+26/03/2026 07:05:00,70.98,64.36,135.34,Imbalance,Right Soleus
+26/03/2026 07:05:30,75.88,93.65,169.53,Imbalance,Left Sartorius
+26/03/2026 07:06:00,33.03,30.0,63.03,Imbalance,Right Gluteus Maximus
+26/03/2026 07:06:30,41.0,33.64,74.64,Imbalance,Right Rectus Femoris
+26/03/2026 07:07:00,68.94,73.21,142.15,Imbalance,Left Soleus
+26/03/2026 07:07:30,64.58,51.32,115.9,Imbalance,Right Rectus Femoris
+26/03/2026 07:08:00,69.95,91.84,161.79,Imbalance,Left Biceps Femoris
+26/03/2026 07:08:30,84.97,86.33,171.3,Balanced,Balanced
+26/03/2026 07:09:00,71.01,77.55,148.56,Imbalance,Left Soleus
+26/03/2026 07:09:30,35.08,30.0,65.08,Imbalance,Right Gluteus Medius
+26/03/2026 07:10:00,82.23,95.0,177.23,Imbalance,Left Biceps Femoris
+26/03/2026 07:10:30,58.91,49.27,108.18,Imbalance,Right Vastus Medialis
+26/03/2026 07:11:00,45.5,33.97,79.47,Imbalance,Right Gracilis
+26/03/2026 07:11:30,70.25,45.62,115.87,Imbalance,Right Iliopsoas
+26/03/2026 07:12:00,55.46,55.22,110.68,Balanced,Balanced
+26/03/2026 07:12:30,62.08,63.01,125.09,Balanced,Balanced
+26/03/2026 07:13:00,72.13,79.76,151.89,Imbalance,Left Tibialis Anterior
+26/03/2026 07:13:30,82.46,57.83,140.29,Imbalance,Right Adductor Magnus
+26/03/2026 07:14:00,47.92,62.6,110.52,Imbalance,Left Adductor Magnus
+26/03/2026 07:14:30,44.56,46.55,91.11,Balanced,Balanced
+26/03/2026 07:15:00,73.65,89.37,163.02,Imbalance,Left Rectus Femoris
+26/03/2026 07:15:30,56.32,74.63,130.95,Imbalance,Left Gracilis
+26/03/2026 07:16:00,47.26,47.15,94.41,Balanced,Balanced
+26/03/2026 07:16:30,57.76,61.87,119.63,Imbalance,Left Gastrocnemius
+26/03/2026 07:17:00,52.18,39.21,91.39,Imbalance,Right Gracilis
+26/03/2026 07:17:30,73.5,73.61,147.11,Balanced,Balanced
+26/03/2026 07:18:00,35.5,30.0,65.5,Imbalance,Right Gluteus Medius
+26/03/2026 07:18:30,69.03,68.23,137.26,Balanced,Balanced
+26/03/2026 07:19:00,67.6,68.62,136.22,Balanced,Balanced
+26/03/2026 07:19:30,49.42,65.45,114.87,Imbalance,Left Biceps Femoris
+26/03/2026 07:20:00,43.06,44.83,87.89,Balanced,Balanced
+26/03/2026 07:20:30,56.45,56.52,112.97,Balanced,Balanced
+26/03/2026 07:21:00,73.93,89.62,163.55,Imbalance,Left Rectus Femoris
+26/03/2026 07:21:30,71.2,69.8,141.0,Balanced,Balanced
+26/03/2026 07:22:00,58.48,41.12,99.6,Imbalance,Right Semitendinosus
+26/03/2026 07:22:30,74.95,75.75,150.7,Balanced,Balanced
+26/03/2026 07:23:00,55.73,46.27,102.0,Imbalance,Right Vastus Lateralis
+26/03/2026 07:23:30,34.18,47.34,81.52,Imbalance,Left Adductor Magnus
+26/03/2026 07:24:00,80.89,79.79,160.68,Balanced,Balanced
+26/03/2026 07:24:30,53.63,34.22,87.85,Imbalance,Right Gluteus Medius
+26/03/2026 07:25:00,65.38,59.99,125.37,Imbalance,Right Gastrocnemius
+26/03/2026 07:25:30,78.35,68.09,146.44,Imbalance,Right Rectus Femoris
+26/03/2026 07:26:00,68.7,76.62,145.32,Imbalance,Left Soleus
+26/03/2026 07:26:30,40.63,60.97,101.6,Imbalance,Left Tensor Fasciae Latae
+26/03/2026 07:27:00,35.81,37.41,73.22,Balanced,Balanced
+26/03/2026 07:27:30,64.03,64.75,128.78,Balanced,Balanced
+26/03/2026 07:28:00,32.47,31.7,64.17,Balanced,Balanced
+26/03/2026 07:28:30,68.51,49.21,117.72,Imbalance,Right Semitendinosus
+26/03/2026 07:29:00,89.7,95.0,184.7,Imbalance,Left Vastus Medialis
+26/03/2026 07:29:30,46.63,45.75,92.38,Balanced,Balanced
+26/03/2026 07:30:00,70.54,90.44,160.98,Imbalance,Left Semimembranosus
+26/03/2026 07:30:30,79.7,95.0,174.7,Imbalance,Left Rectus Femoris
+26/03/2026 07:31:00,48.44,50.4,98.84,Balanced,Balanced
+26/03/2026 07:31:30,73.11,74.19,147.3,Balanced,Balanced
+26/03/2026 07:32:00,70.13,93.06,163.19,Imbalance,Left Adductor Longus
+26/03/2026 07:32:30,83.43,75.82,159.25,Imbalance,Right Peroneus Longus
+26/03/2026 07:33:00,80.88,92.29,173.17,Imbalance,Left Peroneus Longus
+26/03/2026 07:33:30,81.51,85.06,166.57,Imbalance,Left Tibialis Anterior
+26/03/2026 07:34:00,89.89,80.37,170.26,Imbalance,Right Tibialis Anterior
+26/03/2026 07:34:30,74.43,81.26,155.69,Imbalance,Left Peroneus Longus
+26/03/2026 07:35:00,49.92,54.37,104.29,Imbalance,Left Tibialis Anterior
+26/03/2026 07:35:30,83.33,83.1,166.43,Balanced,Balanced
+26/03/2026 07:36:00,43.36,33.08,76.44,Imbalance,Right Gracilis
+26/03/2026 07:36:30,75.59,75.33,150.92,Balanced,Balanced
+26/03/2026 07:37:00,66.17,57.08,123.25,Imbalance,Right Vastus Medialis
+26/03/2026 07:37:30,72.9,60.33,133.23,Imbalance,Right Vastus Lateralis
+26/03/2026 07:38:00,45.43,39.25,84.68,Imbalance,Right Sartorius
+26/03/2026 07:38:30,75.45,83.8,159.25,Imbalance,Left Peroneus Longus
+26/03/2026 07:39:00,64.31,68.54,132.85,Imbalance,Left Peroneus Longus
+26/03/2026 07:39:30,86.48,87.09,173.57,Balanced,Balanced
+26/03/2026 07:40:00,52.51,51.95,104.46,Balanced,Balanced
+26/03/2026 07:40:30,77.36,79.09,156.45,Balanced,Balanced
+26/03/2026 07:41:00,84.13,73.77,157.9,Imbalance,Right Peroneus Longus
+26/03/2026 07:41:30,58.07,79.07,137.14,Imbalance,Left Biceps Femoris
+26/03/2026 07:42:00,59.39,37.07,96.46,Imbalance,Right Iliopsoas
+26/03/2026 07:42:30,89.39,95.0,184.39,Imbalance,Left Sartorius
+26/03/2026 07:43:00,62.26,86.15,148.41,Imbalance,Left Adductor Longus
+26/03/2026 07:43:30,50.55,54.9,105.45,Imbalance,Left Peroneus Longus
+26/03/2026 07:44:00,66.12,86.03,152.15,Imbalance,Left Semimembranosus
+26/03/2026 07:44:30,68.55,58.15,126.7,Imbalance,Right Sartorius
+26/03/2026 07:45:00,36.89,38.0,74.89,Balanced,Balanced
+26/03/2026 07:45:30,46.34,44.69,91.03,Balanced,Balanced
+26/03/2026 07:46:00,47.3,45.93,93.23,Balanced,Balanced
+26/03/2026 07:46:30,81.45,81.67,163.12,Balanced,Balanced
+26/03/2026 07:47:00,49.7,63.87,113.57,Imbalance,Left Adductor Longus
+26/03/2026 07:47:30,57.09,61.63,118.72,Imbalance,Left Peroneus Longus
+26/03/2026 07:48:00,54.89,54.67,109.56,Balanced,Balanced
+26/03/2026 07:48:30,89.51,76.28,165.79,Imbalance,Right Vastus Medialis
+26/03/2026 07:49:00,78.21,70.63,148.84,Imbalance,Right Peroneus Longus
+26/03/2026 07:49:30,36.73,37.82,74.55,Balanced,Balanced
+26/03/2026 07:50:00,33.29,31.99,65.28,Balanced,Balanced
+26/03/2026 07:50:30,32.47,36.2,68.67,Imbalance,Left Soleus
+26/03/2026 07:51:00,84.45,83.85,168.3,Balanced,Balanced
+26/03/2026 07:51:30,56.97,80.36,137.33,Imbalance,Left Semimembranosus
+26/03/2026 07:52:00,36.12,35.82,71.94,Balanced,Balanced
+26/03/2026 07:52:30,46.13,44.64,90.77,Balanced,Balanced
+26/03/2026 07:53:00,50.56,49.05,99.61,Balanced,Balanced
+26/03/2026 07:53:30,70.72,82.24,152.96,Imbalance,Left Vastus Lateralis
+26/03/2026 07:54:00,80.03,95.0,175.03,Imbalance,Left Semimembranosus
+26/03/2026 07:54:30,58.83,47.32,106.15,Imbalance,Right Rectus Femoris
+26/03/2026 07:55:00,81.14,81.03,162.17,Balanced,Balanced
+26/03/2026 07:55:30,51.63,50.52,102.15,Balanced,Balanced
+26/03/2026 07:56:00,88.54,72.97,161.51,Imbalance,Right Vastus Lateralis
+26/03/2026 07:56:30,69.32,67.32,136.64,Balanced,Balanced
+26/03/2026 07:57:00,72.47,56.55,129.02,Imbalance,Right Semitendinosus
+26/03/2026 07:57:30,44.48,65.35,109.83,Imbalance,Left Gluteus Maximus
+26/03/2026 07:58:00,43.62,43.75,87.37,Balanced,Balanced
+26/03/2026 07:58:30,42.96,30.0,72.96,Imbalance,Right Gluteus Minimus
+26/03/2026 07:59:00,30.8,31.71,62.51,Balanced,Balanced
+26/03/2026 07:59:30,55.72,56.12,111.84,Balanced,Balanced
+26/03/2026 08:00:00,66.21,73.47,139.68,Imbalance,Left Soleus
+26/03/2026 08:00:30,88.08,78.58,166.66,Imbalance,Right Gastrocnemius
+26/03/2026 08:01:00,67.16,65.45,132.61,Balanced,Balanced
+26/03/2026 08:01:30,87.12,64.2,151.32,Imbalance,Right Semimembranosus
+26/03/2026 08:02:00,89.09,82.89,171.98,Imbalance,Right Peroneus Longus
+26/03/2026 08:02:30,52.74,48.04,100.78,Imbalance,Right Tibialis Anterior
+26/03/2026 08:03:00,54.62,46.31,100.93,Imbalance,Right Rectus Femoris
+26/03/2026 08:03:30,70.64,71.56,142.2,Balanced,Balanced
+26/03/2026 08:04:00,51.13,67.33,118.46,Imbalance,Left Biceps Femoris
+26/03/2026 08:04:30,65.34,65.56,130.9,Balanced,Balanced
+26/03/2026 08:05:00,82.6,95.0,177.6,Imbalance,Left Vastus Lateralis
+26/03/2026 08:05:30,56.32,61.26,117.58,Imbalance,Left Soleus
+26/03/2026 08:06:00,81.82,64.24,146.06,Imbalance,Right Gracilis
+26/03/2026 08:06:30,80.84,95.0,175.84,Imbalance,Left Vastus Lateralis
+26/03/2026 08:07:00,85.42,84.33,169.75,Balanced,Balanced
+26/03/2026 08:07:30,31.0,30.0,61.0,Imbalance,Right Sartorius
+26/03/2026 08:08:00,57.08,42.22,99.3,Imbalance,Right Adductor Magnus
+26/03/2026 08:08:30,43.39,43.71,87.1,Balanced,Balanced
+26/03/2026 08:09:00,82.7,76.78,159.48,Imbalance,Right Peroneus Longus
+26/03/2026 08:09:30,74.34,75.22,149.56,Balanced,Balanced
+26/03/2026 08:10:00,44.61,68.95,113.56,Imbalance,Left Gluteus Maximus
+26/03/2026 08:10:30,39.63,30.0,69.63,Imbalance,Right Iliopsoas
+26/03/2026 08:11:00,63.62,84.91,148.53,Imbalance,Left Semitendinosus
+26/03/2026 08:11:30,87.37,95.0,182.37,Imbalance,Left Semitendinosus
+26/03/2026 08:12:00,62.9,78.99,141.89,Imbalance,Left Vastus Medialis
+26/03/2026 08:12:30,66.84,78.97,145.81,Imbalance,Left Vastus Medialis
+26/03/2026 08:13:00,78.42,68.97,147.39,Imbalance,Right Soleus
+26/03/2026 08:13:30,62.9,63.4,126.3,Balanced,Balanced
+26/03/2026 08:14:00,37.95,46.64,84.59,Imbalance,Left Sartorius
+26/03/2026 08:14:30,88.14,86.59,174.73,Balanced,Balanced
+26/03/2026 08:15:00,73.91,83.98,157.89,Imbalance,Left Peroneus Longus
+26/03/2026 08:15:30,81.6,89.03,170.63,Imbalance,Left Peroneus Longus
+26/03/2026 08:16:00,65.57,66.29,131.86,Balanced,Balanced
+26/03/2026 08:16:30,74.22,84.35,158.57,Imbalance,Left Tibialis Anterior
+26/03/2026 08:17:00,61.83,61.19,123.02,Balanced,Balanced
+26/03/2026 08:17:30,47.21,46.32,93.53,Balanced,Balanced
+26/03/2026 08:18:00,40.24,30.0,70.24,Imbalance,Right Gluteus Minimus
+26/03/2026 08:18:30,71.42,67.96,139.38,Imbalance,Right Tibialis Anterior
+26/03/2026 08:19:00,68.05,75.89,143.94,Imbalance,Left Gastrocnemius
+26/03/2026 08:19:30,84.64,95.0,179.64,Imbalance,Left Vastus Medialis
+26/03/2026 08:20:00,64.95,71.65,136.6,Imbalance,Left Peroneus Longus
+26/03/2026 08:20:30,75.57,91.87,167.44,Imbalance,Left Vastus Lateralis
+26/03/2026 08:21:00,36.66,30.16,66.82,Imbalance,Right Vastus Lateralis
+26/03/2026 08:21:30,83.13,95.0,178.13,Imbalance,Left Sartorius
+26/03/2026 08:22:00,85.98,62.73,148.71,Imbalance,Right Semimembranosus
+26/03/2026 08:22:30,69.2,72.52,141.72,Imbalance,Left Soleus
+26/03/2026 08:23:00,77.82,78.6,156.42,Balanced,Balanced
+26/03/2026 08:23:30,80.87,95.0,175.87,Imbalance,Left Vastus Medialis
+26/03/2026 08:24:00,77.68,89.5,167.18,Imbalance,Left Rectus Femoris
+26/03/2026 08:24:30,84.66,65.66,150.32,Imbalance,Right Semitendinosus
+26/03/2026 08:25:00,41.55,40.84,82.39,Balanced,Balanced
+26/03/2026 08:25:30,39.22,40.6,79.82,Balanced,Balanced
+26/03/2026 08:26:00,47.69,61.39,109.08,Imbalance,Left Adductor Magnus
+26/03/2026 08:26:30,75.06,55.23,130.29,Imbalance,Right Semimembranosus
+26/03/2026 08:27:00,70.45,57.38,127.83,Imbalance,Right Sartorius
+26/03/2026 08:27:30,38.47,31.88,70.35,Imbalance,Right Rectus Femoris
+26/03/2026 08:28:00,63.12,54.33,117.45,Imbalance,Right Rectus Femoris
+26/03/2026 08:28:30,46.3,30.0,76.3,Imbalance,Right Tensor Fasciae Latae
+26/03/2026 08:29:00,59.96,51.84,111.8,Imbalance,Right Sartorius
+26/03/2026 08:29:30,71.48,94.82,166.3,Imbalance,Left Biceps Femoris
+26/03/2026 08:30:00,43.82,42.46,86.28,Balanced,Balanced
+26/03/2026 08:30:30,89.37,93.69,183.06,Imbalance,Left Peroneus Longus
+26/03/2026 08:31:00,62.94,56.88,119.82,Imbalance,Right Gastrocnemius
+26/03/2026 08:31:30,45.7,40.85,86.55,Imbalance,Right Peroneus Longus
+26/03/2026 08:32:00,56.36,74.67,131.03,Imbalance,Left Adductor Magnus
+26/03/2026 08:32:30,31.9,30.0,61.9,Imbalance,Right Tensor Fasciae Latae
+26/03/2026 08:33:00,54.64,54.17,108.81,Balanced,Balanced
+26/03/2026 08:33:30,66.8,52.19,118.99,Imbalance,Right Adductor Magnus
+26/03/2026 08:34:00,46.12,46.03,92.15,Balanced,Balanced
+26/03/2026 08:34:30,64.71,60.57,125.28,Imbalance,Right Gastrocnemius
+26/03/2026 08:35:00,39.13,34.77,73.9,Imbalance,Right Soleus
+26/03/2026 08:35:30,41.2,30.0,71.2,Imbalance,Right Gluteus Maximus
+26/03/2026 08:36:00,48.63,67.91,116.54,Imbalance,Left Semitendinosus
+26/03/2026 08:36:30,80.88,82.68,163.56,Balanced,Balanced
+26/03/2026 08:37:00,67.5,53.53,121.03,Imbalance,Right Rectus Femoris
+26/03/2026 08:37:30,61.64,42.77,104.41,Imbalance,Right Gluteus Maximus
+26/03/2026 08:38:00,66.54,75.84,142.38,Imbalance,Left Tibialis Anterior
+26/03/2026 08:38:30,89.27,90.12,179.39,Balanced,Balanced
+26/03/2026 08:39:00,85.43,77.82,163.25,Imbalance,Right Gastrocnemius
+26/03/2026 08:39:30,71.32,78.74,150.06,Imbalance,Left Soleus
+26/03/2026 08:40:00,85.77,65.88,151.65,Imbalance,Right Gracilis
+26/03/2026 08:40:30,47.31,38.37,85.68,Imbalance,Right Sartorius
+26/03/2026 08:41:00,89.43,85.53,174.96,Imbalance,Right Soleus
+26/03/2026 08:41:30,76.25,95.0,171.25,Imbalance,Left Vastus Lateralis
+26/03/2026 08:42:00,78.58,91.69,170.27,Imbalance,Left Vastus Lateralis
+26/03/2026 08:42:30,32.99,31.43,64.42,Balanced,Balanced
+26/03/2026 08:43:00,88.58,92.17,180.75,Imbalance,Left Tibialis Anterior
+26/03/2026 08:43:30,85.74,77.98,163.72,Imbalance,Right Peroneus Longus
+26/03/2026 08:44:00,85.33,68.56,153.89,Imbalance,Right Sartorius
+26/03/2026 08:44:30,85.5,91.1,176.6,Imbalance,Left Soleus
+26/03/2026 08:45:00,54.85,75.11,129.96,Imbalance,Left Biceps Femoris
+26/03/2026 08:45:30,77.63,71.92,149.55,Imbalance,Right Gastrocnemius
+26/03/2026 08:46:00,44.84,38.88,83.72,Imbalance,Right Rectus Femoris
+26/03/2026 08:46:30,32.53,30.0,62.53,Imbalance,Right Sartorius
+26/03/2026 08:47:00,66.18,66.14,132.32,Balanced,Balanced
+26/03/2026 08:47:30,88.67,63.9,152.57,Imbalance,Right Adductor Longus
+26/03/2026 08:48:00,73.92,58.21,132.13,Imbalance,Right Vastus Medialis
+26/03/2026 08:48:30,66.24,79.21,145.45,Imbalance,Left Sartorius
+26/03/2026 08:49:00,86.05,86.55,172.6,Balanced,Balanced
+26/03/2026 08:49:30,73.0,73.43,146.43,Balanced,Balanced
+26/03/2026 08:50:00,39.36,49.1,88.46,Imbalance,Left Rectus Femoris
+26/03/2026 08:50:30,69.93,91.63,161.56,Imbalance,Left Biceps Femoris
+26/03/2026 08:51:00,81.14,95.0,176.14,Imbalance,Left Gracilis
+26/03/2026 08:51:30,34.45,48.59,83.04,Imbalance,Left Adductor Magnus
+26/03/2026 08:52:00,55.54,47.86,103.4,Imbalance,Right Vastus Medialis
+26/03/2026 08:52:30,31.0,45.36,76.36,Imbalance,Left Iliopsoas
+26/03/2026 08:53:00,68.68,91.0,159.68,Imbalance,Left Semitendinosus
+26/03/2026 08:53:30,38.29,44.19,82.48,Imbalance,Left Sartorius
+26/03/2026 08:54:00,49.11,50.81,99.92,Balanced,Balanced
+26/03/2026 08:54:30,75.1,94.22,169.32,Imbalance,Left Sartorius
+26/03/2026 08:55:00,40.91,63.82,104.73,Imbalance,Left Iliopsoas
+26/03/2026 08:55:30,75.74,77.46,153.2,Balanced,Balanced
+26/03/2026 08:56:00,35.68,30.0,65.68,Imbalance,Right Gluteus Medius
+26/03/2026 08:56:30,50.44,44.54,94.98,Imbalance,Right Gastrocnemius
+26/03/2026 08:57:00,34.4,49.25,83.65,Imbalance,Left Semitendinosus
+26/03/2026 08:57:30,41.97,48.35,90.32,Imbalance,Left Vastus Lateralis
+26/03/2026 08:58:00,80.54,79.52,160.06,Balanced,Balanced
+26/03/2026 08:58:30,46.17,46.17,92.34,Balanced,Balanced
+26/03/2026 08:59:00,83.64,85.35,168.99,Balanced,Balanced
+26/03/2026 08:59:30,62.66,43.59,106.25,Imbalance,Right Biceps Femoris
+26/03/2026 09:00:00,88.8,95.0,183.8,Imbalance,Left Vastus Medialis
+26/03/2026 09:00:30,84.4,95.0,179.4,Imbalance,Left Vastus Medialis
+26/03/2026 09:01:00,79.91,80.43,160.34,Balanced,Balanced
+26/03/2026 09:01:30,55.79,33.92,89.71,Imbalance,Right Iliopsoas
+26/03/2026 09:02:00,68.2,89.56,157.76,Imbalance,Left Adductor Magnus
+26/03/2026 09:02:30,74.09,75.75,149.84,Balanced,Balanced
+26/03/2026 09:03:00,58.11,57.68,115.79,Balanced,Balanced
+26/03/2026 09:03:30,79.82,69.47,149.29,Imbalance,Right Tibialis Anterior
+26/03/2026 09:04:00,58.68,69.89,128.57,Imbalance,Left Rectus Femoris
+26/03/2026 09:04:30,65.98,89.82,155.8,Imbalance,Left Semitendinosus
+26/03/2026 09:05:00,74.33,79.46,153.79,Imbalance,Left Tibialis Anterior
+26/03/2026 09:05:30,40.97,39.55,80.52,Balanced,Balanced
+26/03/2026 09:06:00,56.99,58.3,115.29,Balanced,Balanced
+26/03/2026 09:06:30,79.38,66.55,145.93,Imbalance,Right Sartorius
+26/03/2026 09:07:00,39.49,46.37,85.86,Imbalance,Left Vastus Medialis
+26/03/2026 09:07:30,49.98,63.67,113.65,Imbalance,Left Adductor Longus
+26/03/2026 09:08:00,75.03,79.84,154.87,Imbalance,Left Gastrocnemius
+26/03/2026 09:08:30,71.23,76.31,147.54,Imbalance,Left Tibialis Anterior
+26/03/2026 09:09:00,45.21,53.64,98.85,Imbalance,Left Rectus Femoris
+26/03/2026 09:09:30,74.04,77.5,151.54,Imbalance,Left Soleus
+26/03/2026 09:10:00,83.2,63.65,146.85,Imbalance,Right Biceps Femoris
+26/03/2026 09:10:30,48.25,47.5,95.75,Balanced,Balanced
+26/03/2026 09:11:00,58.64,57.14,115.78,Balanced,Balanced
+26/03/2026 09:11:30,40.21,35.97,76.18,Imbalance,Right Soleus
+26/03/2026 09:12:00,85.05,61.11,146.16,Imbalance,Right Adductor Longus
+26/03/2026 09:12:30,61.02,84.6,145.62,Imbalance,Left Biceps Femoris
+26/03/2026 09:13:00,37.38,30.0,67.38,Imbalance,Right Iliopsoas
+26/03/2026 09:13:30,86.53,72.33,158.86,Imbalance,Right Vastus Medialis
+26/03/2026 09:14:00,50.22,65.75,115.97,Imbalance,Left Semitendinosus
+26/03/2026 09:14:30,43.98,30.0,73.98,Imbalance,Right Gluteus Minimus
+26/03/2026 09:15:00,61.57,54.95,116.52,Imbalance,Right Tibialis Anterior
+26/03/2026 09:15:30,69.22,67.44,136.66,Balanced,Balanced
+26/03/2026 09:16:00,74.08,78.86,152.94,Imbalance,Left Tibialis Anterior
+26/03/2026 09:16:30,58.42,45.7,104.12,Imbalance,Right Adductor Longus
+26/03/2026 09:17:00,57.85,74.45,132.3,Imbalance,Left Semimembranosus
+26/03/2026 09:17:30,75.89,95.0,170.89,Imbalance,Left Semimembranosus
+26/03/2026 09:18:00,41.37,30.4,71.77,Imbalance,Right Gracilis
+26/03/2026 09:18:30,75.95,95.0,170.95,Imbalance,Left Adductor Longus
+26/03/2026 09:19:00,44.79,43.1,87.89,Balanced,Balanced
+26/03/2026 09:19:30,42.98,37.02,80.0,Imbalance,Right Vastus Lateralis
+26/03/2026 09:20:00,32.29,30.0,62.29,Imbalance,Right Tensor Fasciae Latae
+26/03/2026 09:20:30,41.79,48.24,90.03,Imbalance,Left Sartorius
+26/03/2026 09:21:00,31.08,49.23,80.31,Imbalance,Left Tensor Fasciae Latae
+26/03/2026 09:21:30,68.82,89.92,158.74,Imbalance,Left Gracilis
+26/03/2026 09:22:00,52.63,66.0,118.63,Imbalance,Left Sartorius
+26/03/2026 09:22:30,31.75,33.56,65.31,Balanced,Balanced
+26/03/2026 09:23:00,42.16,59.25,101.41,Imbalance,Left Adductor Longus
+26/03/2026 09:23:30,48.5,67.45,115.95,Imbalance,Left Semimembranosus
+26/03/2026 09:24:00,48.5,47.95,96.45,Balanced,Balanced
+26/03/2026 09:24:30,64.03,63.34,127.37,Balanced,Balanced
+26/03/2026 09:25:00,45.57,43.92,89.49,Balanced,Balanced
+26/03/2026 09:25:30,35.44,36.44,71.88,Balanced,Balanced
+26/03/2026 09:26:00,39.05,30.0,69.05,Imbalance,Right Gluteus Minimus
+26/03/2026 09:26:30,65.09,45.25,110.34,Imbalance,Right Semitendinosus
+26/03/2026 09:27:00,33.38,34.16,67.54,Balanced,Balanced
+26/03/2026 09:27:30,74.55,52.92,127.47,Imbalance,Right Adductor Longus
+26/03/2026 09:28:00,58.72,65.24,123.96,Imbalance,Left Tibialis Anterior
+26/03/2026 09:28:30,48.47,64.36,112.83,Imbalance,Left Biceps Femoris
+26/03/2026 09:29:00,36.35,30.0,66.35,Imbalance,Right Tensor Fasciae Latae
+26/03/2026 09:29:30,40.36,40.3,80.66,Balanced,Balanced
+26/03/2026 09:30:00,64.82,66.4,131.22,Balanced,Balanced
+26/03/2026 09:30:30,63.4,63.96,127.36,Balanced,Balanced
+26/03/2026 09:31:00,80.68,95.0,175.68,Imbalance,Left Rectus Femoris
+26/03/2026 09:31:30,39.47,38.97,78.44,Balanced,Balanced
+26/03/2026 09:32:00,61.77,79.32,141.09,Imbalance,Left Adductor Longus
+26/03/2026 09:32:30,39.02,39.65,78.67,Balanced,Balanced
+26/03/2026 09:33:00,46.84,69.37,116.21,Imbalance,Left Iliopsoas
+26/03/2026 09:33:30,62.0,44.51,106.51,Imbalance,Right Adductor Magnus
+26/03/2026 09:34:00,31.17,30.0,61.17,Imbalance,Right Gluteus Medius
+26/03/2026 09:34:30,82.67,65.13,147.8,Imbalance,Right Sartorius
+26/03/2026 09:35:00,69.18,63.65,132.83,Imbalance,Right Gastrocnemius
+26/03/2026 09:35:30,43.69,59.56,103.25,Imbalance,Left Semimembranosus
+26/03/2026 09:36:00,30.43,30.0,60.43,Imbalance,Right Gluteus Maximus
+26/03/2026 09:36:30,65.31,53.48,118.79,Imbalance,Right Sartorius
+26/03/2026 09:37:00,82.92,70.14,153.06,Imbalance,Right Vastus Lateralis
+26/03/2026 09:37:30,85.07,70.58,155.65,Imbalance,Right Vastus Lateralis
+26/03/2026 09:38:00,41.16,50.16,91.32,Imbalance,Left Vastus Medialis
+26/03/2026 09:38:30,39.12,39.56,78.68,Balanced,Balanced
+26/03/2026 09:39:00,38.89,55.35,94.24,Imbalance,Left Adductor Magnus
+26/03/2026 09:39:30,54.4,53.23,107.63,Balanced,Balanced
+26/03/2026 09:40:00,44.08,57.56,101.64,Imbalance,Left Semitendinosus
+26/03/2026 09:40:30,31.94,33.35,65.29,Balanced,Balanced
+26/03/2026 09:41:00,43.69,44.5,88.19,Balanced,Balanced
+26/03/2026 09:41:30,77.87,54.25,132.12,Imbalance,Right Semitendinosus
+26/03/2026 09:42:00,48.59,66.34,114.93,Imbalance,Left Adductor Magnus
+26/03/2026 09:42:30,84.04,73.08,157.12,Imbalance,Right Tibialis Anterior
+26/03/2026 09:43:00,84.87,82.98,167.85,Balanced,Balanced
+26/03/2026 09:43:30,84.78,95.0,179.78,Imbalance,Left Sartorius
+26/03/2026 09:44:00,54.84,53.04,107.88,Balanced,Balanced
+26/03/2026 09:44:30,42.87,35.31,78.18,Imbalance,Right Vastus Medialis
+26/03/2026 09:45:00,35.77,35.96,71.73,Balanced,Balanced
+26/03/2026 09:45:30,67.78,55.44,123.22,Imbalance,Right Vastus Lateralis
+26/03/2026 09:46:00,59.61,78.55,138.16,Imbalance,Left Biceps Femoris
+26/03/2026 09:46:30,79.95,80.47,160.42,Balanced,Balanced
+26/03/2026 09:47:00,45.92,44.66,90.58,Balanced,Balanced
+26/03/2026 09:47:30,47.08,41.32,88.4,Imbalance,Right Gastrocnemius
+26/03/2026 09:48:00,84.97,92.41,177.38,Imbalance,Left Soleus
+26/03/2026 09:48:30,37.56,59.45,97.01,Imbalance,Left Gluteus Maximus
+26/03/2026 09:49:00,83.25,82.27,165.52,Balanced,Balanced
+26/03/2026 09:49:30,61.25,79.47,140.72,Imbalance,Left Semimembranosus
+26/03/2026 09:50:00,51.4,50.64,102.04,Balanced,Balanced
+26/03/2026 09:50:30,57.16,55.26,112.42,Balanced,Balanced
+26/03/2026 09:51:00,66.42,66.23,132.65,Balanced,Balanced
+26/03/2026 09:51:30,43.72,30.0,73.72,Imbalance,Right Gluteus Maximus
+26/03/2026 09:52:00,58.18,45.8,103.98,Imbalance,Right Sartorius
+26/03/2026 09:52:30,71.94,70.58,142.52,Balanced,Balanced
+26/03/2026 09:53:00,55.86,62.04,117.9,Imbalance,Left Gastrocnemius
+26/03/2026 09:53:30,32.19,31.55,63.74,Balanced,Balanced
+26/03/2026 09:54:00,36.77,37.71,74.48,Balanced,Balanced
+26/03/2026 09:54:30,79.44,71.89,151.33,Imbalance,Right Tibialis Anterior
+26/03/2026 09:55:00,51.7,53.55,105.25,Balanced,Balanced
+26/03/2026 09:55:30,43.49,35.19,78.68,Imbalance,Right Vastus Medialis
+26/03/2026 09:56:00,77.62,87.08,164.7,Imbalance,Left Gastrocnemius
+26/03/2026 09:56:30,49.71,40.75,90.46,Imbalance,Right Vastus Medialis
+26/03/2026 09:57:00,80.79,89.22,170.01,Imbalance,Left Peroneus Longus
+26/03/2026 09:57:30,31.03,55.27,86.3,Imbalance,Left Gluteus Maximus
+26/03/2026 09:58:00,71.53,76.41,147.94,Imbalance,Left Soleus
+26/03/2026 09:58:30,57.0,40.69,97.69,Imbalance,Right Gracilis
+26/03/2026 09:59:00,30.08,51.16,81.24,Imbalance,Left Gluteus Maximus
+26/03/2026 09:59:30,66.68,76.79,143.47,Imbalance,Left Vastus Medialis
+26/03/2026 10:00:00,46.35,41.44,87.79,Imbalance,Right Tibialis Anterior
+26/03/2026 10:00:30,50.43,56.41,106.84,Imbalance,Left Soleus
+26/03/2026 10:01:00,66.95,65.28,132.23,Balanced,Balanced
+26/03/2026 10:01:30,60.05,53.77,113.82,Imbalance,Right Peroneus Longus
+26/03/2026 10:02:00,86.82,75.17,161.99,Imbalance,Right Sartorius
+26/03/2026 10:02:30,56.36,63.46,119.82,Imbalance,Left Tibialis Anterior
+26/03/2026 10:03:00,62.39,61.05,123.44,Balanced,Balanced
+26/03/2026 10:03:30,47.51,47.1,94.61,Balanced,Balanced
+26/03/2026 10:04:00,46.7,30.0,76.7,Imbalance,Right Gluteus Minimus
+26/03/2026 10:04:30,85.84,78.23,164.07,Imbalance,Right Peroneus Longus
+26/03/2026 10:05:00,31.12,32.31,63.43,Balanced,Balanced
+26/03/2026 10:05:30,32.0,46.08,78.08,Imbalance,Left Gluteus Minimus
+26/03/2026 10:06:00,36.51,30.0,66.51,Imbalance,Right Gluteus Minimus
+26/03/2026 10:06:30,50.49,61.45,111.94,Imbalance,Left Vastus Medialis
+26/03/2026 10:07:00,68.39,61.95,130.34,Imbalance,Right Soleus
+26/03/2026 10:07:30,55.37,61.57,116.94,Imbalance,Left Peroneus Longus
+26/03/2026 10:08:00,64.16,81.44,145.6,Imbalance,Left Vastus Medialis
+26/03/2026 10:08:30,72.67,84.45,157.12,Imbalance,Left Vastus Medialis
+26/03/2026 10:09:00,61.29,62.85,124.14,Balanced,Balanced
+26/03/2026 10:09:30,85.26,81.48,166.74,Imbalance,Right Tibialis Anterior
+26/03/2026 10:10:00,59.09,68.78,127.87,Imbalance,Left Rectus Femoris
+26/03/2026 10:10:30,55.21,67.58,122.79,Imbalance,Left Sartorius
+26/03/2026 10:11:00,38.84,51.43,90.27,Imbalance,Left Gracilis
+26/03/2026 10:11:30,31.64,32.29,63.93,Balanced,Balanced
+26/03/2026 10:12:00,71.95,71.08,143.03,Balanced,Balanced
+26/03/2026 10:12:30,75.9,65.49,141.39,Imbalance,Right Vastus Lateralis
+26/03/2026 10:13:00,67.11,50.88,117.99,Imbalance,Right Semitendinosus
+26/03/2026 10:13:30,81.22,69.6,150.82,Imbalance,Right Sartorius
+26/03/2026 10:14:00,52.71,76.9,129.61,Imbalance,Left Gluteus Minimus
+26/03/2026 10:14:30,45.87,45.84,91.71,Balanced,Balanced
+26/03/2026 10:15:00,55.1,37.71,92.81,Imbalance,Right Gluteus Minimus
+26/03/2026 10:15:30,76.59,76.26,152.85,Balanced,Balanced
+26/03/2026 10:16:00,77.62,73.72,151.34,Imbalance,Right Soleus
+26/03/2026 10:16:30,58.64,66.99,125.63,Imbalance,Left Soleus
+26/03/2026 10:17:00,56.87,63.33,120.2,Imbalance,Left Soleus
+26/03/2026 10:17:30,65.06,83.03,148.09,Imbalance,Left Adductor Longus
+26/03/2026 10:18:00,52.94,35.25,88.19,Imbalance,Right Gluteus Minimus
+26/03/2026 10:18:30,89.7,90.36,180.06,Balanced,Balanced
+26/03/2026 10:19:00,48.18,30.0,78.18,Imbalance,Right Gluteus Medius
+26/03/2026 10:19:30,37.06,51.3,88.36,Imbalance,Left Biceps Femoris
+26/03/2026 10:20:00,79.67,95.0,174.67,Imbalance,Left Adductor Magnus
+26/03/2026 10:20:30,66.43,53.08,119.51,Imbalance,Right Vastus Medialis
+26/03/2026 10:21:00,30.29,30.0,60.29,Imbalance,Right Tensor Fasciae Latae
+26/03/2026 10:21:30,74.39,84.55,158.94,Imbalance,Left Soleus
+26/03/2026 10:22:00,51.61,39.75,91.36,Imbalance,Right Semimembranosus
+26/03/2026 10:22:30,89.08,69.33,158.41,Imbalance,Right Semimembranosus
+26/03/2026 10:23:00,89.22,95.0,184.22,Imbalance,Left Vastus Lateralis
+26/03/2026 10:23:30,34.23,32.64,66.87,Balanced,Balanced
+26/03/2026 10:24:00,68.63,64.08,132.71,Imbalance,Right Peroneus Longus
+26/03/2026 10:24:30,48.21,47.69,95.9,Balanced,Balanced
+26/03/2026 10:25:00,56.19,51.84,108.03,Imbalance,Right Gastrocnemius
+26/03/2026 10:25:30,89.74,88.08,177.82,Balanced,Balanced
+26/03/2026 10:26:00,59.48,49.65,109.13,Imbalance,Right Sartorius
+26/03/2026 10:26:30,75.7,75.86,151.56,Balanced,Balanced
+26/03/2026 10:27:00,74.1,95.0,169.1,Imbalance,Left Semimembranosus
+26/03/2026 10:27:30,76.53,79.69,156.22,Imbalance,Left Soleus
+26/03/2026 10:28:00,58.19,76.01,134.2,Imbalance,Left Adductor Magnus
+26/03/2026 10:28:30,68.6,68.62,137.22,Balanced,Balanced
+26/03/2026 10:29:00,89.54,89.16,178.7,Balanced,Balanced
+26/03/2026 10:29:30,45.96,32.86,78.82,Imbalance,Right Adductor Magnus
+26/03/2026 10:30:00,84.24,95.0,179.24,Imbalance,Left Vastus Medialis
+26/03/2026 10:30:30,75.12,82.98,158.1,Imbalance,Left Tibialis Anterior
+26/03/2026 10:31:00,61.34,39.09,100.43,Imbalance,Right Tensor Fasciae Latae
+26/03/2026 10:31:30,43.78,30.26,74.04,Imbalance,Right Gluteus Maximus
+26/03/2026 10:32:00,30.81,30.0,60.81,Imbalance,Right Gluteus Medius
+26/03/2026 10:32:30,42.06,37.68,79.74,Imbalance,Right Tibialis Anterior
+26/03/2026 10:33:00,85.12,70.65,155.77,Imbalance,Right Vastus Lateralis
+26/03/2026 10:33:30,65.89,64.33,130.22,Balanced,Balanced
+26/03/2026 10:34:00,56.82,55.96,112.78,Balanced,Balanced
+26/03/2026 10:34:30,63.11,48.2,111.31,Imbalance,Right Semimembranosus
+26/03/2026 10:35:00,61.36,61.17,122.53,Balanced,Balanced
+26/03/2026 10:35:30,76.52,77.71,154.23,Balanced,Balanced
+26/03/2026 10:36:00,72.14,74.03,146.17,Balanced,Balanced
+26/03/2026 10:36:30,44.7,30.0,74.7,Imbalance,Right Gluteus Maximus
+26/03/2026 10:37:00,45.19,46.63,91.82,Balanced,Balanced
+26/03/2026 10:37:30,56.1,31.29,87.39,Imbalance,Right Iliopsoas
+26/03/2026 10:38:00,46.86,38.29,85.15,Imbalance,Right Vastus Medialis
+26/03/2026 10:38:30,43.68,57.8,101.48,Imbalance,Left Semimembranosus
+26/03/2026 10:39:00,54.86,70.69,125.55,Imbalance,Left Semimembranosus
+26/03/2026 10:39:30,55.94,42.03,97.97,Imbalance,Right Adductor Magnus
+26/03/2026 10:40:00,82.37,72.17,154.54,Imbalance,Right Gastrocnemius
+26/03/2026 10:40:30,44.21,43.69,87.9,Balanced,Balanced
+26/03/2026 10:41:00,50.58,50.85,101.43,Balanced,Balanced
+26/03/2026 10:41:30,48.14,30.0,78.14,Imbalance,Right Iliopsoas
+26/03/2026 10:42:00,43.3,55.36,98.66,Imbalance,Left Adductor Magnus
+26/03/2026 10:42:30,56.81,48.32,105.13,Imbalance,Right Sartorius
+26/03/2026 10:43:00,35.25,34.58,69.83,Balanced,Balanced
+26/03/2026 10:43:30,64.72,63.71,128.43,Balanced,Balanced
+26/03/2026 10:44:00,60.5,39.08,99.58,Imbalance,Right Gluteus Medius
+26/03/2026 10:44:30,50.92,66.68,117.6,Imbalance,Left Semitendinosus
+26/03/2026 10:45:00,77.65,77.89,155.54,Balanced,Balanced
+26/03/2026 10:45:30,81.81,83.71,165.52,Balanced,Balanced
+26/03/2026 10:46:00,61.21,75.89,137.1,Imbalance,Left Sartorius
+26/03/2026 10:46:30,38.88,30.0,68.88,Imbalance,Right Gluteus Medius
+26/03/2026 10:47:00,80.43,80.46,160.89,Balanced,Balanced
+26/03/2026 10:47:30,47.99,35.35,83.34,Imbalance,Right Semimembranosus
+26/03/2026 10:48:00,58.69,59.34,118.03,Balanced,Balanced
+26/03/2026 10:48:30,78.64,79.81,158.45,Balanced,Balanced
+26/03/2026 10:49:00,40.28,34.63,74.91,Imbalance,Right Sartorius
+26/03/2026 10:49:30,89.59,95.0,184.59,Imbalance,Left Peroneus Longus
+26/03/2026 10:50:00,39.76,36.43,76.19,Imbalance,Right Gastrocnemius
+26/03/2026 10:50:30,52.26,64.97,117.23,Imbalance,Left Vastus Lateralis
+26/03/2026 10:51:00,37.45,40.97,78.42,Imbalance,Left Gastrocnemius
+26/03/2026 10:51:30,66.15,65.47,131.62,Balanced,Balanced
+26/03/2026 10:52:00,80.87,68.84,149.71,Imbalance,Right Sartorius
+26/03/2026 10:52:30,45.67,61.52,107.19,Imbalance,Left Semimembranosus
+26/03/2026 10:53:00,55.63,39.71,95.34,Imbalance,Right Semimembranosus
+26/03/2026 10:53:30,78.17,74.1,152.27,Imbalance,Right Soleus
+26/03/2026 10:54:00,44.9,43.34,88.24,Balanced,Balanced
+26/03/2026 10:54:30,51.4,51.97,103.37,Balanced,Balanced
+26/03/2026 10:55:00,88.63,95.0,183.63,Imbalance,Left Rectus Femoris
+26/03/2026 10:55:30,36.0,52.1,88.1,Imbalance,Left Gluteus Minimus
+26/03/2026 10:56:00,77.62,59.87,137.49,Imbalance,Right Gracilis
+26/03/2026 10:56:30,48.42,47.51,95.93,Balanced,Balanced
+26/03/2026 10:57:00,77.4,76.32,153.72,Balanced,Balanced
+26/03/2026 10:57:30,65.06,73.24,138.3,Imbalance,Left Peroneus Longus
+26/03/2026 10:58:00,79.48,90.05,169.53,Imbalance,Left Tibialis Anterior
+26/03/2026 10:58:30,43.98,45.9,89.88,Balanced,Balanced
+26/03/2026 10:59:00,60.55,70.14,130.69,Imbalance,Left Sartorius
+26/03/2026 10:59:30,37.69,42.45,80.14,Imbalance,Left Gastrocnemius

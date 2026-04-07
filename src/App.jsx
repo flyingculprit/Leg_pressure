@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import Papa from 'papaparse';
-import { Activity, AlertTriangle, Lock, LogIn } from 'lucide-react';
+import { Activity, AlertTriangle, Brain, Lock, LogIn } from 'lucide-react';
+import { predictMuscleFromLoads, warmupPredictor } from './lib/musclePredictor';
 
 const SHEET_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vT21luHbw-OWHxkiZ419zr41Isdun-Pw8PkAqy1n4MLypq6ffCn3_2LpaxthO_c-EzDxQEOy9AvfQq1/pub?output=csv';
 
@@ -83,6 +84,55 @@ function App() {
   const [data, setData] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
+  const [predicting, setPredicting] = useState(false);
+  const [prediction, setPrediction] = useState(null);
+  const [predictionError, setPredictionError] = useState('');
+  const [modelReady, setModelReady] = useState(false);
+
+  const getLatestRowValues = () => {
+    if (data.length === 0) return null;
+
+    const latest = data[0];
+    const left = parseFloat(latest.Left);
+    const right = parseFloat(latest.Right);
+    const totalFromSheet = parseFloat(latest.Total);
+    const total = Number.isFinite(totalFromSheet) ? totalFromSheet : (left + right);
+
+    if (!Number.isFinite(left) || !Number.isFinite(right) || !Number.isFinite(total)) {
+      return null;
+    }
+
+    return { left, right, total, time: latest.Time || 'Latest row' };
+  };
+
+  const handlePredictLatest = async () => {
+    const latest = getLatestRowValues();
+    if (!latest) {
+      setPredictionError('Latest row has invalid values.');
+      setPrediction(null);
+      return;
+    }
+
+    setPredicting(true);
+    setPredictionError('');
+
+    try {
+      const result = await predictMuscleFromLoads({
+        left: latest.left,
+        right: latest.right,
+        total: latest.total
+      });
+      setPrediction({
+        ...result,
+        input: latest
+      });
+    } catch (err) {
+      setPrediction(null);
+      setPredictionError(err.message || 'Unable to predict.');
+    } finally {
+      setPredicting(false);
+    }
+  };
 
   const fetchData = () => {
     // Only fetch if authenticated
@@ -117,6 +167,19 @@ function App() {
       interval = setInterval(fetchData, 3000);
     }
     return () => clearInterval(interval);
+  }, [isAuthenticated]);
+
+  useEffect(() => {
+    if (!isAuthenticated) return;
+
+    warmupPredictor()
+      .then(() => {
+        setModelReady(true);
+      })
+      .catch((err) => {
+        setPredictionError(err.message || 'Failed to load model files.');
+        setModelReady(false);
+      });
   }, [isAuthenticated]);
 
   // If not logged in, show login screen
@@ -156,6 +219,14 @@ function App() {
         <div className="bg-gray-950 px-6 py-5 border-b border-gray-800 flex justify-between items-center">
           <h1 className="text-xl font-bold tracking-tight text-gray-200">Live Excel Data</h1>
           <div className="flex items-center gap-4">
+            <button
+              onClick={handlePredictLatest}
+              disabled={predicting || data.length === 0 || !modelReady}
+              className="text-xs font-bold text-blue-300 hover:text-white px-3 py-1.5 rounded border border-blue-500/40 hover:bg-blue-500/20 transition-colors disabled:opacity-50 disabled:cursor-not-allowed flex items-center gap-2"
+            >
+              <Brain className="w-4 h-4" />
+              {predicting ? 'Predicting...' : (modelReady ? 'Predict Latest' : 'Model Loading...')}
+            </button>
             <div className="flex items-center gap-2 text-xs font-mono text-gray-400 px-3 py-1.5 rounded-lg bg-gray-900 border border-gray-800">
               <span className="relative flex h-2 w-2">
                 <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
@@ -174,6 +245,36 @@ function App() {
             </button>
           </div>
         </div>
+
+        {(prediction || predictionError) && (
+          <div className="px-6 py-4 border-b border-gray-800 bg-gray-900/60">
+            {predictionError && (
+              <div className="text-sm text-red-400">{predictionError}</div>
+            )}
+            {prediction && (
+              <div className="grid gap-2 sm:grid-cols-3">
+                <div>
+                  <p className="text-xs uppercase tracking-widest text-gray-500">Predicted Muscle</p>
+                  <p className="text-sm font-bold text-blue-300">{prediction.muscle || '—'}</p>
+                </div>
+                <div>
+                  <p className="text-xs uppercase tracking-widest text-gray-500">Confidence</p>
+                  <p className="text-sm font-bold text-emerald-300">
+                    {prediction.confidence != null ? `${prediction.confidence}%` : '—'}
+                  </p>
+                </div>
+                <div>
+                  <p className="text-xs uppercase tracking-widest text-gray-500">Source Row</p>
+                  <p className="text-sm font-medium text-gray-300">{prediction.input?.time || 'Latest row'}</p>
+                </div>
+                <div className="sm:col-span-3">
+                  <p className="text-xs uppercase tracking-widest text-gray-500">Relaxation Tip</p>
+                  <p className="text-sm text-gray-300">{prediction.tips || '—'}</p>
+                </div>
+              </div>
+            )}
+          </div>
+        )}
 
         {/* Data Table */}
         <div className="overflow-x-auto">
