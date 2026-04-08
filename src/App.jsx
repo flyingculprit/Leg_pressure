@@ -282,9 +282,9 @@ function App() {
             <thead>
               <tr className="bg-gray-900/50 text-xs uppercase tracking-widest text-gray-500 border-b border-gray-800">
                 <th className="px-6 py-4 font-semibold">Time</th>
-                <th className="px-6 py-4 font-semibold text-right">Left Leg (kg)</th>
-                <th className="px-6 py-4 font-semibold text-right">Right Leg (kg)</th>
-                <th className="px-6 py-4 font-semibold text-right">Total (kg)</th>
+                <th className="px-6 py-4 font-semibold text-right">Left Leg (P)</th>
+                <th className="px-6 py-4 font-semibold text-right">Right Leg (P)</th>
+                <th className="px-6 py-4 font-semibold text-right">Total (P)</th>
                 <th className="px-6 py-4 font-semibold">Status</th>
               </tr>
             </thead>

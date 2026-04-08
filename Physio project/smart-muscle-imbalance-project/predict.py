@@ -15,9 +15,9 @@ encoder = joblib.load(
 # USER INPUT
 # -----------------------------
 
-left = float(input("Enter Left Load (kg): "))
-right = float(input("Enter Right Load (kg): "))
-total = float(input("Enter Total Load (kg): "))
+left = float(input("Enter Left Load (P): "))
+right = float(input("Enter Right Load (P): "))
+total = float(input("Enter Total Load (P): "))
 
 # -----------------------------
 # FEATURE ENGINEERING
